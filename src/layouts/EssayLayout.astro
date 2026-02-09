@@ -1,0 +1,75 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import Header from "../components/Header.astro";
+import ProgressBar from "../components/ProgressBar.astro";
+import EssayNav from "../components/EssayNav.astro";
+
+interface Props {
+  title: string;
+  date: string;
+  readingTime: number;
+  sourceUrl: string;
+  slug: string;
+  wordCount: number;
+  prevEssay?: { title: string; slug: string } | null;
+  nextEssay?: { title: string; slug: string } | null;
+  currentIndex?: number;
+  totalEssays?: number;
+}
+
+const { title, date, readingTime, sourceUrl, slug, wordCount, prevEssay, nextEssay, currentIndex, totalEssays } = Astro.props;
+---
+
+<BaseLayout title={`${title} — Paul Graham`}>
+  <ProgressBar />
+  <Header />
+
+  <article class="mx-auto px-4 py-12" style="max-width: var(--reader-max-width);"
+           data-pagefind-body data-essay-slug={slug} data-word-count={String(wordCount)}>
+    <!-- Essay header -->
+    <header class="mb-10">
+      <h1 class="text-3xl sm:text-4xl font-bold tracking-tight leading-tight mb-3"
+          style="color: var(--theme-text);">
+        {title}
+      </h1>
+      <div class="flex items-center gap-3 text-sm" style="color: var(--theme-text-secondary);">
+        {date && <span>{date}</span>}
+        <span>·</span>
+        <span>{readingTime} min read</span>
+        <span>·</span>
+        <a href={sourceUrl} target="_blank" rel="noopener" class="hover:underline">
+          Original ↗
+        </a>
+      </div>
+    </header>
+
+    <!-- Essay content (rendered Markdown) -->
+    <div class="prose-pg">
+      <slot />
+    </div>
+
+    <!-- Navigation -->
+    <EssayNav
+      prevEssay={prevEssay}
+      nextEssay={nextEssay}
+      currentIndex={currentIndex}
+      totalEssays={totalEssays}
+    />
+  </article>
+
+  <script>
+    import { initSettings } from "../scripts/reader-settings";
+    initSettings();
+
+    // Keyboard navigation
+    document.addEventListener("keydown", (e) => {
+      if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) return;
+
+      const prev = document.getElementById("prev-essay") as HTMLAnchorElement | null;
+      const next = document.getElementById("next-essay") as HTMLAnchorElement | null;
+
+      if (e.key === "ArrowLeft" && prev) prev.click();
+      if (e.key === "ArrowRight" && next) next.click();
+    });
+  </script>
+</BaseLayout>

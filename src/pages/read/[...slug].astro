@@ -1,0 +1,38 @@
+---
+import { getCollection, render } from "astro:content";
+import EssayLayout from "../../layouts/EssayLayout.astro";
+
+export async function getStaticPaths() {
+  const essays = (await getCollection("essays"))
+    .sort((a, b) => a.data.dateISO.localeCompare(b.data.dateISO));
+
+  return essays.map((essay, index) => ({
+    params: { slug: essay.data.slug },
+    props: {
+      essay,
+      prevEssay: index > 0 ? { title: essays[index - 1].data.title, slug: essays[index - 1].data.slug } : null,
+      nextEssay: index < essays.length - 1 ? { title: essays[index + 1].data.title, slug: essays[index + 1].data.slug } : null,
+      currentIndex: index,
+      totalEssays: essays.length,
+    },
+  }));
+}
+
+const { essay, prevEssay, nextEssay, currentIndex, totalEssays } = Astro.props;
+const { Content } = await render(essay);
+---
+
+<EssayLayout
+  title={essay.data.title}
+  date={essay.data.date}
+  readingTime={essay.data.readingTime}
+  sourceUrl={essay.data.sourceUrl}
+  slug={essay.data.slug}
+  wordCount={essay.data.wordCount}
+  prevEssay={prevEssay}
+  nextEssay={nextEssay}
+  currentIndex={currentIndex}
+  totalEssays={totalEssays}
+>
+  <Content />
+</EssayLayout>
