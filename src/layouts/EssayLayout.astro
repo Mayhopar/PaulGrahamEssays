@@ -61,7 +61,9 @@ const { title, date, readingTime, sourceUrl, slug, wordCount, prevEssay, nextEss
     import { initSettings } from "../scripts/reader-settings";
     import { initScrollTracking } from "../scripts/reading-history";
     import { initHighlightUI } from "../scripts/annotations";
+    import { initSwipeNavigation } from "../scripts/swipe";
     initSettings();
+    initSwipeNavigation();
 
     const slug = document.querySelector("[data-essay-slug]")?.getAttribute("data-essay-slug");
     const wordCount = parseInt(document.querySelector("[data-essay-slug]")?.getAttribute("data-word-count") || "0");
