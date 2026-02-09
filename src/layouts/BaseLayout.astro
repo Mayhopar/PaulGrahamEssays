@@ -1,5 +1,6 @@
 ---
 import "../styles/global.css";
+import ReaderControls from "../components/ReaderControls.astro";
 
 interface Props {
   title: string;
@@ -33,5 +34,6 @@ const { title, description = "All Paul Graham essays in a beautifully typeset we
   </head>
   <body class="min-h-screen transition-colors duration-300">
     <slot />
+    <ReaderControls />
   </body>
 </html>

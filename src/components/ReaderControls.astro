@@ -1,0 +1,192 @@
+<div id="reader-controls" class="fixed inset-0 z-[200] hidden">
+  <!-- Backdrop -->
+  <div id="controls-backdrop" class="absolute inset-0 bg-black/40"></div>
+
+  <!-- Panel -->
+  <div class="absolute right-0 top-0 bottom-0 w-80 max-w-full p-6 overflow-y-auto shadow-xl"
+       style="background-color: var(--theme-bg); border-left: 1px solid var(--theme-border);">
+    <div class="flex items-center justify-between mb-8">
+      <h2 class="text-lg font-semibold" style="color: var(--theme-text);">Reading Settings</h2>
+      <button id="close-controls" class="p-1 hover:opacity-70" style="color: var(--theme-text);">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
+             stroke="currentColor" stroke-width="2"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
+      </button>
+    </div>
+
+    <!-- Theme -->
+    <div class="mb-8">
+      <label class="text-xs uppercase tracking-wide font-medium mb-3 block"
+             style="color: var(--theme-text-secondary);">Theme</label>
+      <div class="flex gap-2">
+        <button class="theme-btn flex-1 py-2 px-3 rounded-lg border text-sm" data-theme-value="light"
+                style="background: #fff; color: #1a1a1a; border-color: var(--theme-border);">
+          Light
+        </button>
+        <button class="theme-btn flex-1 py-2 px-3 rounded-lg border text-sm" data-theme-value="dark"
+                style="background: #111; color: #e5e5e5; border-color: var(--theme-border);">
+          Dark
+        </button>
+        <button class="theme-btn flex-1 py-2 px-3 rounded-lg border text-sm" data-theme-value="sepia"
+                style="background: #f4ecd8; color: #433422; border-color: var(--theme-border);">
+          Sepia
+        </button>
+      </div>
+    </div>
+
+    <!-- Font Family -->
+    <div class="mb-8">
+      <label class="text-xs uppercase tracking-wide font-medium mb-3 block"
+             style="color: var(--theme-text-secondary);">Font</label>
+      <div class="flex gap-2">
+        <button class="font-btn flex-1 py-2 px-3 rounded-lg border text-sm" data-font="sans"
+                style="font-family: system-ui; border-color: var(--theme-border); color: var(--theme-text);">
+          Sans
+        </button>
+        <button class="font-btn flex-1 py-2 px-3 rounded-lg border text-sm" data-font="serif"
+                style="font-family: Georgia; border-color: var(--theme-border); color: var(--theme-text);">
+          Serif
+        </button>
+        <button class="font-btn flex-1 py-2 px-3 rounded-lg border text-sm" data-font="dyslexic"
+                style="border-color: var(--theme-border); color: var(--theme-text);">
+          Dyslexic
+        </button>
+      </div>
+    </div>
+
+    <!-- Font Size -->
+    <div class="mb-8">
+      <label class="text-xs uppercase tracking-wide font-medium mb-3 block"
+             style="color: var(--theme-text-secondary);">Font Size</label>
+      <div class="flex items-center gap-4">
+        <button id="font-size-down" class="p-2 rounded-lg border"
+                style="border-color: var(--theme-border); color: var(--theme-text);">
+          A<span class="text-xs">-</span>
+        </button>
+        <div class="flex-1 h-1 rounded-full" style="background-color: var(--theme-border);">
+          <div id="font-size-indicator" class="h-1 rounded-full" style="background-color: var(--theme-accent);"></div>
+        </div>
+        <button id="font-size-up" class="p-2 rounded-lg border"
+                style="border-color: var(--theme-border); color: var(--theme-text);">
+          A<span class="text-lg">+</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Line Height -->
+    <div class="mb-8">
+      <label class="text-xs uppercase tracking-wide font-medium mb-3 block"
+             style="color: var(--theme-text-secondary);">Line Spacing</label>
+      <div class="flex gap-2">
+        <button class="lh-btn flex-1 py-2 px-3 rounded-lg border text-sm" data-lh="0"
+                style="border-color: var(--theme-border); color: var(--theme-text);">
+          Compact
+        </button>
+        <button class="lh-btn flex-1 py-2 px-3 rounded-lg border text-sm" data-lh="1"
+                style="border-color: var(--theme-border); color: var(--theme-text);">
+          Normal
+        </button>
+        <button class="lh-btn flex-1 py-2 px-3 rounded-lg border text-sm" data-lh="2"
+                style="border-color: var(--theme-border); color: var(--theme-text);">
+          Relaxed
+        </button>
+      </div>
+    </div>
+
+    <!-- Content Width -->
+    <div class="mb-8">
+      <label class="text-xs uppercase tracking-wide font-medium mb-3 block"
+             style="color: var(--theme-text-secondary);">Content Width</label>
+      <div class="flex gap-2">
+        <button class="width-btn flex-1 py-2 px-3 rounded-lg border text-sm" data-width="narrow"
+                style="border-color: var(--theme-border); color: var(--theme-text);">
+          Narrow
+        </button>
+        <button class="width-btn flex-1 py-2 px-3 rounded-lg border text-sm" data-width="medium"
+                style="border-color: var(--theme-border); color: var(--theme-text);">
+          Medium
+        </button>
+        <button class="width-btn flex-1 py-2 px-3 rounded-lg border text-sm" data-width="wide"
+                style="border-color: var(--theme-border); color: var(--theme-text);">
+          Wide
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  import { loadSettings, saveSettings } from "../scripts/reader-settings";
+
+  const panel = document.getElementById("reader-controls")!;
+  const backdrop = document.getElementById("controls-backdrop")!;
+  const toggle = document.getElementById("settings-toggle");
+  const close = document.getElementById("close-controls")!;
+
+  function openPanel() { panel.classList.remove("hidden"); }
+  function closePanel() { panel.classList.add("hidden"); }
+
+  toggle?.addEventListener("click", openPanel);
+  close.addEventListener("click", closePanel);
+  backdrop.addEventListener("click", closePanel);
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") closePanel();
+  });
+
+  // Theme buttons
+  document.querySelectorAll(".theme-btn").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const settings = loadSettings();
+      settings.theme = (btn as HTMLElement).dataset.themeValue as any;
+      saveSettings(settings);
+    });
+  });
+
+  // Font buttons
+  document.querySelectorAll(".font-btn").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const settings = loadSettings();
+      settings.fontFamily = (btn as HTMLElement).dataset.font as any;
+      saveSettings(settings);
+    });
+  });
+
+  // Font size
+  document.getElementById("font-size-down")?.addEventListener("click", () => {
+    const settings = loadSettings();
+    settings.fontSize = Math.max(0, settings.fontSize - 1);
+    saveSettings(settings);
+    updateSizeIndicator(settings.fontSize);
+  });
+  document.getElementById("font-size-up")?.addEventListener("click", () => {
+    const settings = loadSettings();
+    settings.fontSize = Math.min(4, settings.fontSize + 1);
+    saveSettings(settings);
+    updateSizeIndicator(settings.fontSize);
+  });
+
+  function updateSizeIndicator(level: number) {
+    const indicator = document.getElementById("font-size-indicator");
+    if (indicator) indicator.style.width = `${((level + 1) / 5) * 100}%`;
+  }
+
+  // Line height
+  document.querySelectorAll(".lh-btn").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const settings = loadSettings();
+      settings.lineHeight = parseInt((btn as HTMLElement).dataset.lh || "1");
+      saveSettings(settings);
+    });
+  });
+
+  // Width
+  document.querySelectorAll(".width-btn").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const settings = loadSettings();
+      settings.contentWidth = (btn as HTMLElement).dataset.width as any;
+      saveSettings(settings);
+    });
+  });
+
+  // Initialize indicator
+  updateSizeIndicator(loadSettings().fontSize);
+</script>
