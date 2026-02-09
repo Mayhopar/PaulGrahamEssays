@@ -1,0 +1,57 @@
+<div id="shortcuts-overlay" class="fixed inset-0 z-[300] hidden flex items-center justify-center">
+  <div class="absolute inset-0 bg-black/50" id="shortcuts-backdrop"></div>
+  <div class="relative rounded-xl shadow-xl p-8 max-w-md w-full mx-4 border"
+       style="background-color: var(--theme-bg); border-color: var(--theme-border);">
+    <h2 class="text-lg font-semibold mb-6" style="color: var(--theme-text);">Keyboard Shortcuts</h2>
+    <div class="grid grid-cols-2 gap-3 text-sm">
+      <div class="flex items-center gap-3">
+        <kbd class="px-2 py-0.5 rounded border text-xs font-mono"
+             style="border-color: var(--theme-border); color: var(--theme-text);">←/→</kbd>
+        <span style="color: var(--theme-text-secondary);">Prev/Next essay</span>
+      </div>
+      <div class="flex items-center gap-3">
+        <kbd class="px-2 py-0.5 rounded border text-xs font-mono"
+             style="border-color: var(--theme-border); color: var(--theme-text);">j/k</kbd>
+        <span style="color: var(--theme-text-secondary);">Scroll down/up</span>
+      </div>
+      <div class="flex items-center gap-3">
+        <kbd class="px-2 py-0.5 rounded border text-xs font-mono"
+             style="border-color: var(--theme-border); color: var(--theme-text);">s</kbd>
+        <span style="color: var(--theme-text-secondary);">Focus search</span>
+      </div>
+      <div class="flex items-center gap-3">
+        <kbd class="px-2 py-0.5 rounded border text-xs font-mono"
+             style="border-color: var(--theme-border); color: var(--theme-text);">d</kbd>
+        <span style="color: var(--theme-text-secondary);">Cycle theme</span>
+      </div>
+      <div class="flex items-center gap-3">
+        <kbd class="px-2 py-0.5 rounded border text-xs font-mono"
+             style="border-color: var(--theme-border); color: var(--theme-text);">+/-</kbd>
+        <span style="color: var(--theme-text-secondary);">Font size</span>
+      </div>
+      <div class="flex items-center gap-3">
+        <kbd class="px-2 py-0.5 rounded border text-xs font-mono"
+             style="border-color: var(--theme-border); color: var(--theme-text);">?</kbd>
+        <span style="color: var(--theme-text-secondary);">This overlay</span>
+      </div>
+      <div class="flex items-center gap-3">
+        <kbd class="px-2 py-0.5 rounded border text-xs font-mono"
+             style="border-color: var(--theme-border); color: var(--theme-text);">Esc</kbd>
+        <span style="color: var(--theme-text-secondary);">Close panels</span>
+      </div>
+    </div>
+    <button id="close-shortcuts" class="mt-6 w-full py-2 rounded-lg border text-sm"
+            style="border-color: var(--theme-border); color: var(--theme-text);">
+      Close
+    </button>
+  </div>
+</div>
+
+<script>
+  document.getElementById("shortcuts-backdrop")?.addEventListener("click", () => {
+    document.getElementById("shortcuts-overlay")?.classList.add("hidden");
+  });
+  document.getElementById("close-shortcuts")?.addEventListener("click", () => {
+    document.getElementById("shortcuts-overlay")?.classList.add("hidden");
+  });
+</script>

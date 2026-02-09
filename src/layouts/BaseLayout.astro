@@ -1,6 +1,7 @@
 ---
 import "../styles/global.css";
 import ReaderControls from "../components/ReaderControls.astro";
+import ShortcutsOverlay from "../components/ShortcutsOverlay.astro";
 
 interface Props {
   title: string;
@@ -35,5 +36,10 @@ const { title, description = "All Paul Graham essays in a beautifully typeset we
   <body class="min-h-screen transition-colors duration-300">
     <slot />
     <ReaderControls />
+    <ShortcutsOverlay />
+    <script>
+      import { initKeyboardShortcuts } from "../scripts/keyboard-shortcuts";
+      initKeyboardShortcuts();
+    </script>
   </body>
 </html>
