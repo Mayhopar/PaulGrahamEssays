@@ -1,13 +1,94 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
+import Header from "../components/Header.astro";
+import EssayCard from "../components/EssayCard.astro";
+import SortControls from "../components/SortControls.astro";
+import { getCollection } from "astro:content";
+
+const essays = (await getCollection("essays"))
+  .sort((a, b) => b.data.dateISO.localeCompare(a.data.dateISO));
+
+const totalWords = essays.reduce((sum, e) => sum + e.data.wordCount, 0);
 ---
 
 <BaseLayout title="Paul Graham Essays">
-  <main class="max-w-3xl mx-auto p-8">
-    <h1 class="text-4xl font-bold tracking-tight mb-4"
-        style="color: var(--theme-text);">
-      Paul Graham Essays
-    </h1>
-    <p style="color: var(--theme-text-secondary);">Coming soon.</p>
+  <Header currentPage="browse" />
+
+  <main class="max-w-3xl mx-auto px-4 py-8">
+    <!-- Stats -->
+    <div class="mb-8">
+      <h1 class="text-3xl font-bold tracking-tight mb-2" style="color: var(--theme-text);">
+        Paul Graham Essays
+      </h1>
+      <p class="text-sm" style="color: var(--theme-text-secondary);">
+        {essays.length} essays · {Math.round(totalWords / 1000)}k words
+        <span id="reading-stats"></span>
+      </p>
+    </div>
+
+    <!-- Search -->
+    <div class="mb-6">
+      <input
+        type="text"
+        id="search-input"
+        placeholder="Search essays..."
+        class="w-full px-4 py-2.5 rounded-lg border text-base outline-none"
+        style="background-color: var(--theme-surface); border-color: var(--theme-border); color: var(--theme-text);"
+      />
+    </div>
+
+    <SortControls />
+
+    <!-- Essay list -->
+    <div id="essay-list">
+      {essays.map((essay) => (
+        <EssayCard
+          title={essay.data.title}
+          date={essay.data.date}
+          readingTime={essay.data.readingTime}
+          slug={essay.data.slug}
+        />
+      ))}
+    </div>
   </main>
+
+  <script>
+    import { initSettings } from "../scripts/reader-settings";
+    initSettings();
+
+    // Client-side search filtering
+    const input = document.getElementById("search-input") as HTMLInputElement;
+    const list = document.getElementById("essay-list")!;
+    const cards = Array.from(list.children) as HTMLElement[];
+
+    input?.addEventListener("input", () => {
+      const q = input.value.toLowerCase();
+      cards.forEach((card) => {
+        const title = card.querySelector("h2")?.textContent?.toLowerCase() || "";
+        card.style.display = title.includes(q) ? "" : "none";
+      });
+    });
+
+    // Sort controls
+    document.querySelectorAll(".sort-btn").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const sort = (btn as HTMLElement).dataset.sort;
+        const sorted = [...cards].sort((a, b) => {
+          if (sort === "alpha") {
+            const tA = a.querySelector("h2")?.textContent || "";
+            const tB = b.querySelector("h2")?.textContent || "";
+            return tA.localeCompare(tB);
+          }
+          if (sort === "time") {
+            const tA = parseInt(a.querySelector(".text-sm span:last-child")?.textContent || "0");
+            const tB = parseInt(b.querySelector(".text-sm span:last-child")?.textContent || "0");
+            return tA - tB;
+          }
+          // date (default): already in DOM order
+          return 0;
+        });
+        sorted.forEach((card) => list.appendChild(card));
+      });
+    });
+  </script>
 </BaseLayout>
