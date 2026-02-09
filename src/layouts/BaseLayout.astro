@@ -1,0 +1,37 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = "All Paul Graham essays in a beautifully typeset web book." } = Astro.props;
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <title>{title}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Inline script to prevent FOUC: apply theme before paint -->
+    <script is:inline>
+      (function() {
+        try {
+          const s = JSON.parse(localStorage.getItem("pg-reader-settings") || "{}");
+          if (s.theme) document.documentElement.setAttribute("data-theme", s.theme);
+        } catch {}
+      })();
+    </script>
+  </head>
+  <body class="min-h-screen transition-colors duration-300">
+    <slot />
+  </body>
+</html>

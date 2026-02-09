@@ -1,15 +1,13 @@
 ---
-import "../styles/global.css";
+import BaseLayout from "../layouts/BaseLayout.astro";
 ---
 
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Paul Graham Essays</title>
-  </head>
-  <body class="bg-white text-gray-900">
-    <h1 class="text-3xl font-bold p-8">Paul Graham Essays</h1>
-    <p class="px-8">Coming soon.</p>
-  </body>
-</html>
+<BaseLayout title="Paul Graham Essays">
+  <main class="max-w-3xl mx-auto p-8">
+    <h1 class="text-4xl font-bold tracking-tight mb-4"
+        style="color: var(--theme-text);">
+      Paul Graham Essays
+    </h1>
+    <p style="color: var(--theme-text-secondary);">Coming soon.</p>
+  </main>
+</BaseLayout>

@@ -1,1 +1,53 @@
 @import "tailwindcss";
+
+@theme {
+  --color-bg: var(--theme-bg);
+  --color-text: var(--theme-text);
+  --color-text-secondary: var(--theme-text-secondary);
+  --color-border: var(--theme-border);
+  --color-surface: var(--theme-surface);
+  --color-accent: var(--theme-accent);
+}
+
+:root {
+  /* Light theme (default) */
+  --theme-bg: #ffffff;
+  --theme-text: #1a1a1a;
+  --theme-text-secondary: #6b7280;
+  --theme-border: #e5e7eb;
+  --theme-surface: #f9fafb;
+  --theme-accent: #2563eb;
+
+  /* Reader settings defaults */
+  --reader-font-size: 18px;
+  --reader-line-height: 1.7;
+  --reader-max-width: 65ch;
+  --reader-font-family: system-ui, -apple-system, sans-serif;
+}
+
+[data-theme="dark"] {
+  --theme-bg: #111111;
+  --theme-text: #e5e5e5;
+  --theme-text-secondary: #9ca3af;
+  --theme-border: #2d2d2d;
+  --theme-surface: #1a1a1a;
+  --theme-accent: #60a5fa;
+}
+
+[data-theme="sepia"] {
+  --theme-bg: #f4ecd8;
+  --theme-text: #433422;
+  --theme-text-secondary: #78716c;
+  --theme-border: #d6ceb8;
+  --theme-surface: #ebe3cf;
+  --theme-accent: #92400e;
+}
+
+body {
+  background-color: var(--theme-bg);
+  color: var(--theme-text);
+  font-family: var(--reader-font-family);
+  font-size: var(--reader-font-size);
+  line-height: var(--reader-line-height);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
