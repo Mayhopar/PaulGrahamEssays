@@ -59,7 +59,12 @@ const { title, date, readingTime, sourceUrl, slug, wordCount, prevEssay, nextEss
 
   <script>
     import { initSettings } from "../scripts/reader-settings";
+    import { initScrollTracking } from "../scripts/reading-history";
     initSettings();
+
+    const slug = document.querySelector("[data-essay-slug]")?.getAttribute("data-essay-slug");
+    const wordCount = parseInt(document.querySelector("[data-essay-slug]")?.getAttribute("data-word-count") || "0");
+    if (slug) initScrollTracking(slug, wordCount);
 
     // Keyboard navigation
     document.addEventListener("keydown", (e) => {

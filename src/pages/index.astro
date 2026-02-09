@@ -54,7 +54,15 @@ const totalWords = essays.reduce((sum, e) => sum + e.data.wordCount, 0);
 
   <script>
     import { initSettings } from "../scripts/reader-settings";
+    import { initReadIndicators, getStats } from "../scripts/reading-history";
     initSettings();
+    initReadIndicators();
+
+    const stats = getStats();
+    const statsEl = document.getElementById("reading-stats");
+    if (statsEl && stats.essaysRead > 0) {
+      statsEl.textContent = ` · ${stats.essaysRead} read`;
+    }
 
     // Client-side search filtering
     const input = document.getElementById("search-input") as HTMLInputElement;
