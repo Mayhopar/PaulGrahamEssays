@@ -1,3 +1,5 @@
+import { navigate } from "astro:transitions/client";
+
 export function initSwipeNavigation(): void {
   let startX = 0;
   let startY = 0;
@@ -15,14 +17,33 @@ export function initSwipeNavigation(): void {
 
     // Only trigger if horizontal swipe is dominant and significant
     if (Math.abs(diffX) > 80 && Math.abs(diffX) > Math.abs(diffY) * 2) {
+      // Try BaseLayout links first
+      const prev = document.getElementById("prev-essay") as HTMLAnchorElement | null;
+      const next = document.getElementById("next-essay") as HTMLAnchorElement | null;
+
       if (diffX > 0) {
         // Swipe right → previous
-        const prev = document.getElementById("prev-essay") as HTMLAnchorElement | null;
-        prev?.click();
+        if (prev) {
+          prev.click();
+        } else {
+          // ReaderLayout fallback: use data attributes on #essay-content
+          const url = document.getElementById("essay-content")?.dataset.prevUrl;
+          if (url) {
+            document.documentElement.dataset.navDirection = "prev";
+            navigate(url);
+          }
+        }
       } else {
         // Swipe left → next
-        const next = document.getElementById("next-essay") as HTMLAnchorElement | null;
-        next?.click();
+        if (next) {
+          next.click();
+        } else {
+          const url = document.getElementById("essay-content")?.dataset.nextUrl;
+          if (url) {
+            document.documentElement.dataset.navDirection = "next";
+            navigate(url);
+          }
+        }
       }
     }
   }, { passive: true });

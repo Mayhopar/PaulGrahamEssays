@@ -10,12 +10,12 @@
 }
 
 :root {
-  /* Light theme (default) */
+  /* White theme (default) */
   --theme-bg: #ffffff;
   --theme-text: #1a1a1a;
   --theme-text-secondary: #6b7280;
   --theme-border: #e5e7eb;
-  --theme-surface: #f9fafb;
+  --theme-surface: #f3f4f6;
   --theme-accent: #2563eb;
 
   /* Reader settings defaults */
@@ -25,22 +25,31 @@
   --reader-font-family: system-ui, -apple-system, sans-serif;
 }
 
-[data-theme="dark"] {
-  --theme-bg: #111111;
-  --theme-text: #e5e5e5;
-  --theme-text-secondary: #9ca3af;
-  --theme-border: #2d2d2d;
-  --theme-surface: #1a1a1a;
-  --theme-accent: #60a5fa;
-}
-
-[data-theme="sepia"] {
-  --theme-bg: #f4ecd8;
-  --theme-text: #433422;
+[data-theme="tan"] {
+  --theme-bg: #f5f0e8;
+  --theme-text: #3d3529;
   --theme-text-secondary: #78716c;
   --theme-border: #d6ceb8;
   --theme-surface: #ebe3cf;
   --theme-accent: #92400e;
+}
+
+[data-theme="grey"] {
+  --theme-bg: #2a2a2e;
+  --theme-text: #d4d4d8;
+  --theme-text-secondary: #a1a1aa;
+  --theme-border: #3f3f46;
+  --theme-surface: #35353a;
+  --theme-accent: #818cf8;
+}
+
+[data-theme="black"] {
+  --theme-bg: #0a0a0a;
+  --theme-text: #e5e5e5;
+  --theme-text-secondary: #a3a3a3;
+  --theme-border: #262626;
+  --theme-surface: #171717;
+  --theme-accent: #60a5fa;
 }
 
 body {
@@ -75,8 +84,12 @@ body {
   color: var(--theme-text-secondary);
 }
 
+.prose-pg strong {
+  font-weight: 600;
+}
+
 .prose-pg h2, .prose-pg h3 {
-  font-weight: 700;
+  font-weight: 600;
   margin-top: 2em;
   margin-bottom: 0.75em;
   color: var(--theme-text);

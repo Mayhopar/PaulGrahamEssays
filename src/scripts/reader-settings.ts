@@ -1,7 +1,7 @@
 const STORAGE_KEY = "pg-reader-settings";
 
 interface ReaderSettings {
-  theme: "light" | "dark" | "sepia";
+  theme: "white" | "tan" | "grey" | "black";
   fontFamily: "sans" | "serif" | "dyslexic";
   fontSize: number; // index 0-4
   lineHeight: number; // index 0-2
@@ -9,7 +9,7 @@ interface ReaderSettings {
 }
 
 const DEFAULTS: ReaderSettings = {
-  theme: "light",
+  theme: "white",
   fontFamily: "sans",
   fontSize: 2,
   lineHeight: 1,
@@ -25,10 +25,23 @@ const FONT_FAMILIES = {
   dyslexic: "'OpenDyslexic', system-ui, sans-serif",
 };
 
+// Migrate old theme names to new ones
+const THEME_MIGRATION: Record<string, ReaderSettings["theme"]> = {
+  light: "white",
+  sepia: "tan",
+  dark: "black",
+};
+
 export function loadSettings(): ReaderSettings {
   try {
     const stored = localStorage.getItem(STORAGE_KEY);
-    if (stored) return { ...DEFAULTS, ...JSON.parse(stored) };
+    if (stored) {
+      const parsed = { ...DEFAULTS, ...JSON.parse(stored) };
+      if (THEME_MIGRATION[parsed.theme]) {
+        parsed.theme = THEME_MIGRATION[parsed.theme];
+      }
+      return parsed;
+    }
   } catch {}
   return { ...DEFAULTS };
 }
@@ -41,8 +54,12 @@ export function saveSettings(settings: ReaderSettings): void {
 export function applySettings(settings: ReaderSettings): void {
   const root = document.documentElement;
 
-  // Theme
-  root.setAttribute("data-theme", settings.theme);
+  // Theme — "white" is the :root default, so remove attribute for it
+  if (settings.theme === "white") {
+    root.removeAttribute("data-theme");
+  } else {
+    root.setAttribute("data-theme", settings.theme);
+  }
 
   // Font
   root.style.setProperty("--reader-font-family", FONT_FAMILIES[settings.fontFamily]);
@@ -53,7 +70,7 @@ export function applySettings(settings: ReaderSettings): void {
 
 export function cycleTheme(): ReaderSettings {
   const settings = loadSettings();
-  const themes: ReaderSettings["theme"][] = ["light", "dark", "sepia"];
+  const themes: ReaderSettings["theme"][] = ["white", "tan", "grey", "black"];
   const idx = themes.indexOf(settings.theme);
   settings.theme = themes[(idx + 1) % themes.length];
   saveSettings(settings);

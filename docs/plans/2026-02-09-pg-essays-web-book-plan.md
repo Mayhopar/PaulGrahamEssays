@@ -870,7 +870,7 @@ const base = import.meta.env.BASE_URL;
     <a href={`${base}read/${prevEssay.slug}`}
        class="flex-1 group text-left"
        id="prev-essay">
-      <span class="text-xs uppercase tracking-wide" style="color: var(--theme-text-secondary);">
+      <span class="text-xs  tracking-wide" style="color: var(--theme-text-secondary);">
         ← Previous
       </span>
       <p class="text-sm font-medium mt-1 group-hover:opacity-70 transition-opacity"
@@ -890,7 +890,7 @@ const base = import.meta.env.BASE_URL;
     <a href={`${base}read/${nextEssay.slug}`}
        class="flex-1 group text-right"
        id="next-essay">
-      <span class="text-xs uppercase tracking-wide" style="color: var(--theme-text-secondary);">
+      <span class="text-xs  tracking-wide" style="color: var(--theme-text-secondary);">
         Next →
       </span>
       <p class="text-sm font-medium mt-1 group-hover:opacity-70 transition-opacity"
@@ -1219,7 +1219,7 @@ Create `src/components/ReaderControls.astro`:
 
     <!-- Theme -->
     <div class="mb-8">
-      <label class="text-xs uppercase tracking-wide font-medium mb-3 block"
+      <label class="text-xs  tracking-wide font-medium mb-3 block"
              style="color: var(--theme-text-secondary);">Theme</label>
       <div class="flex gap-2">
         <button class="theme-btn flex-1 py-2 px-3 rounded-lg border text-sm" data-theme-value="light"
@@ -1239,7 +1239,7 @@ Create `src/components/ReaderControls.astro`:
 
     <!-- Font Family -->
     <div class="mb-8">
-      <label class="text-xs uppercase tracking-wide font-medium mb-3 block"
+      <label class="text-xs  tracking-wide font-medium mb-3 block"
              style="color: var(--theme-text-secondary);">Font</label>
       <div class="flex gap-2">
         <button class="font-btn flex-1 py-2 px-3 rounded-lg border text-sm" data-font="sans"
@@ -1259,7 +1259,7 @@ Create `src/components/ReaderControls.astro`:
 
     <!-- Font Size -->
     <div class="mb-8">
-      <label class="text-xs uppercase tracking-wide font-medium mb-3 block"
+      <label class="text-xs  tracking-wide font-medium mb-3 block"
              style="color: var(--theme-text-secondary);">Font Size</label>
       <div class="flex items-center gap-4">
         <button id="font-size-down" class="p-2 rounded-lg border"
@@ -1278,7 +1278,7 @@ Create `src/components/ReaderControls.astro`:
 
     <!-- Line Height -->
     <div class="mb-8">
-      <label class="text-xs uppercase tracking-wide font-medium mb-3 block"
+      <label class="text-xs  tracking-wide font-medium mb-3 block"
              style="color: var(--theme-text-secondary);">Line Spacing</label>
       <div class="flex gap-2">
         <button class="lh-btn flex-1 py-2 px-3 rounded-lg border text-sm" data-lh="0"
@@ -1298,7 +1298,7 @@ Create `src/components/ReaderControls.astro`:
 
     <!-- Content Width -->
     <div class="mb-8">
-      <label class="text-xs uppercase tracking-wide font-medium mb-3 block"
+      <label class="text-xs  tracking-wide font-medium mb-3 block"
              style="color: var(--theme-text-secondary);">Content Width</label>
       <div class="flex gap-2">
         <button class="width-btn flex-1 py-2 px-3 rounded-lg border text-sm" data-width="narrow"

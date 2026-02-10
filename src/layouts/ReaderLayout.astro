@@ -1,0 +1,701 @@
+---
+import "../styles/global.css";
+import ShortcutsOverlay from "../components/ShortcutsOverlay.astro";
+import { ViewTransitions } from "astro:transitions";
+
+interface EssayLink {
+  title: string;
+  slug: string;
+  date: string;
+  readingTime: number;
+  sourceUrl: string;
+}
+
+interface Props {
+  title: string;
+  date: string;
+  readingTime: number;
+  sourceUrl: string;
+  slug: string;
+  wordCount: number;
+  allEssays: EssayLink[];
+  currentIndex: number;
+}
+
+const { title, date, readingTime, sourceUrl, slug, wordCount, allEssays, currentIndex } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const nextUrl = currentIndex < allEssays.length - 1 ? `${base}/read/${allEssays[currentIndex + 1].slug}` : "";
+const prevUrl = currentIndex > 0 ? `${base}/read/${allEssays[currentIndex - 1].slug}` : "";
+const nextEssay = currentIndex < allEssays.length - 1 ? allEssays[currentIndex + 1] : null;
+const prevEssay = currentIndex > 0 ? allEssays[currentIndex - 1] : null;
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="All Paul Graham essays in a beautifully typeset web book." />
+    <title>{title} — Paul Graham</title>
+    <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
+    <link rel="icon" type="image/x-icon" href={`${base}/favicon.ico`} />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <ViewTransitions />
+    <script is:inline>
+      (function() {
+        try {
+          const s = JSON.parse(localStorage.getItem("pg-reader-settings") || "{}");
+          const migrate = { light: "white", sepia: "tan", dark: "black" };
+          const theme = migrate[s.theme] || s.theme;
+          if (theme && theme !== "white") document.documentElement.setAttribute("data-theme", theme);
+        } catch {}
+      })();
+    </script>
+    <style is:global>
+      /* Slide-up + dissolve (going to NEXT essay) */
+      @keyframes slide-up-old {
+        from { transform: translateY(0); opacity: 1; }
+        to   { transform: translateY(-25%); opacity: 0; }
+      }
+      @keyframes slide-up-new {
+        from { transform: translateY(15%); opacity: 0; }
+        to   { transform: translateY(0); opacity: 1; }
+      }
+
+      /* Slide-down + dissolve (going to PREVIOUS essay) */
+      @keyframes slide-down-old {
+        from { transform: translateY(0); opacity: 1; }
+        to   { transform: translateY(25%); opacity: 0; }
+      }
+      @keyframes slide-down-new {
+        from { transform: translateY(-15%); opacity: 0; }
+        to   { transform: translateY(0); opacity: 1; }
+      }
+
+      /* Applied via [data-nav-direction] on html */
+      html[data-nav-direction="next"] ::view-transition-old(essay) {
+        animation: slide-up-old 0.6s cubic-bezier(0.22, 1, 0.36, 1) both;
+      }
+      html[data-nav-direction="next"] ::view-transition-new(essay) {
+        animation: slide-up-new 0.6s cubic-bezier(0.22, 1, 0.36, 1) both;
+      }
+      html[data-nav-direction="prev"] ::view-transition-old(essay) {
+        animation: slide-down-old 0.6s cubic-bezier(0.22, 1, 0.36, 1) both;
+      }
+      html[data-nav-direction="prev"] ::view-transition-new(essay) {
+        animation: slide-down-new 0.6s cubic-bezier(0.22, 1, 0.36, 1) both;
+      }
+
+      /* Title morph: group handles position travel */
+      ::view-transition-group(essay-title) {
+        animation-duration: 0.65s;
+        animation-timing-function: cubic-bezier(0.22, 1, 0.36, 1);
+      }
+      ::view-transition-old(essay-title) {
+        animation: none;
+        opacity: 0;
+      }
+      ::view-transition-new(essay-title) {
+        animation: none;
+      }
+
+      /* Body text fades in after header travels */
+      @keyframes content-fade-in {
+        from { opacity: 0; transform: translateY(8px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+      .prose-pg {
+        animation: content-fade-in 0.7s cubic-bezier(0.22, 1, 0.36, 1) 0.35s both;
+      }
+
+      /* Peek layers: elegant CSS transition for show/hide */
+      #peek-next, #peek-prev {
+        transition: opacity 0.3s ease;
+      }
+      #peek-next.peek-visible, #peek-prev.peek-visible {
+        opacity: 1;
+      }
+
+      /* Sidebar stays put during transitions */
+      ::view-transition-old(sidebar),
+      ::view-transition-new(sidebar) {
+        animation: none;
+      }
+      ::view-transition-old(settings),
+      ::view-transition-new(settings) {
+        animation: none;
+      }
+    </style>
+  </head>
+  <body class="h-screen overflow-hidden bg-bg transition-colors duration-300">
+
+    <!-- MOBILE TOOLBAR -->
+    <div class="fixed inset-x-0 top-0 z-[60] flex h-12 items-center justify-between bg-bg/95 px-3 backdrop-blur-sm lg:hidden">
+      <button id="open-left-drawer" class="flex h-9 w-9 items-center justify-center rounded-lg text-text active:bg-border/40" aria-label="Open essay list">
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><line x1="3" y1="5" x2="17" y2="5"/><line x1="3" y1="10" x2="17" y2="10"/><line x1="3" y1="15" x2="17" y2="15"/></svg>
+      </button>
+      <span id="mobile-title" class="mx-2 truncate text-sm font-medium text-text">{title}</span>
+      <button id="open-right-drawer" class="flex h-9 w-9 items-center justify-center rounded-lg text-text active:bg-border/40" aria-label="Open settings">
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><circle cx="10" cy="10" r="3"/><path d="M10 2v2m0 12v2M2 10h2m12 0h2M4.93 4.93l1.41 1.41m7.32 7.32 1.41 1.41M4.93 15.07l1.41-1.41m7.32-7.32 1.41-1.41"/></svg>
+      </button>
+    </div>
+
+    <!-- DRAWER BACKDROP -->
+    <div id="drawer-backdrop" class="fixed inset-0 z-40 bg-black/40 hidden lg:hidden"></div>
+
+    <div class="mx-auto flex h-screen max-w-[1304px]">
+
+      <!-- LEFT SIDEBAR: Essay list -->
+      <aside class="fixed inset-y-0 left-0 z-50 w-68 -translate-x-full bg-bg transition-transform duration-300 lg:relative lg:z-auto lg:translate-x-0 lg:transition-none"
+             id="left-drawer"
+             transition:name="sidebar" transition:animate="none">
+        <div id="sidebar" class="h-full overflow-y-auto">
+          <div class="sticky top-0 z-10 bg-bg px-3 pt-15 pb-2">
+            <h1 class="mb-1 text-sm font-semibold text-text">
+              Paul Graham
+            </h1>
+            <p class="text-xs text-text-secondary">
+              {allEssays.length} essays
+            </p>
+            <div class="pointer-events-none absolute inset-x-0 -bottom-10 h-10 bg-gradient-to-b from-bg to-transparent"></div>
+          </div>
+          <nav class="px-1 pt-9 pb-4">
+            {allEssays.map((essay, i) => (
+              <a href={`${base}/read/${essay.slug}`}
+                 class:list={[
+                   "flex items-start gap-1.5 rounded px-2 py-1.5 text-xs leading-tight text-text transition-colors",
+                   essay.slug === slug ? "" : "opacity-50 hover:opacity-80"
+                 ]}
+                 data-essay-sidebar={essay.slug}
+                 data-nav-direction={i > currentIndex ? "next" : "prev"}>
+                <span class="flex-1">{essay.title}</span>
+                <span class="read-mark mt-px shrink-0 cursor-pointer text-accent opacity-0 hover:opacity-60" data-read-slug={essay.slug}>&#10003;</span>
+              </a>
+            ))}
+          </nav>
+        </div>
+        <div class="pointer-events-none absolute inset-x-0 bottom-0 z-20 h-16 bg-gradient-to-t from-bg from-10% to-transparent"></div>
+      </aside>
+
+      <!-- CENTER: Essay content with peek layers -->
+      <div class="relative flex-1 overflow-hidden"
+           transition:name="essay" transition:animate="none">
+
+        <!-- Peek: previous essay (behind main, at top) -->
+        {prevEssay && (
+          <div id="peek-prev" class="pointer-events-none absolute inset-x-0 top-0 flex h-56 items-center justify-center opacity-0">
+            <div class="mx-auto w-full max-w-2xl px-8">
+              <div id="peek-prev-header">
+                <h2 class="mb-2 text-xl font-semibold text-text">{prevEssay.title}</h2>
+                <div class="flex items-center gap-3 text-sm text-text-secondary">
+                  {prevEssay.date && <><span>{prevEssay.date}</span><span>·</span></>}
+                  <span>{prevEssay.readingTime} min read</span>
+                  <span>·</span>
+                  <a href={prevEssay.sourceUrl} target="_blank" rel="noopener" class="hover:underline">Original ↗</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        )}
+
+        <!-- Peek: next essay (behind main, at bottom) -->
+        {nextEssay && (
+          <div id="peek-next" class="pointer-events-none absolute inset-x-0 bottom-0 flex h-56 items-center justify-center opacity-0">
+            <div class="mx-auto w-full max-w-2xl px-8">
+              <div id="peek-next-header">
+                <h2 class="mb-2 text-xl font-semibold text-text">{nextEssay.title}</h2>
+                <div class="flex items-center gap-3 text-sm text-text-secondary">
+                  {nextEssay.date && <><span>{nextEssay.date}</span><span>·</span></>}
+                  <span>{nextEssay.readingTime} min read</span>
+                  <span>·</span>
+                  <a href={nextEssay.sourceUrl} target="_blank" rel="noopener" class="hover:underline">Original ↗</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        )}
+
+        <!-- Main scrollable content -->
+        <main id="essay-content" class="absolute inset-0 overflow-y-auto bg-bg will-change-transform"
+              data-next-url={nextUrl}
+              data-prev-url={prevUrl}>
+          <article class="mx-auto max-w-2xl px-4 py-16 lg:px-8 lg:py-12"
+                   data-pagefind-body data-essay-slug={slug} data-word-count={String(wordCount)}>
+            <header class="mb-10"
+                    transition:name="essay-title">
+              <h1 class="mb-2 text-xl font-semibold text-text">
+                {title}
+              </h1>
+              <div class="flex items-center gap-3 text-sm text-text-secondary">
+                {date && <><span>{date}</span><span>·</span></>}
+                <span>{readingTime} min read</span>
+                <span>·</span>
+                <a href={sourceUrl} target="_blank" rel="noopener" class="hover:underline">
+                  Original ↗
+                </a>
+              </div>
+            </header>
+
+            <div class="prose-pg">
+              <slot />
+            </div>
+          </article>
+        </main>
+      </div>
+
+      <!-- RIGHT SIDEBAR: Settings -->
+      <aside class="fixed inset-y-0 right-0 z-50 w-68 translate-x-full flex-col bg-bg transition-transform duration-300 lg:relative lg:z-auto lg:flex lg:translate-x-0 lg:transition-none group"
+             id="right-drawer"
+             transition:name="settings" transition:animate="none">
+        <div class="flex min-h-0 flex-1 flex-col overflow-y-auto pt-16 py-4 px-4 lg:pt-38 lg:pl-0 lg:pr-4">
+          <div class="lg:opacity-50 transition-opacity duration-300 lg:group-hover:opacity-100">
+          <!-- Theme -->
+          <div class="mb-5">
+            <label class="mb-2 block text-xs  tracking-wide text-text-secondary">Theme</label>
+            <div class="grid grid-cols-4 gap-1">
+              <button class="theme-btn rounded border py-1 px-1 text-xs"
+                      data-theme-value="white"
+                      style="background: #fff; color: #1a1a1a; border-color: var(--theme-border);">
+                White
+              </button>
+              <button class="theme-btn rounded border py-1 px-1 text-xs"
+                      data-theme-value="tan"
+                      style="background: #f5f0e8; color: #3d3529; border-color: var(--theme-border);">
+                Tan
+              </button>
+              <button class="theme-btn rounded border py-1 px-1 text-xs"
+                      data-theme-value="grey"
+                      style="background: #2a2a2e; color: #d4d4d8; border-color: var(--theme-border);">
+                Grey
+              </button>
+              <button class="theme-btn rounded border py-1 px-1 text-xs"
+                      data-theme-value="black"
+                      style="background: #0a0a0a; color: #e5e5e5; border-color: var(--theme-border);">
+                Black
+              </button>
+            </div>
+          </div>
+
+          <!-- Font -->
+          <div class="mb-5">
+            <label class="mb-2 block text-xs  tracking-wide text-text-secondary">Font</label>
+            <div class="flex gap-1">
+              <button class="font-btn flex-1 rounded border border-border px-1.5 py-1 text-xs text-text"
+                      data-font="sans"
+                      style="font-family: system-ui;">
+                Sans
+              </button>
+              <button class="font-btn flex-1 rounded border border-border px-1.5 py-1 text-xs text-text"
+                      data-font="serif"
+                      style="font-family: Georgia;">
+                Serif
+              </button>
+            </div>
+          </div>
+
+          <!-- Font Size -->
+          <div class="mb-5">
+            <label class="mb-2 block text-xs  tracking-wide text-text-secondary">Size</label>
+            <div class="flex items-center gap-2">
+              <button id="font-size-down" class="rounded border border-border px-2 py-1 text-xs text-text">
+                A−
+              </button>
+              <div class="h-0.5 flex-1 rounded-full bg-border">
+                <div id="font-size-indicator" class="h-0.5 rounded-full bg-accent"></div>
+              </div>
+              <button id="font-size-up" class="rounded border border-border px-2 py-1 text-xs text-text">
+                A+
+              </button>
+            </div>
+          </div>
+
+          <!-- Line Height -->
+          <div class="mb-5">
+            <label class="mb-2 block text-xs  tracking-wide text-text-secondary">Spacing</label>
+            <div class="flex gap-1">
+              <button class="lh-btn flex-1 rounded border border-border py-1 text-xs text-text" data-lh="0">
+                Tight
+              </button>
+              <button class="lh-btn flex-1 rounded border border-border py-1 text-xs text-text" data-lh="1">
+                Normal
+              </button>
+              <button class="lh-btn flex-1 rounded border border-border py-1 text-xs text-text" data-lh="2">
+                Relaxed
+              </button>
+            </div>
+          </div>
+
+          <!-- Info -->
+          <div class="mt-8 pt-4">
+            <p class="text-xs leading-relaxed text-text-secondary">
+              {currentIndex + 1} of {allEssays.length}<br />
+              {readingTime} min · {wordCount.toLocaleString()} words
+            </p>
+          </div>
+          </div>
+
+          <div class="mt-auto pt-8 pb-4">
+            <p class="text-xs text-center leading-relaxed text-text-secondary opacity-50">
+              All essays are property of Paul Graham. No copyright claimed. Made by <a href="https://mayhopar.com" class="underline hover:opacity-80" target="_blank" rel="noopener">Oleg&nbsp;Mayhopar</a> for educational purposes only.
+            </p>
+          </div>
+        </div>
+      </aside>
+
+    </div>
+
+    <ShortcutsOverlay />
+
+    <script>
+      import { navigate } from "astro:transitions/client";
+      import { initSettings, loadSettings, saveSettings } from "../scripts/reader-settings";
+      import { initScrollTracking } from "../scripts/reading-history";
+      import { initHighlightUI } from "../scripts/annotations";
+      import { initSwipeNavigation } from "../scripts/swipe";
+      import { initKeyboardShortcuts } from "../scripts/keyboard-shortcuts";
+
+      function setup() {
+        initSettings();
+        initKeyboardShortcuts();
+        initSwipeNavigation();
+
+        // --- Mobile drawer toggle ---
+        const leftDrawer = document.getElementById("left-drawer");
+        const rightDrawer = document.getElementById("right-drawer");
+        const backdrop = document.getElementById("drawer-backdrop");
+
+        function openLeftDrawer() {
+          leftDrawer?.classList.remove("-translate-x-full");
+          leftDrawer?.classList.add("translate-x-0");
+          backdrop?.classList.remove("hidden");
+        }
+        function openRightDrawer() {
+          rightDrawer?.classList.remove("translate-x-full");
+          rightDrawer?.classList.add("translate-x-0");
+          backdrop?.classList.remove("hidden");
+        }
+        function closeDrawers() {
+          leftDrawer?.classList.add("-translate-x-full");
+          leftDrawer?.classList.remove("translate-x-0");
+          rightDrawer?.classList.add("translate-x-full");
+          rightDrawer?.classList.remove("translate-x-0");
+          backdrop?.classList.add("hidden");
+        }
+
+        document.getElementById("open-left-drawer")?.addEventListener("click", openLeftDrawer);
+        document.getElementById("open-right-drawer")?.addEventListener("click", openRightDrawer);
+        backdrop?.addEventListener("click", closeDrawers);
+        document.addEventListener("keydown", (e) => {
+          if (e.key === "Escape") closeDrawers();
+        });
+
+        // Close drawers when clicking a sidebar essay link (mobile)
+        leftDrawer?.querySelectorAll("a[data-essay-sidebar]").forEach((link) => {
+          link.addEventListener("click", () => closeDrawers());
+        });
+
+        const slug = document.querySelector("[data-essay-slug]")?.getAttribute("data-essay-slug");
+        const wc = parseInt(document.querySelector("[data-essay-slug]")?.getAttribute("data-word-count") || "0");
+        if (slug) {
+          initScrollTracking(slug, wc);
+          initHighlightUI(slug);
+        }
+
+        // Read marks
+        const readKey = "pg-read-essays";
+        const readSet: Set<string> = new Set(JSON.parse(localStorage.getItem(readKey) || "[]"));
+        function updateReadMarks() {
+          document.querySelectorAll<HTMLElement>(".read-mark").forEach(el => {
+            const s = el.dataset.readSlug!;
+            el.classList.toggle("opacity-0", !readSet.has(s));
+          });
+        }
+        updateReadMarks();
+
+        document.querySelectorAll<HTMLElement>(".read-mark").forEach(el => {
+          el.addEventListener("click", (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            const s = el.dataset.readSlug!;
+            if (readSet.has(s)) readSet.delete(s); else readSet.add(s);
+            localStorage.setItem(readKey, JSON.stringify([...readSet]));
+            updateReadMarks();
+          });
+        });
+
+        // Scroll active essay into view in sidebar
+        const activeLink = document.querySelector(`[data-essay-sidebar="${slug}"]`);
+        activeLink?.scrollIntoView({ block: "center" });
+
+        // Scroll tracking
+        const main = document.getElementById("essay-content")!;
+        main.addEventListener("scroll", () => {
+          const maxScroll = main.scrollHeight - main.clientHeight;
+          const pct = main.scrollTop / maxScroll * 100;
+          if (slug && pct >= 95 && !readSet.has(slug)) {
+            readSet.add(slug);
+            localStorage.setItem(readKey, JSON.stringify([...readSet]));
+            updateReadMarks();
+          }
+        });
+
+        // --- Rubber-band overscroll with peek & spring-back ---
+        const nextUrl = main.dataset.nextUrl;
+        const prevUrl = main.dataset.prevUrl;
+        const peekNext = document.getElementById("peek-next");
+        const peekPrev = document.getElementById("peek-prev");
+
+        const MAX_PULL = 250;
+        const RESISTANCE = 900;
+        const NAV_THRESHOLD = 200;
+
+        let accumulated = 0;
+        let currentOffset = 0;
+        let overscrollDir: "next" | "prev" | null = null;
+        let releaseTimer: ReturnType<typeof setTimeout> | null = null;
+        let springRAF: number | null = null;
+        let navigating = false;
+
+        function triggerNav(dir: "next" | "prev") {
+          const url = dir === "next" ? nextUrl : prevUrl;
+          // Swap view-transition-name so the peek header morphs into the article header
+          const articleHeader = document.querySelector("article header") as HTMLElement;
+          const peekHeader = document.getElementById(dir === "next" ? "peek-next-header" : "peek-prev-header");
+          if (articleHeader) articleHeader.style.viewTransitionName = "none";
+          if (peekHeader) peekHeader.style.viewTransitionName = "essay-title";
+
+          document.documentElement.dataset.navDirection = dir;
+          navigate(url!);
+        }
+
+        function applyOffset(offset: number, dir: "next" | "prev") {
+          const ty = dir === "next" ? -offset : offset;
+          main.style.transform = `translateY(${ty}px)`;
+          const peek = dir === "next" ? peekNext : peekPrev;
+          if (peek) peek.classList.add("peek-visible");
+        }
+
+        function resetOverscroll() {
+          main.style.transform = "";
+          if (peekNext) peekNext.classList.remove("peek-visible");
+          if (peekPrev) peekPrev.classList.remove("peek-visible");
+          accumulated = 0;
+          currentOffset = 0;
+          overscrollDir = null;
+        }
+
+        function springBack() {
+          if (springRAF) cancelAnimationFrame(springRAF);
+          const dir = overscrollDir;
+          if (!dir) { resetOverscroll(); return; }
+
+          let pos = currentOffset;
+          let vel = 0;
+          const stiffness = 0.06;
+          const damping = 0.78;
+
+          function step() {
+            const force = -stiffness * pos;
+            vel = (vel + force) * damping;
+            pos += vel;
+
+            if (Math.abs(pos) < 0.3 && Math.abs(vel) < 0.3) {
+              resetOverscroll();
+              return;
+            }
+
+            applyOffset(Math.max(0, pos), dir!);
+            springRAF = requestAnimationFrame(step);
+          }
+          springRAF = requestAnimationFrame(step);
+        }
+
+        main.addEventListener("wheel", (e) => {
+          if (navigating) return;
+
+          const maxScroll = main.scrollHeight - main.clientHeight;
+          const isAtBottom = main.scrollTop >= maxScroll - 2;
+          const isAtTop = main.scrollTop <= 2;
+
+          if (isAtBottom && e.deltaY > 0 && nextUrl) {
+            e.preventDefault();
+            if (springRAF) { cancelAnimationFrame(springRAF); springRAF = null; }
+            overscrollDir = "next";
+            accumulated += e.deltaY;
+            currentOffset = MAX_PULL * Math.tanh(accumulated / RESISTANCE);
+            applyOffset(currentOffset, "next");
+
+            if (currentOffset >= NAV_THRESHOLD) {
+              navigating = true;
+              triggerNav("next");
+              return;
+            }
+
+            if (releaseTimer) clearTimeout(releaseTimer);
+            releaseTimer = setTimeout(() => springBack(), 350);
+          }
+          else if (isAtTop && e.deltaY < 0 && prevUrl) {
+            e.preventDefault();
+            if (springRAF) { cancelAnimationFrame(springRAF); springRAF = null; }
+            overscrollDir = "prev";
+            accumulated += Math.abs(e.deltaY);
+            currentOffset = MAX_PULL * Math.tanh(accumulated / RESISTANCE);
+            applyOffset(currentOffset, "prev");
+
+            if (currentOffset >= NAV_THRESHOLD) {
+              navigating = true;
+              triggerNav("prev");
+              return;
+            }
+
+            if (releaseTimer) clearTimeout(releaseTimer);
+            releaseTimer = setTimeout(() => springBack(), 350);
+          }
+          else if (overscrollDir) {
+            // Scrolling opposite direction while overscrolling — reduce accumulated
+            accumulated = Math.max(0, accumulated - Math.abs(e.deltaY) * 3);
+            currentOffset = MAX_PULL * Math.tanh(accumulated / RESISTANCE);
+            applyOffset(currentOffset, overscrollDir);
+            if (accumulated <= 0) {
+              resetOverscroll();
+            }
+          }
+        }, { passive: false });
+
+        // --- Touch overscroll (mirrors wheel handler for mobile) ---
+        let touchStartY = 0;
+        let touchActive = false;
+
+        main.addEventListener("touchstart", (e) => {
+          if (navigating) return;
+          touchStartY = e.touches[0].clientY;
+          touchActive = false;
+          accumulated = 0;
+          currentOffset = 0;
+          overscrollDir = null;
+        }, { passive: true });
+
+        main.addEventListener("touchmove", (e) => {
+          if (navigating) return;
+          const touchY = e.touches[0].clientY;
+          const deltaY = touchStartY - touchY; // positive = scrolling down
+
+          const maxScroll = main.scrollHeight - main.clientHeight;
+          const isAtBottom = main.scrollTop >= maxScroll - 2;
+          const isAtTop = main.scrollTop <= 2;
+
+          if (isAtBottom && deltaY > 0 && nextUrl) {
+            e.preventDefault();
+            if (springRAF) { cancelAnimationFrame(springRAF); springRAF = null; }
+            touchActive = true;
+            overscrollDir = "next";
+            accumulated = deltaY;
+            currentOffset = MAX_PULL * Math.tanh(accumulated / RESISTANCE);
+            applyOffset(currentOffset, "next");
+          } else if (isAtTop && deltaY < 0 && prevUrl) {
+            e.preventDefault();
+            if (springRAF) { cancelAnimationFrame(springRAF); springRAF = null; }
+            touchActive = true;
+            overscrollDir = "prev";
+            accumulated = Math.abs(deltaY);
+            currentOffset = MAX_PULL * Math.tanh(accumulated / RESISTANCE);
+            applyOffset(currentOffset, "prev");
+          } else if (touchActive && overscrollDir) {
+            e.preventDefault();
+            const raw = overscrollDir === "next" ? deltaY : Math.abs(deltaY);
+            accumulated = Math.max(0, raw);
+            currentOffset = MAX_PULL * Math.tanh(accumulated / RESISTANCE);
+            applyOffset(currentOffset, overscrollDir);
+            if (accumulated <= 0) {
+              resetOverscroll();
+              touchActive = false;
+            }
+          }
+        }, { passive: false });
+
+        main.addEventListener("touchend", () => {
+          if (!touchActive || navigating) return;
+          touchActive = false;
+          if (currentOffset >= NAV_THRESHOLD && overscrollDir) {
+            navigating = true;
+            triggerNav(overscrollDir);
+          } else {
+            springBack();
+          }
+        }, { passive: true });
+
+        // Set direction when clicking sidebar links
+        document.querySelectorAll("[data-nav-direction]").forEach((link) => {
+          link.addEventListener("click", () => {
+            document.documentElement.dataset.navDirection = (link as HTMLElement).dataset.navDirection!;
+          });
+        });
+
+        // Settings controls
+        document.querySelectorAll(".theme-btn").forEach((btn) => {
+          btn.addEventListener("click", () => {
+            const settings = loadSettings();
+            settings.theme = (btn as HTMLElement).dataset.themeValue as any;
+            saveSettings(settings);
+          });
+        });
+
+        document.querySelectorAll(".font-btn").forEach((btn) => {
+          btn.addEventListener("click", () => {
+            const settings = loadSettings();
+            settings.fontFamily = (btn as HTMLElement).dataset.font as any;
+            saveSettings(settings);
+          });
+        });
+
+        document.getElementById("font-size-down")?.addEventListener("click", () => {
+          const settings = loadSettings();
+          settings.fontSize = Math.max(0, settings.fontSize - 1);
+          saveSettings(settings);
+          updateSizeIndicator(settings.fontSize);
+        });
+        document.getElementById("font-size-up")?.addEventListener("click", () => {
+          const settings = loadSettings();
+          settings.fontSize = Math.min(4, settings.fontSize + 1);
+          saveSettings(settings);
+          updateSizeIndicator(settings.fontSize);
+        });
+
+        function updateSizeIndicator(level: number) {
+          const indicator = document.getElementById("font-size-indicator");
+          if (indicator) indicator.style.width = `${((level + 1) / 5) * 100}%`;
+        }
+
+        document.querySelectorAll(".lh-btn").forEach((btn) => {
+          btn.addEventListener("click", () => {
+            const settings = loadSettings();
+            settings.lineHeight = parseInt((btn as HTMLElement).dataset.lh || "1");
+            saveSettings(settings);
+          });
+        });
+
+        updateSizeIndicator(loadSettings().fontSize);
+      }
+
+      // Run on initial load
+      setup();
+
+      // Re-run after Astro view transition navigations
+      document.addEventListener("astro:after-swap", () => {
+        // Re-apply theme immediately
+        try {
+          const s = JSON.parse(localStorage.getItem("pg-reader-settings") || "{}");
+          const migrate: Record<string, string> = { light: "white", sepia: "tan", dark: "black" };
+          const theme = migrate[s.theme] || s.theme;
+          if (theme && theme !== "white") {
+            document.documentElement.setAttribute("data-theme", theme);
+          } else {
+            document.documentElement.removeAttribute("data-theme");
+          }
+        } catch {}
+        setup();
+      });
+    </script>
+  </body>
+</html>

@@ -4,7 +4,7 @@ import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
   site: "https://olegmayhopar.github.io",
-  base: "/PG",
+  base: "/PaulGrahamEssays",
   vite: {
     plugins: [tailwindcss()],
   },

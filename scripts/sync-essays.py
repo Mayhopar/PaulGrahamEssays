@@ -51,6 +51,49 @@ def get_essay_links():
     return links
 
 
+def html_to_markdown(element):
+    """Convert a BeautifulSoup element to clean markdown."""
+    # Unwrap layout and formatting tags (keep their content)
+    for tag in element.find_all(["table", "tr", "td", "font"]):
+        tag.unwrap()
+
+    html = element.decode_contents()
+
+    # Replace <br> and <br/> with newlines before markdownify
+    # (markdownify chokes on bare <br> tags inside <p> elements)
+    html = re.sub(r"<br\s*/?>", "\n", html)
+
+    return md(html, heading_style="ATX")
+
+
+def extract_content(soup):
+    """Extract the main essay content from PG's varied HTML layouts."""
+    body = soup.find("body")
+    if not body:
+        return ""
+
+    # Remove scripts, styles, images
+    for tag in body.find_all(["script", "style", "img"]):
+        tag.decompose()
+
+    # Strategy 1: Find the largest <font> tag (older essays)
+    fonts = body.find_all("font")
+    if fonts:
+        best_font = max(fonts, key=lambda f: len(f.get_text()))
+        if len(best_font.get_text(strip=True)) > 200:
+            return html_to_markdown(best_font)
+
+    # Strategy 2: Find the <td> with the most text (newer essays)
+    tds = body.find_all("td")
+    if tds:
+        best_td = max(tds, key=lambda td: len(td.get_text()))
+        if len(best_td.get_text(strip=True)) > 200:
+            return html_to_markdown(best_td)
+
+    # Strategy 3: Fallback — convert entire body
+    return html_to_markdown(body)
+
+
 def scrape_essay(href):
     """Fetch a single essay page, extract content and metadata."""
     url = f"{BASE_URL}/{href}"
@@ -63,12 +106,9 @@ def scrape_essay(href):
     date_str = ""
     date_iso = ""
 
-    # PG essays often have the date as text like "January 2023"
-    # near the top of the page, inside a <font> tag or as plain text
     date_found = find_date(html)
     if date_found:
         date_iso = date_found[:7]  # "YYYY-MM"
-        # Convert ISO to readable: "2023-01" -> "January 2023"
         try:
             from datetime import datetime
             dt = datetime.strptime(date_found, "%Y-%m-%d")
@@ -76,23 +116,12 @@ def scrape_essay(href):
         except (ValueError, TypeError):
             date_str = date_found
 
-    # Extract the essay body
-    # PG's essays use <table> layout. The main content is typically
-    # in a <font> tag within the main table, or in the body text.
-    # We'll extract the main content area.
-    body = soup.find("body")
-    if not body:
-        return None
+    # Extract essay content
+    content = extract_content(soup)
 
-    # Remove script tags, style tags, and img tags
-    for tag in body.find_all(["script", "style"]):
-        tag.decompose()
-
-    # Convert to markdown
-    content = md(str(body), heading_style="ATX", strip=["img"])
-
-    # Clean up excessive whitespace
+    # Clean up excessive whitespace and trailing table artifacts
     content = re.sub(r"\n{3,}", "\n\n", content)
+    content = re.sub(r"\|\s*$", "", content)  # trailing pipe from tables
     content = content.strip()
 
     # Word count and reading time
@@ -129,6 +158,9 @@ readingTime: {data['readingTime']}
 
 
 def main():
+    import sys
+    force = "--force" in sys.argv
+
     print("Fetching essay list...")
     links = get_essay_links()
     print(f"Found {len(links)} essays on articles page.")
@@ -136,10 +168,13 @@ def main():
     existing = get_existing_slugs()
     print(f"Already have {len(existing)} essays locally.")
 
+    if force:
+        print("Force mode: re-scraping ALL essays.")
+
     new_count = 0
     for link in links:
         slug = slugify(link["title"], max_length=80)
-        if slug in existing:
+        if not force and slug in existing:
             continue
 
         print(f"  Scraping: {link['title']}...")
@@ -148,15 +183,15 @@ def main():
             if data and data["content"]:
                 write_essay(slug, link["title"], data)
                 new_count += 1
-                print(f"    -> Saved as {slug}.md")
+                print(f"    -> Saved as {slug}.md ({data['wordCount']} words)")
             else:
                 print(f"    -> Skipped (no content)")
         except Exception as e:
             print(f"    -> Error: {e}")
 
-        time.sleep(1)  # Be respectful
+        time.sleep(0.5)  # Be respectful
 
-    print(f"\nDone. Added {new_count} new essays.")
+    print(f"\nDone. Wrote {new_count} essays.")
     return new_count
 
 

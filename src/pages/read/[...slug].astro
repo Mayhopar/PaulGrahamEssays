@@ -1,6 +1,6 @@
 ---
 import { getCollection, render } from "astro:content";
-import EssayLayout from "../../layouts/EssayLayout.astro";
+import ReaderLayout from "../../layouts/ReaderLayout.astro";
 
 export async function getStaticPaths() {
   const essays = (await getCollection("essays"))
@@ -10,29 +10,25 @@ export async function getStaticPaths() {
     params: { slug: essay.data.slug },
     props: {
       essay,
-      prevEssay: index > 0 ? { title: essays[index - 1].data.title, slug: essays[index - 1].data.slug } : null,
-      nextEssay: index < essays.length - 1 ? { title: essays[index + 1].data.title, slug: essays[index + 1].data.slug } : null,
+      allEssays: essays.map((e) => ({ title: e.data.title, slug: e.data.slug, date: e.data.date, readingTime: e.data.readingTime, sourceUrl: e.data.sourceUrl })),
       currentIndex: index,
-      totalEssays: essays.length,
     },
   }));
 }
 
-const { essay, prevEssay, nextEssay, currentIndex, totalEssays } = Astro.props;
+const { essay, allEssays, currentIndex } = Astro.props;
 const { Content } = await render(essay);
 ---
 
-<EssayLayout
+<ReaderLayout
   title={essay.data.title}
   date={essay.data.date}
   readingTime={essay.data.readingTime}
   sourceUrl={essay.data.sourceUrl}
   slug={essay.data.slug}
   wordCount={essay.data.wordCount}
-  prevEssay={prevEssay}
-  nextEssay={nextEssay}
+  allEssays={allEssays}
   currentIndex={currentIndex}
-  totalEssays={totalEssays}
 >
   <Content />
-</EssayLayout>
+</ReaderLayout>
