@@ -16,7 +16,7 @@
   --theme-text-secondary: #6b7280;
   --theme-border: #e5e7eb;
   --theme-surface: #f3f4f6;
-  --theme-accent: #2563eb;
+  --theme-accent: #ea580c;
 
   /* Reader settings defaults */
   --reader-font-size: 18px;
@@ -31,7 +31,7 @@
   --theme-text-secondary: #78716c;
   --theme-border: #d6ceb8;
   --theme-surface: #ebe3cf;
-  --theme-accent: #92400e;
+  --theme-accent: #c2410c;
 }
 
 [data-theme="grey"] {
@@ -40,7 +40,7 @@
   --theme-text-secondary: #a1a1aa;
   --theme-border: #3f3f46;
   --theme-surface: #35353a;
-  --theme-accent: #818cf8;
+  --theme-accent: #fb923c;
 }
 
 [data-theme="black"] {
@@ -49,7 +49,7 @@
   --theme-text-secondary: #a3a3a3;
   --theme-border: #262626;
   --theme-surface: #171717;
-  --theme-accent: #60a5fa;
+  --theme-accent: #f97316;
 }
 
 body {
