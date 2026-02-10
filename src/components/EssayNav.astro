@@ -6,13 +6,12 @@ interface Props {
   totalEssays?: number;
 }
 const { prevEssay, nextEssay, currentIndex, totalEssays } = Astro.props;
-const base = import.meta.env.BASE_URL;
 ---
 
 <nav class="mt-16 pt-8 border-t flex items-center justify-between gap-4"
      style="border-color: var(--theme-border);">
   {prevEssay ? (
-    <a href={`${base}/read/${prevEssay.slug}`}
+    <a href={`/read/${prevEssay.slug}`}
        class="flex-1 group text-left"
        id="prev-essay">
       <span class="text-xs  tracking-wide" style="color: var(--theme-text-secondary);">
@@ -32,7 +31,7 @@ const base = import.meta.env.BASE_URL;
   )}
 
   {nextEssay ? (
-    <a href={`${base}/read/${nextEssay.slug}`}
+    <a href={`/read/${nextEssay.slug}`}
        class="flex-1 group text-right"
        id="next-essay">
       <span class="text-xs  tracking-wide" style="color: var(--theme-text-secondary);">

@@ -5,13 +5,12 @@ const essays = (await getCollection("essays"))
   .sort((a, b) => a.data.dateISO.localeCompare(b.data.dateISO));
 
 const firstSlug = essays[0]?.data.slug;
-const base = import.meta.env.BASE_URL;
 ---
 
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <meta http-equiv="refresh" content={`0;url=${base}/read/${firstSlug}`} />
+    <meta http-equiv="refresh" content={`0;url=/read/${firstSlug}`} />
     <title>Redirecting…</title>
   </head>
   <body></body>

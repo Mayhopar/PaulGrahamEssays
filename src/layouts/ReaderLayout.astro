@@ -23,9 +23,8 @@ interface Props {
 }
 
 const { title, date, readingTime, sourceUrl, slug, wordCount, allEssays, currentIndex } = Astro.props;
-const base = import.meta.env.BASE_URL;
-const nextUrl = currentIndex < allEssays.length - 1 ? `${base}/read/${allEssays[currentIndex + 1].slug}` : "";
-const prevUrl = currentIndex > 0 ? `${base}/read/${allEssays[currentIndex - 1].slug}` : "";
+const nextUrl = currentIndex < allEssays.length - 1 ? `/read/${allEssays[currentIndex + 1].slug}` : "";
+const prevUrl = currentIndex > 0 ? `/read/${allEssays[currentIndex - 1].slug}` : "";
 const nextEssay = currentIndex < allEssays.length - 1 ? allEssays[currentIndex + 1] : null;
 const prevEssay = currentIndex > 0 ? allEssays[currentIndex - 1] : null;
 ---
@@ -48,8 +47,8 @@ const prevEssay = currentIndex > 0 ? allEssays[currentIndex - 1] : null;
       window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
       plausible.init()
     </script>
-    <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
-    <link rel="icon" type="image/x-icon" href={`${base}/favicon.ico`} />
+    <link rel="icon" type="image/svg+xml" href={`/favicon.svg`} />
+    <link rel="icon" type="image/x-icon" href={`/favicon.ico`} />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
@@ -174,7 +173,7 @@ const prevEssay = currentIndex > 0 ? allEssays[currentIndex - 1] : null;
           </div>
           <nav class="px-1 pt-9 pb-4">
             {allEssays.map((essay, i) => (
-              <a href={`${base}/read/${essay.slug}`}
+              <a href={`/read/${essay.slug}`}
                  class:list={[
                    "flex items-start gap-1.5 rounded px-2 py-1.5 text-xs leading-tight text-text transition-colors",
                    essay.slug === slug ? "" : "opacity-50 hover:opacity-80"
