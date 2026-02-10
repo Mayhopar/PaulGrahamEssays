@@ -43,7 +43,7 @@ const prevEssay = currentIndex > 0 ? allEssays[currentIndex - 1] : null;
     <meta name="twitter:title" content={`${title} — Paul Graham Essays`} />
     <meta name="twitter:description" content="All Paul Graham essays, easy to read." />
     <title>{title} — Paul Graham Essays</title>
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://plausible.io; img-src 'self' data:;" />
+    <script defer data-domain="mayhopar.github.io" src="https://plausible.io/js/script.js"></script>
     <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
     <link rel="icon" type="image/x-icon" href={`${base}/favicon.ico`} />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -359,17 +359,12 @@ const prevEssay = currentIndex > 0 ? allEssays[currentIndex - 1] : null;
     <ShortcutsOverlay />
 
     <script>
-      import { init } from "@plausible-analytics/tracker";
       import { navigate } from "astro:transitions/client";
       import { initSettings, loadSettings, saveSettings } from "../scripts/reader-settings";
       import { initScrollTracking } from "../scripts/reading-history";
       import { initHighlightUI } from "../scripts/annotations";
       import { initSwipeNavigation } from "../scripts/swipe";
       import { initKeyboardShortcuts } from "../scripts/keyboard-shortcuts";
-
-      init({
-        domain: "mayhopar.github.io/PaulGrahamEssays",
-      });
 
       function setup() {
         initSettings();
