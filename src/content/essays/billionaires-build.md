@@ -1,14 +1,12 @@
 ---
 title: "Billionaires Build"
-date: "January 2020"
-dateISO: "2020-01"
+date: "December 2020"
+dateISO: "2020-12"
 slug: "billionaires-build"
 sourceUrl: "https://paulgraham.com/ace.html"
 wordCount: 3425
 readingTime: 15
 ---
-
-December 2020
 
 As I was deciding what to write about next, I was surprised to find
 that two separate essays I'd been planning to write were actually

@@ -1,14 +1,12 @@
 ---
 title: "Founder Mode"
-date: "January 2024"
-dateISO: "2024-01"
+date: "September 2024"
+dateISO: "2024-09"
 slug: "founder-mode"
 sourceUrl: "https://paulgraham.com/foundermode.html"
 wordCount: 1244
 readingTime: 6
 ---
-
-September 2024
 
 At a YC event last week Brian Chesky gave a talk that everyone who
 was there will remember. Most founders I talked to afterward said

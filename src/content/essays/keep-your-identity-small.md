@@ -1,14 +1,12 @@
 ---
 title: "Keep Your Identity Small"
-date: "April 2006"
-dateISO: "2006-04"
+date: "February 2009"
+dateISO: "2009-02"
 slug: "keep-your-identity-small"
 sourceUrl: "https://paulgraham.com/identity.html"
 wordCount: 867
 readingTime: 4
 ---
-
-February 2009
 
 I finally realized today why politics and religion yield such
 uniquely useless discussions.

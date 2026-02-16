@@ -1,7 +1,7 @@
 ---
 title: "How to Make Wealth"
-date: "January 2006"
-dateISO: "2006-01"
+date: "May 2004"
+dateISO: "2004-05"
 slug: "how-to-make-wealth"
 sourceUrl: "https://paulgraham.com/wealth.html"
 wordCount: 8947
@@ -10,8 +10,6 @@ readingTime: 39
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-May 2004
 
 *(This essay was originally published in [Hackers
 & Painters](http://www.amazon.com/gp/product/0596006624/104-0572701-7443937).)*

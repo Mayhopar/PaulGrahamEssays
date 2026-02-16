@@ -1,14 +1,12 @@
 ---
 title: "Early Work"
-date: "January 2020"
-dateISO: "2020-01"
+date: "October 2020"
+dateISO: "2020-10"
 slug: "early-work"
 sourceUrl: "https://paulgraham.com/early.html"
 wordCount: 2530
 readingTime: 11
 ---
-
-October 2020
 
 One of the biggest things holding people back from doing great work
 is the fear of making something lame. And this fear is not an

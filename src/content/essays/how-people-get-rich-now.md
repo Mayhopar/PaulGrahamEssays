@@ -1,14 +1,12 @@
 ---
 title: "How People Get Rich Now"
-date: "January 2020"
-dateISO: "2020-01"
+date: "April 2021"
+dateISO: "2021-04"
 slug: "how-people-get-rich-now"
 sourceUrl: "https://paulgraham.com/richnow.html"
 wordCount: 2583
 readingTime: 12
 ---
-
-April 2021
 
 Every year since 1982, *Forbes* magazine has published a list of the
 richest Americans. If we compare the 100 richest people in 1982 to

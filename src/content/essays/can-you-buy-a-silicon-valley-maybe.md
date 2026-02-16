@@ -1,14 +1,12 @@
 ---
 title: "Can You Buy a Silicon Valley?  Maybe."
-date: "January 2009"
-dateISO: "2009-01"
+date: "February 2009"
+dateISO: "2009-02"
 slug: "can-you-buy-a-silicon-valley-maybe"
 sourceUrl: "https://paulgraham.com/maybe.html"
 wordCount: 1912
 readingTime: 9
 ---
-
-February 2009
 
 A lot of cities look at Silicon Valley and ask "How could we make
 something like that happen here?" The

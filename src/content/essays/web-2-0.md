@@ -1,7 +1,7 @@
 ---
 title: "Web 2.0"
-date: "September 2005"
-dateISO: "2005-09"
+date: "November 2005"
+dateISO: "2005-11"
 slug: "web-2-0"
 sourceUrl: "https://paulgraham.com/web20.html"
 wordCount: 3385
@@ -10,8 +10,6 @@ readingTime: 15
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-November 2005
 
 Does "Web 2.0" mean anything? Till recently I thought it didn't,
 but the truth turns out to be more complicated. Originally, yes,

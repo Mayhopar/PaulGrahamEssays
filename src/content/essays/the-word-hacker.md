@@ -1,14 +1,12 @@
 ---
 title: "The Word \"Hacker\""
-date: "January 2004"
-dateISO: "2004-01"
+date: "April 2004"
+dateISO: "2004-04"
 slug: "the-word-hacker"
 sourceUrl: "https://paulgraham.com/gba.html"
 wordCount: 1937
 readingTime: 9
 ---
-
-April 2004
 
 To the popular press, "hacker" means someone who breaks
 into computers. Among programmers it means a good programmer.

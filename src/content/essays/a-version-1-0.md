@@ -1,14 +1,12 @@
 ---
 title: "A Version 1.0"
-date: "January 2004"
-dateISO: "2004-01"
+date: "October 2004"
+dateISO: "2004-10"
 slug: "a-version-1-0"
 sourceUrl: "https://paulgraham.com/laundry.html"
 wordCount: 4266
 readingTime: 19
 ---
-
-October 2004
 
 As E. B. White said, "good writing is rewriting." I didn't
 realize this when I was in school. In writing, as in math and

@@ -8,8 +8,6 @@ wordCount: 1675
 readingTime: 8
 ---
 
-January 2016
-
 Life is short, as everyone knows. When I was a kid I used to wonder
 about this. Is life actually short, or are we really complaining
 about its finiteness? Would we be just as likely to feel life was

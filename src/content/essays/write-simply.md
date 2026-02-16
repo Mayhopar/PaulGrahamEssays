@@ -1,14 +1,12 @@
 ---
 title: "Write Simply"
-date: "January 2021"
-dateISO: "2021-01"
+date: "March 2021"
+dateISO: "2021-03"
 slug: "write-simply"
 sourceUrl: "https://paulgraham.com/simply.html"
 wordCount: 509
 readingTime: 3
 ---
-
-March 2021
 
 I try to write using ordinary words and simple sentences.
 

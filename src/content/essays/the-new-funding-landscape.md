@@ -1,7 +1,7 @@
 ---
 title: "The New Funding Landscape"
-date: "January 2010"
-dateISO: "2010-01"
+date: "October 2010"
+dateISO: "2010-10"
 slug: "the-new-funding-landscape"
 sourceUrl: "https://paulgraham.com/superangels.html"
 wordCount: 3582
@@ -10,8 +10,6 @@ readingTime: 16
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-October 2010
 
 After barely changing at all for decades, the startup funding
 business is now in what could, at least by comparison, be called

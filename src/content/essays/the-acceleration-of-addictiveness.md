@@ -1,14 +1,12 @@
 ---
 title: "The Acceleration of Addictiveness"
-date: "January 2010"
-dateISO: "2010-01"
+date: "July 2010"
+dateISO: "2010-07"
 slug: "the-acceleration-of-addictiveness"
 sourceUrl: "https://paulgraham.com/addiction.html"
 wordCount: 1273
 readingTime: 6
 ---
-
-July 2010
 
 What hard liquor, cigarettes, heroin, and crack have in common is
 that they're all more concentrated forms of less addictive predecessors.

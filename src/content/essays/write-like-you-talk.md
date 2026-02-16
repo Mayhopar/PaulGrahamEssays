@@ -1,14 +1,12 @@
 ---
 title: "Write Like You Talk"
-date: "January 2020"
-dateISO: "2020-01"
+date: "October 2015"
+dateISO: "2015-10"
 slug: "write-like-you-talk"
 sourceUrl: "https://paulgraham.com/talk.html"
 wordCount: 710
 readingTime: 4
 ---
-
-October 2015
 
 Here's a simple trick for getting more people to read what you
 write: write in spoken language.

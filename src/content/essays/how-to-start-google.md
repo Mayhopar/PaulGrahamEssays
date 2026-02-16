@@ -1,14 +1,12 @@
 ---
 title: "How to Start Google"
-date: "January 2024"
-dateISO: "2024-01"
+date: "March 2024"
+dateISO: "2024-03"
 slug: "how-to-start-google"
 sourceUrl: "https://paulgraham.com/google.html"
 wordCount: 2826
 readingTime: 13
 ---
-
-March 2024
 
 *(This is a talk I gave to 14 and 15 year olds about what to do now
 if they might want to start a startup later. Lots of schools think

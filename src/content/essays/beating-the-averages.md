@@ -1,7 +1,7 @@
 ---
 title: "Beating the Averages"
-date: "January 2003"
-dateISO: "2003-01"
+date: "April 2001"
+dateISO: "2001-04"
 slug: "beating-the-averages"
 sourceUrl: "https://paulgraham.com/avg.html"
 wordCount: 4460
@@ -10,8 +10,6 @@ readingTime: 20
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-April 2001, rev. April 2003
 
 *(This article is derived from a talk given at the 2001 Franz
 Developer Symposium.)*

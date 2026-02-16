@@ -1,14 +1,12 @@
 ---
 title: "Startup Investing Trends"
-date: "January 2013"
-dateISO: "2013-01"
+date: "June 2013"
+dateISO: "2013-06"
 slug: "startup-investing-trends"
 sourceUrl: "https://paulgraham.com/invtrend.html"
 wordCount: 2955
 readingTime: 13
 ---
-
-June 2013
 
 *(This talk was written for an audience of investors.)*
 

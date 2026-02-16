@@ -1,14 +1,12 @@
 ---
 title: "Mean People Fail"
-date: "January 2014"
-dateISO: "2014-01"
+date: "November 2014"
+dateISO: "2014-11"
 slug: "mean-people-fail"
 sourceUrl: "https://paulgraham.com/mean.html"
 wordCount: 1138
 readingTime: 5
 ---
-
-November 2014
 
 It struck me recently how few of the most successful people I know
 are mean. There are exceptions, but remarkably few.

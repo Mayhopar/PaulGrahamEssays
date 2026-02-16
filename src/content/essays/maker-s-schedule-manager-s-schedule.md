@@ -1,7 +1,7 @@
 ---
 title: "Maker's Schedule, Manager's Schedule"
-date: "February 2014"
-dateISO: "2014-02"
+date: "July 2009"
+dateISO: "2009-07"
 slug: "maker-s-schedule-manager-s-schedule"
 sourceUrl: "https://paulgraham.com/makersschedule.html"
 wordCount: 1147
@@ -10,8 +10,6 @@ readingTime: 5
 
 "...the mere consciousness of an engagement will sometimes worry a whole day."
  Charles Dickens
-
-July 2009
 
 One reason programmers dislike meetings so much is that they're on
 a different type of schedule from other people. Meetings cost them

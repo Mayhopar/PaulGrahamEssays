@@ -1,14 +1,12 @@
 ---
 title: "The Top of My Todo List"
-date: "January 2012"
-dateISO: "2012-01"
+date: "April 2012"
+dateISO: "2012-04"
 slug: "the-top-of-my-todo-list"
 sourceUrl: "https://paulgraham.com/todo.html"
 wordCount: 235
 readingTime: 2
 ---
-
-April 2012
 
 A palliative care nurse called Bronnie Ware made a list of the
 biggest [regrets

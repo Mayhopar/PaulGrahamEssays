@@ -1,7 +1,7 @@
 ---
 title: "Founder Control"
-date: "January 2010"
-dateISO: "2010-01"
+date: "December 2010"
+dateISO: "2010-12"
 slug: "founder-control"
 sourceUrl: "https://paulgraham.com/control.html"
 wordCount: 779
@@ -10,8 +10,6 @@ readingTime: 4
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-December 2010
 
 Someone we funded is talking to VCs now, and asked me how common
 it was for a startup's founders to retain control of the board after

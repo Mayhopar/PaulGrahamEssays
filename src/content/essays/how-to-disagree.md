@@ -1,14 +1,12 @@
 ---
 title: "How to Disagree"
-date: "June 2009"
-dateISO: "2009-06"
+date: "March 2008"
+dateISO: "2008-03"
 slug: "how-to-disagree"
 sourceUrl: "https://paulgraham.com/disagree.html"
 wordCount: 1511
 readingTime: 7
 ---
-
-March 2008
 
 The web is turning writing into a conversation. Twenty years ago,
 writers wrote and readers read. The web lets readers respond, and

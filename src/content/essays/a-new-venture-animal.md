@@ -1,14 +1,12 @@
 ---
 title: "A New Venture Animal"
-date: "January 2013"
-dateISO: "2013-01"
+date: "March 2008"
+dateISO: "2008-03"
 slug: "a-new-venture-animal"
 sourceUrl: "https://paulgraham.com/ycombinator.html"
 wordCount: 1986
 readingTime: 9
 ---
-
-March 2008, rev May 2013
 
 *(This essay grew out of something I wrote for myself to figure
 out what we do. Even though Y Combinator is now 3 years old, we're still

@@ -1,7 +1,7 @@
 ---
 title: "The Power of the Marginal"
-date: "March 2004"
-dateISO: "2004-03"
+date: "June 2006"
+dateISO: "2006-06"
 slug: "the-power-of-the-marginal"
 sourceUrl: "https://paulgraham.com/marginal.html"
 wordCount: 6062
@@ -10,8 +10,6 @@ readingTime: 27
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-June 2006
 
 *(This essay is derived from talks at Usenix 2006 and
 Railsconf 2006.)*

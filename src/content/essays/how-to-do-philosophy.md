@@ -1,14 +1,12 @@
 ---
 title: "How to Do Philosophy"
-date: "August 2008"
-dateISO: "2008-08"
+date: "September 2007"
+dateISO: "2007-09"
 slug: "how-to-do-philosophy"
 sourceUrl: "https://paulgraham.com/philosophy.html"
 wordCount: 4730
 readingTime: 21
 ---
-
-September 2007
 
 In high school I decided I was going to study philosophy in college.
 I had several motives, some more honorable than others. One of the

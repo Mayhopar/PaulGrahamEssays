@@ -1,14 +1,12 @@
 ---
 title: "The Hardest Lessons for Startups to Learn"
-date: "January 2007"
-dateISO: "2007-01"
+date: "April 2006"
+dateISO: "2006-04"
 slug: "the-hardest-lessons-for-startups-to-learn"
 sourceUrl: "https://paulgraham.com/startuplessons.html"
 wordCount: 4830
 readingTime: 21
 ---
-
-April 2006
 
 *(This essay is derived from a talk at the 2006
 [Startup School](http://startupschool.org).)*

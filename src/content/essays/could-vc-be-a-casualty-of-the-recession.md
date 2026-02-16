@@ -8,8 +8,6 @@ wordCount: 1349
 readingTime: 6
 ---
 
-December 2008
-
 *(I originally wrote this at the request of a company producing
 a report about entrepreneurship. Unfortunately after reading it
 they decided it was too controversial to include.)*

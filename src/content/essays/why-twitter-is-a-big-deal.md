@@ -8,8 +8,6 @@ wordCount: 147
 readingTime: 1
 ---
 
-April 2009
-
 [Om Malik](http://gigaom.com/2009/04/03/google-may-buy-twitter-or-not-but-why-is-twitter-so-hot/) is the most recent of many people
 to ask why Twitter is such a big deal.
 

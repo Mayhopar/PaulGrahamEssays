@@ -1,14 +1,12 @@
 ---
 title: "The Two Kinds of Moderate"
-date: "January 2019"
-dateISO: "2019-01"
+date: "December 2019"
+dateISO: "2019-12"
 slug: "the-two-kinds-of-moderate"
 sourceUrl: "https://paulgraham.com/mod.html"
 wordCount: 668
 readingTime: 3
 ---
-
-December 2019
 
 There are two distinct ways to be politically moderate: on purpose
 and by accident. Intentional moderates are trimmers, deliberately

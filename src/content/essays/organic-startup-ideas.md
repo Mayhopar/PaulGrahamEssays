@@ -1,7 +1,7 @@
 ---
 title: "Organic Startup Ideas"
-date: "January 2004"
-dateISO: "2004-01"
+date: "April 2010"
+dateISO: "2010-04"
 slug: "organic-startup-ideas"
 sourceUrl: "https://paulgraham.com/organic.html"
 wordCount: 1004
@@ -10,8 +10,6 @@ readingTime: 5
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-April 2010
 
 The best way to come up with startup ideas is to ask yourself the
 question: what do you wish someone would make for you?

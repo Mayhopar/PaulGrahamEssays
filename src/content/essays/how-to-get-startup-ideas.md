@@ -1,7 +1,7 @@
 ---
 title: "How to Get Startup Ideas"
-date: "January 2012"
-dateISO: "2012-01"
+date: "November 2012"
+dateISO: "2012-11"
 slug: "how-to-get-startup-ideas"
 sourceUrl: "https://paulgraham.com/startupideas.html"
 wordCount: 7219
@@ -10,8 +10,6 @@ readingTime: 32
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-November 2012
 
 The way to get startup ideas is not to try to think of startup
 ideas. It's to look for problems, preferably problems you have

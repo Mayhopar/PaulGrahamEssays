@@ -1,14 +1,12 @@
 ---
 title: "What Microsoft Is this the Altair Basic of?"
-date: "January 2015"
-dateISO: "2015-01"
+date: "February 2015"
+dateISO: "2015-02"
 slug: "what-microsoft-is-this-the-altair-basic-of"
 sourceUrl: "https://paulgraham.com/altair.html"
 wordCount: 377
 readingTime: 2
 ---
-
-February 2015
 
 One of the most valuable exercises you can try if you want to
 understand startups is to look at the most successful companies and

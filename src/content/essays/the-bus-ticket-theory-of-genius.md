@@ -1,14 +1,12 @@
 ---
 title: "The Bus Ticket Theory of Genius"
-date: "January 2022"
-dateISO: "2022-01"
+date: "November 2019"
+dateISO: "2019-11"
 slug: "the-bus-ticket-theory-of-genius"
 sourceUrl: "https://paulgraham.com/genius.html"
 wordCount: 2641
 readingTime: 12
 ---
-
-November 2019
 
 Everyone knows that to do great work you need both natural ability
 and determination. But there's a third ingredient that's not as

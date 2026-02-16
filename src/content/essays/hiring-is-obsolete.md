@@ -1,7 +1,7 @@
 ---
 title: "Hiring is Obsolete"
-date: "January 2006"
-dateISO: "2006-01"
+date: "May 2005"
+dateISO: "2005-05"
 slug: "hiring-is-obsolete"
 sourceUrl: "https://paulgraham.com/hiring.html"
 wordCount: 4788
@@ -10,8 +10,6 @@ readingTime: 21
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-May 2005
 
 *(This essay is derived from a talk at the Berkeley CSUA.)*
 

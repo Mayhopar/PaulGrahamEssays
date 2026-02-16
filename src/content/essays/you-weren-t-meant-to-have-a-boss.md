@@ -1,7 +1,7 @@
 ---
 title: "You Weren't Meant to Have a Boss"
-date: "August 2008"
-dateISO: "2008-08"
+date: "March 2008"
+dateISO: "2008-03"
 slug: "you-weren-t-meant-to-have-a-boss"
 sourceUrl: "https://paulgraham.com/boss.html"
 wordCount: 2531
@@ -10,8 +10,6 @@ readingTime: 12
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-March 2008, rev. June 2008
 
 Technology tends to separate normal from natural. Our bodies
 weren't designed to eat the foods that people in rich countries eat, or

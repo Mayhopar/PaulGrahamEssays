@@ -1,14 +1,12 @@
 ---
 title: "What I Worked On"
-date: "January 2014"
-dateISO: "2014-01"
+date: "February 2021"
+dateISO: "2021-02"
 slug: "what-i-worked-on"
 sourceUrl: "https://paulgraham.com/worked.html"
 wordCount: 13810
 readingTime: 61
 ---
-
-February 2021
 
 Before college the two main things I worked on, outside of school,
 were writing and programming. I didn't write essays. I wrote what

@@ -1,14 +1,13 @@
 ---
 title: "What You Can't Say"
-date: "August 2007"
-dateISO: "2007-08"
+date: "January 2004"
+dateISO: "2004-01"
 slug: "what-you-can-t-say"
 sourceUrl: "https://paulgraham.com/say.html"
 wordCount: 5413
 readingTime: 24
 ---
 
-January 2004
 Have you ever seen an old photo of yourself and
 been embarrassed at the way you looked? *Did we actually
 dress like that?* We did. And we had no idea how

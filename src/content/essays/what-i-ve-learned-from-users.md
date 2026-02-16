@@ -1,14 +1,12 @@
 ---
 title: "What I've Learned from Users"
-date: "January 2012"
-dateISO: "2012-01"
+date: "September 2022"
+dateISO: "2022-09"
 slug: "what-i-ve-learned-from-users"
 sourceUrl: "https://paulgraham.com/users.html"
 wordCount: 2194
 readingTime: 10
 ---
-
-September 2022
 
 I recently told applicants to Y Combinator that the best advice I
 could give for getting in, per word, was

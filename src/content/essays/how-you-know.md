@@ -1,14 +1,12 @@
 ---
 title: "How You Know"
-date: "January 2014"
-dateISO: "2014-01"
+date: "December 2014"
+dateISO: "2014-12"
 slug: "how-you-know"
 sourceUrl: "https://paulgraham.com/know.html"
 wordCount: 651
 readingTime: 3
 ---
-
-December 2014
 
 I've read Villehardouin's chronicle of the Fourth Crusade at least
 two times, maybe three. And yet if I had to write down everything

@@ -1,14 +1,12 @@
 ---
 title: "The Fatal Pinch"
-date: "January 2014"
-dateISO: "2014-01"
+date: "December 2014"
+dateISO: "2014-12"
 slug: "the-fatal-pinch"
 sourceUrl: "https://paulgraham.com/pinch.html"
 wordCount: 1600
 readingTime: 7
 ---
-
-December 2014
 
 Many startups go through a point a few months before they die where
 although they have a significant amount of money in the bank, they're

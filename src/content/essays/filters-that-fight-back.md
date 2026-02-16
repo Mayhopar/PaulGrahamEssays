@@ -1,14 +1,13 @@
 ---
 title: "Filters that Fight Back"
-date: "November 2003"
-dateISO: "2003-11"
+date: "August 2003"
+dateISO: "2003-08"
 slug: "filters-that-fight-back"
 sourceUrl: "https://paulgraham.com/ffb.html"
 wordCount: 824
 readingTime: 4
 ---
 
-August 2003
 We may be able to improve the accuracy of Bayesian spam filters
 by having them follow links to see what's
 waiting at the other end. Richard Jowsey of

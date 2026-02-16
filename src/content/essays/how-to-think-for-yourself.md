@@ -1,14 +1,12 @@
 ---
 title: "How to Think for Yourself"
-date: "January 2020"
-dateISO: "2020-01"
+date: "November 2020"
+dateISO: "2020-11"
 slug: "how-to-think-for-yourself"
 sourceUrl: "https://paulgraham.com/think.html"
 wordCount: 3448
 readingTime: 15
 ---
-
-November 2020
 
 There are some kinds of work that you can't do well without thinking
 differently from your peers. To be a successful scientist, for

@@ -1,14 +1,12 @@
 ---
 title: "The Best Essay"
-date: "January 2024"
-dateISO: "2024-01"
+date: "March 2024"
+dateISO: "2024-03"
 slug: "the-best-essay"
 sourceUrl: "https://paulgraham.com/best.html"
 wordCount: 4338
 readingTime: 19
 ---
-
-March 2024
 
 Despite its title this isn't meant to be the best essay. My goal
 here is to figure out what the best essay would be like.

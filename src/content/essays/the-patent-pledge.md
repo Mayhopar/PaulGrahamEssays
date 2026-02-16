@@ -1,14 +1,12 @@
 ---
 title: "The Patent Pledge"
-date: "April 2011"
-dateISO: "2011-04"
+date: "August 2011"
+dateISO: "2011-08"
 slug: "the-patent-pledge"
 sourceUrl: "https://paulgraham.com/patentpledge.html"
 wordCount: 681
 readingTime: 3
 ---
-
-August 2011
 
 I realized recently that we may be able to solve part of the patent
 problem without waiting for the government.

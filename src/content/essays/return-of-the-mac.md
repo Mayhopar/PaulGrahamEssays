@@ -1,14 +1,12 @@
 ---
 title: "Return of the Mac"
-date: "January 2005"
-dateISO: "2005-01"
+date: "March 2005"
+dateISO: "2005-03"
 slug: "return-of-the-mac"
 sourceUrl: "https://paulgraham.com/mac.html"
 wordCount: 1004
 readingTime: 5
 ---
-
-March 2005
 
 All the best [hackers](gba.html)
 I know are gradually switching to Macs. My

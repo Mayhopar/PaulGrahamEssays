@@ -1,7 +1,7 @@
 ---
 title: "Great Hackers"
-date: "September 2004"
-dateISO: "2004-09"
+date: "July 2004"
+dateISO: "2004-07"
 slug: "great-hackers"
 sourceUrl: "https://paulgraham.com/gh.html"
 wordCount: 5228
@@ -10,8 +10,6 @@ readingTime: 23
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-July 2004
 
 *(This essay is derived from a talk at Oscon 2004.)*
 

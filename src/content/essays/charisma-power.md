@@ -8,8 +8,6 @@ wordCount: 121
 readingTime: 1
 ---
 
-January 2017
-
 People who are powerful but uncharismatic will tend to be disliked.
 Their power makes them a target for criticism that they don't have
 the charisma to disarm. That was Hillary Clinton's problem. It also

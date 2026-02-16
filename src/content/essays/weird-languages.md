@@ -1,14 +1,12 @@
 ---
 title: "Weird Languages"
-date: "January 2021"
-dateISO: "2021-01"
+date: "August 2021"
+dateISO: "2021-08"
 slug: "weird-languages"
 sourceUrl: "https://paulgraham.com/weird.html"
 wordCount: 348
 readingTime: 2
 ---
-
-August 2021
 
 When people say that in their experience all programming languages
 are basically equivalent, they're making a statement not about

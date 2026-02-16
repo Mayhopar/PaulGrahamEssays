@@ -1,14 +1,12 @@
 ---
 title: "After the Ladder"
-date: "January 2006"
-dateISO: "2006-01"
+date: "August 2005"
+dateISO: "2005-08"
 slug: "after-the-ladder"
 sourceUrl: "https://paulgraham.com/ladder.html"
 wordCount: 585
 readingTime: 3
 ---
-
-August 2005
 
 Thirty years ago, one was supposed to work one's way up the corporate
 ladder. That's less the rule now. Our generation wants to get

@@ -1,14 +1,12 @@
 ---
 title: "The Right Kind of Stubborn"
-date: "January 2024"
-dateISO: "2024-01"
+date: "July 2024"
+dateISO: "2024-07"
 slug: "the-right-kind-of-stubborn"
 sourceUrl: "https://paulgraham.com/persistence.html"
 wordCount: 1936
 readingTime: 9
 ---
-
-July 2024
 
 Successful people tend to be persistent. New ideas often don't work
 at first, but they're not deterred. They keep trying and eventually

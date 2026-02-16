@@ -11,8 +11,6 @@ readingTime: 19
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
 
-July 2013
-
 One of the most common types of advice we give at Y Combinator is
 to do things that don't scale. A lot of would-be founders believe
 that startups either take off or don't. You build something, make

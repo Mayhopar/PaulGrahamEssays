@@ -11,8 +11,6 @@ readingTime: 7
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
 
-September 2009
-
 Like all investors, we spend a lot of time trying to learn how to
 predict which startups will succeed. We probably spend more time
 thinking about it than most, because we invest the earliest.

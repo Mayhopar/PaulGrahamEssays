@@ -1,14 +1,12 @@
 ---
 title: "Be Good"
-date: "August 2008"
-dateISO: "2008-08"
+date: "April 2008"
+dateISO: "2008-04"
 slug: "be-good"
 sourceUrl: "https://paulgraham.com/good.html"
 wordCount: 2948
 readingTime: 13
 ---
-
-April 2008
 
 *(This essay is derived from a talk at the 2008 Startup School.)*
 

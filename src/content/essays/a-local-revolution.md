@@ -1,14 +1,12 @@
 ---
 title: "A Local Revolution?"
-date: "January 2009"
-dateISO: "2009-01"
+date: "April 2009"
+dateISO: "2009-04"
 slug: "a-local-revolution"
 sourceUrl: "https://paulgraham.com/revolution.html"
 wordCount: 1339
 readingTime: 6
 ---
-
-April 2009
 
 Recently I realized I'd been holding two ideas in my head that would explode if combined.
 

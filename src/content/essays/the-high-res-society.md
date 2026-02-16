@@ -1,14 +1,12 @@
 ---
 title: "The High-Res Society"
-date: "January 2008"
-dateISO: "2008-01"
+date: "December 2008"
+dateISO: "2008-12"
 slug: "the-high-res-society"
 sourceUrl: "https://paulgraham.com/highres.html"
 wordCount: 1522
 readingTime: 7
 ---
-
-December 2008
 
 For nearly all of history the success of a society was proportionate
 to its ability to assemble large and disciplined organizations.

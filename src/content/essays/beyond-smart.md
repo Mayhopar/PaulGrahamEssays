@@ -1,14 +1,12 @@
 ---
 title: "Beyond Smart"
-date: "January 2021"
-dateISO: "2021-01"
+date: "October 2021"
+dateISO: "2021-10"
 slug: "beyond-smart"
 sourceUrl: "https://paulgraham.com/smart.html"
 wordCount: 1422
 readingTime: 7
 ---
-
-October 2021
 
 If you asked people what was special about Einstein, most would say
 that he was really smart. Even the ones who tried to give you a

@@ -1,7 +1,7 @@
 ---
 title: "The Hardware Renaissance"
-date: "May 2012"
-dateISO: "2012-05"
+date: "October 2012"
+dateISO: "2012-10"
 slug: "the-hardware-renaissance"
 sourceUrl: "https://paulgraham.com/hw.html"
 wordCount: 402
@@ -10,8 +10,6 @@ readingTime: 2
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-October 2012
 
 One advantage of Y Combinator's early, broad focus is that we
 see trends before most other people. And one of the most conspicuous

@@ -8,8 +8,6 @@ wordCount: 776
 readingTime: 4
 ---
 
-January 2007
-
 *(Foreword to Jessica Livingston's
 [Founders at Work](http://www.amazon.com/gp/product/1590597141).)*
 

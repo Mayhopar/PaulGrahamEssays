@@ -1,7 +1,7 @@
 ---
 title: "Before the Startup"
-date: "January 2014"
-dateISO: "2014-01"
+date: "October 2014"
+dateISO: "2014-10"
 slug: "before-the-startup"
 sourceUrl: "https://paulgraham.com/before.html"
 wordCount: 4603
@@ -10,8 +10,6 @@ readingTime: 21
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-October 2014
 
 *(This essay is derived from a guest lecture in Sam Altman's [startup class](http://startupclass.samaltman.com/) at
 Stanford. It's intended for college students, but much of it is

@@ -1,7 +1,7 @@
 ---
 title: "Why There Aren't More Googles"
-date: "August 2008"
-dateISO: "2008-08"
+date: "April 2008"
+dateISO: "2008-04"
 slug: "why-there-aren-t-more-googles"
 sourceUrl: "https://paulgraham.com/googles.html"
 wordCount: 1341
@@ -10,8 +10,6 @@ readingTime: 6
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-April 2008
 
 Umair Haque
 [wrote](http://discussionleader.hbsp.com/haque/2008/04/i_agree_and_i.html) recently that the reason there aren't more Googles is

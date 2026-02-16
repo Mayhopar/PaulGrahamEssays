@@ -1,14 +1,12 @@
 ---
 title: "Stuff"
-date: "July 2008"
-dateISO: "2008-07"
+date: "July 2007"
+dateISO: "2007-07"
 slug: "stuff"
 sourceUrl: "https://paulgraham.com/stuff.html"
 wordCount: 1246
 readingTime: 6
 ---
-
-July 2007
 
 I have too much stuff. Most people in America do. In fact, the
 poorer people are, the more stuff they seem to have. Hardly anyone

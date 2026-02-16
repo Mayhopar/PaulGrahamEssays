@@ -1,14 +1,12 @@
 ---
 title: "Why YC"
-date: "January 2009"
-dateISO: "2009-01"
+date: "March 2006"
+dateISO: "2006-03"
 slug: "why-yc"
 sourceUrl: "https://paulgraham.com/whyyc.html"
 wordCount: 376
 readingTime: 2
 ---
-
-March 2006, rev August 2009
 
 Yesterday one of the founders we funded asked me why we started
 [Y

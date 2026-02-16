@@ -1,14 +1,12 @@
 ---
 title: "How to Work Hard"
-date: "January 2021"
-dateISO: "2021-01"
+date: "June 2021"
+dateISO: "2021-06"
 slug: "how-to-work-hard"
 sourceUrl: "https://paulgraham.com/hwh.html"
 wordCount: 3331
 readingTime: 15
 ---
-
-June 2021
 
 It might not seem there's much to learn about how to work hard.
 Anyone who's been to school knows what it entails, even if they

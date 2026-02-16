@@ -1,7 +1,7 @@
 ---
 title: "What Happened to Yahoo"
-date: "January 2010"
-dateISO: "2010-01"
+date: "August 2010"
+dateISO: "2010-08"
 slug: "what-happened-to-yahoo"
 sourceUrl: "https://paulgraham.com/yahoo.html"
 wordCount: 2049
@@ -10,8 +10,6 @@ readingTime: 9
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-August 2010
 
 When I went to work for Yahoo after they bought our startup in 1998,
 it felt like the center of the world. It was supposed to be the

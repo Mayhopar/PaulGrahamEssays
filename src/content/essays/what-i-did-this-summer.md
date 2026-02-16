@@ -1,14 +1,12 @@
 ---
 title: "What I Did this Summer"
-date: "January 2006"
-dateISO: "2006-01"
+date: "October 2005"
+dateISO: "2005-10"
 slug: "what-i-did-this-summer"
 sourceUrl: "https://paulgraham.com/sfp.html"
 wordCount: 2574
 readingTime: 12
 ---
-
-October 2005
 
 The first Summer Founders Program has just finished. We were
 surprised how well it went. Overall only about 10% of startups

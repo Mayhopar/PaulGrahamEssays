@@ -1,14 +1,12 @@
 ---
 title: "The Age of the Essay"
-date: "January 2004"
-dateISO: "2004-01"
+date: "September 2004"
+dateISO: "2004-09"
 slug: "the-age-of-the-essay"
 sourceUrl: "https://paulgraham.com/essay.html"
 wordCount: 4523
 readingTime: 20
 ---
-
-September 2004
 
 Remember the essays you had to write in high school?
 Topic sentence, introductory paragraph,

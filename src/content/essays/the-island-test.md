@@ -8,8 +8,6 @@ wordCount: 755
 readingTime: 4
 ---
 
-July 2006
-
 I've discovered a handy test for figuring out what you're addicted
 to. Imagine you were going to spend the weekend at a friend's house
 on a little island off the coast of Maine. There are no shops on

@@ -1,14 +1,12 @@
 ---
 title: "A Unified Theory of VC Suckage"
-date: "February 2007"
-dateISO: "2007-02"
+date: "March 2005"
+dateISO: "2005-03"
 slug: "a-unified-theory-of-vc-suckage"
 sourceUrl: "https://paulgraham.com/venturecapital.html"
 wordCount: 1472
 readingTime: 7
 ---
-
-March 2005
 
 A couple months ago I got an email from a recruiter asking if I was
 interested in being a "technologist in residence" at a new venture

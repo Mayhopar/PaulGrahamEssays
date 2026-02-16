@@ -1,14 +1,12 @@
 ---
 title: "The Roots of Lisp"
-date: "February 2007"
-dateISO: "2007-02"
+date: "May 2001"
+dateISO: "2001-05"
 slug: "the-roots-of-lisp"
 sourceUrl: "https://paulgraham.com/rootsoflisp.html"
 wordCount: 358
 readingTime: 2
 ---
-
-May 2001
 
 *(I wrote this article to help myself understand exactly
 what McCarthy discovered. You don't need to know this stuff

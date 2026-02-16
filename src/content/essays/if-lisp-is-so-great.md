@@ -1,14 +1,12 @@
 ---
 title: "If Lisp is So Great"
-date: "January 2003"
-dateISO: "2003-01"
+date: "May 2003"
+dateISO: "2003-05"
 slug: "if-lisp-is-so-great"
 sourceUrl: "https://paulgraham.com/iflisp.html"
 wordCount: 420
 readingTime: 2
 ---
-
-May 2003
 
 If Lisp is so great, why don't more people use it? I was
 asked this question by a student in the audience at a

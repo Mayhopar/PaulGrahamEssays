@@ -1,14 +1,12 @@
 ---
 title: "Writing and Speaking"
-date: "January 2012"
-dateISO: "2012-01"
+date: "March 2012"
+dateISO: "2012-03"
 slug: "writing-and-speaking"
 sourceUrl: "https://paulgraham.com/speak.html"
 wordCount: 1194
 readingTime: 6
 ---
-
-March 2012
 
 I'm not a very good speaker. I say "um" a lot. Sometimes I have
 to pause when I lose my train of thought. I wish I were a better

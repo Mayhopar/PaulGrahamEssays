@@ -1,14 +1,12 @@
 ---
 title: "Why It's Safe for Founders to Be Nice"
-date: "January 2015"
-dateISO: "2015-01"
+date: "August 2015"
+dateISO: "2015-08"
 slug: "why-it-s-safe-for-founders-to-be-nice"
 sourceUrl: "https://paulgraham.com/safe.html"
 wordCount: 785
 readingTime: 4
 ---
-
-August 2015
 
 I recently got an email from a founder that helped me understand
 something important: why it's safe for startup founders to be nice

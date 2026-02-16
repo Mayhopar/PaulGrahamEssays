@@ -1,14 +1,12 @@
 ---
 title: "Jessica Livingston"
-date: "January 2015"
-dateISO: "2015-01"
+date: "November 2015"
+dateISO: "2015-11"
 slug: "jessica-livingston"
 sourceUrl: "https://paulgraham.com/jessica.html"
 wordCount: 1968
 readingTime: 9
 ---
-
-November 2015
 
 A few months ago an article about Y Combinator said that early on
 it had been a "one-man show." It's sadly common to read that sort

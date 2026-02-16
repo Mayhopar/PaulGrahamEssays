@@ -1,14 +1,12 @@
 ---
 title: "Inequality and Risk"
-date: "January 2006"
-dateISO: "2006-01"
+date: "August 2005"
+dateISO: "2005-08"
 slug: "inequality-and-risk"
 sourceUrl: "https://paulgraham.com/inequality.html"
 wordCount: 2819
 readingTime: 13
 ---
-
-August 2005
 
 *(This essay is derived from a talk at Defcon 2005.)*
 

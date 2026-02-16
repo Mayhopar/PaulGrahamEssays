@@ -1,14 +1,12 @@
 ---
 title: "Why to Move to a Startup Hub"
-date: "January 2007"
-dateISO: "2007-01"
+date: "October 2007"
+dateISO: "2007-10"
 slug: "why-to-move-to-a-startup-hub"
 sourceUrl: "https://paulgraham.com/startuphubs.html"
 wordCount: 1457
 readingTime: 7
 ---
-
-October 2007
 
 After the last
 [talk](webstartups.html) I gave, one of the organizers

@@ -1,14 +1,12 @@
 ---
 title: "The Trouble with the Segway"
-date: "January 2009"
-dateISO: "2009-01"
+date: "July 2009"
+dateISO: "2009-07"
 slug: "the-trouble-with-the-segway"
 sourceUrl: "https://paulgraham.com/segway.html"
 wordCount: 379
 readingTime: 2
 ---
-
-July 2009
 
 The Segway hasn't delivered on its initial promise, to put it mildly.
 There are several reasons why, but one is that people don't want

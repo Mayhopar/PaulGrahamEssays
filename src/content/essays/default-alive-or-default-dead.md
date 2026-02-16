@@ -1,14 +1,12 @@
 ---
 title: "Default Alive or Default Dead?"
-date: "January 2015"
-dateISO: "2015-01"
+date: "October 2015"
+dateISO: "2015-10"
 slug: "default-alive-or-default-dead"
 sourceUrl: "https://paulgraham.com/aord.html"
 wordCount: 1498
 readingTime: 7
 ---
-
-October 2015
 
 When I talk to a startup that's been operating for more than 8 or
 9 months, the first thing I want to know is almost always the same.

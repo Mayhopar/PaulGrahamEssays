@@ -11,8 +11,6 @@ readingTime: 5
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
 
-August 2013
-
 The biggest component in most investors' opinion of you is the
 opinion of other investors. Which is of course a recipe for
 exponential growth. When one investor wants to invest in you, that

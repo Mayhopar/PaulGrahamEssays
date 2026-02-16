@@ -1,14 +1,12 @@
 ---
 title: "Made in USA"
-date: "January 2004"
-dateISO: "2004-01"
+date: "November 2004"
+dateISO: "2004-11"
 slug: "made-in-usa"
 sourceUrl: "https://paulgraham.com/usa.html"
 wordCount: 1846
 readingTime: 9
 ---
-
-November 2004
 
 *(This is a new essay for the Japanese edition of
 [Hackers

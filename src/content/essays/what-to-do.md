@@ -1,14 +1,12 @@
 ---
 title: "What to Do"
-date: "January 2025"
-dateISO: "2025-01"
+date: "March 2025"
+dateISO: "2025-03"
 slug: "what-to-do"
 sourceUrl: "https://paulgraham.com/do.html"
 wordCount: 1590
 readingTime: 7
 ---
-
-March 2025
 
 What should one do? That may seem a strange question, but it's not
 meaningless or unanswerable. It's the sort of question kids ask

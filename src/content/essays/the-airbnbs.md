@@ -1,14 +1,12 @@
 ---
 title: "The Airbnbs"
-date: "January 2020"
-dateISO: "2020-01"
+date: "December 2020"
+dateISO: "2020-12"
 slug: "the-airbnbs"
 sourceUrl: "https://paulgraham.com/airbnbs.html"
 wordCount: 1102
 readingTime: 5
 ---
-
-December 2020
 
 To celebrate Airbnb's IPO and to help future founders, I thought
 it might be useful to explain what was special about Airbnb.

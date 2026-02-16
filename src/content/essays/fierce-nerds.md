@@ -1,14 +1,12 @@
 ---
 title: "Fierce Nerds"
-date: "January 2021"
-dateISO: "2021-01"
+date: "May 2021"
+dateISO: "2021-05"
 slug: "fierce-nerds"
 sourceUrl: "https://paulgraham.com/fn.html"
 wordCount: 1248
 readingTime: 6
 ---
-
-May 2021
 
 Most people think of nerds as quiet, diffident people. In ordinary
 social situations they are — as quiet and diffident as the star

@@ -1,14 +1,12 @@
 ---
 title: "The Founder Visa"
-date: "November 2006"
-dateISO: "2006-11"
+date: "April 2009"
+dateISO: "2009-04"
 slug: "the-founder-visa"
 sourceUrl: "https://paulgraham.com/foundervisa.html"
 wordCount: 391
 readingTime: 2
 ---
-
-April 2009
 
 I usually avoid politics, but since we now seem to have an administration that's open to suggestions, I'm going to risk making one. The single biggest thing the government could do to increase the number of startups in this country is a policy that would cost nothing: establish a new class of visa for startup founders.
 

@@ -1,14 +1,13 @@
 ---
 title: "Taste for Makers"
-date: "January 2002"
-dateISO: "2002-01"
+date: "February 2002"
+dateISO: "2002-02"
 slug: "taste-for-makers"
 sourceUrl: "https://paulgraham.com/taste.html"
 wordCount: 4321
 readingTime: 19
 ---
 
-February 2002
 "...Copernicus'
 aesthetic objections to [equants] provided one essential
 motive for his rejection of the Ptolemaic system...."

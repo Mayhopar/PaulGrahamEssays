@@ -1,14 +1,12 @@
 ---
 title: "How to Lose Time and Money"
-date: "January 2010"
-dateISO: "2010-01"
+date: "July 2010"
+dateISO: "2010-07"
 slug: "how-to-lose-time-and-money"
 sourceUrl: "https://paulgraham.com/selfindulgence.html"
 wordCount: 678
 readingTime: 3
 ---
-
-July 2010
 
 When we sold our startup in 1998 I suddenly got a lot of money. I
 now had to think about something I hadn't had to think about before:

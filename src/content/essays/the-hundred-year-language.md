@@ -1,14 +1,12 @@
 ---
 title: "The Hundred-Year Language"
-date: "January 2003"
-dateISO: "2003-01"
+date: "April 2003"
+dateISO: "2003-04"
 slug: "the-hundred-year-language"
 sourceUrl: "https://paulgraham.com/hundred.html"
 wordCount: 4791
 readingTime: 21
 ---
-
-April 2003
 
 *(This essay is derived from a keynote talk at PyCon 2003.)*
 

@@ -1,14 +1,12 @@
 ---
 title: "Five Questions about Language Design"
-date: "February 2007"
-dateISO: "2007-02"
+date: "May 2001"
+dateISO: "2001-05"
 slug: "five-questions-about-language-design"
 sourceUrl: "https://paulgraham.com/langdes.html"
 wordCount: 2941
 readingTime: 13
 ---
-
-May 2001
 
 *(These are some notes I made
 for a panel discussion on programming language design

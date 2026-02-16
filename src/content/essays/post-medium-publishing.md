@@ -1,14 +1,12 @@
 ---
 title: "Post-Medium Publishing"
-date: "January 2009"
-dateISO: "2009-01"
+date: "September 2009"
+dateISO: "2009-09"
 slug: "post-medium-publishing"
 sourceUrl: "https://paulgraham.com/publishing.html"
 wordCount: 1772
 readingTime: 8
 ---
-
-September 2009
 
 Publishers of all types, from news to music, are unhappy that
 consumers won't pay for content anymore. At least, that's how they

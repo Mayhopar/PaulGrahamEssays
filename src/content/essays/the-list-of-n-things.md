@@ -8,8 +8,6 @@ wordCount: 1446
 readingTime: 7
 ---
 
-September 2009
-
 I bet you the current issue of *Cosmopolitan* has an article
 whose title begins with a number. "7 Things He Won't Tell You about
 Sex," or something like that. Some popular magazines

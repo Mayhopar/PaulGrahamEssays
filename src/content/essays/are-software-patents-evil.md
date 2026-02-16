@@ -8,8 +8,6 @@ wordCount: 4658
 readingTime: 21
 ---
 
-March 2006
-
 *(This essay is derived from a talk at Google.)*
 
 A few weeks ago I found to my surprise that I'd been granted four [patents](http://paulgraham.infogami.com/blog/morepatents).

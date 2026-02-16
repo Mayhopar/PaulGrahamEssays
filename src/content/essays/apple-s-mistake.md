@@ -1,7 +1,7 @@
 ---
 title: "Apple's Mistake"
-date: "January 1995"
-dateISO: "1995-01"
+date: "November 2009"
+dateISO: "2009-11"
 slug: "apple-s-mistake"
 sourceUrl: "https://paulgraham.com/apple.html"
 wordCount: 2159
@@ -10,8 +10,6 @@ readingTime: 10
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-November 2009
 
 I don't think Apple realizes how badly the App Store approval process
 is broken. Or rather, I don't think they realize how much it matters

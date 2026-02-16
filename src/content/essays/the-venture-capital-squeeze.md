@@ -1,14 +1,12 @@
 ---
 title: "The Venture Capital Squeeze"
-date: "February 2007"
-dateISO: "2007-02"
+date: "November 2005"
+dateISO: "2005-11"
 slug: "the-venture-capital-squeeze"
 sourceUrl: "https://paulgraham.com/vcsqueeze.html"
 wordCount: 1564
 readingTime: 7
 ---
-
-November 2005
 
 In the next few years, venture capital funds will find themselves
 squeezed from four directions. They're already stuck with a seller's

@@ -1,7 +1,7 @@
 ---
 title: "How Not to Die"
-date: "January 2007"
-dateISO: "2007-01"
+date: "August 2007"
+dateISO: "2007-08"
 slug: "how-not-to-die"
 sourceUrl: "https://paulgraham.com/die.html"
 wordCount: 1973
@@ -10,8 +10,6 @@ readingTime: 9
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-August 2007
 
 *(This is a talk I gave at the last
 Y Combinator dinner of the summer.

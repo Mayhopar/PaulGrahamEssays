@@ -1,14 +1,12 @@
 ---
 title: "Why TV Lost"
-date: "March 2015"
-dateISO: "2015-03"
+date: "March 2009"
+dateISO: "2009-03"
 slug: "why-tv-lost"
 sourceUrl: "https://paulgraham.com/convergence.html"
 wordCount: 1529
 readingTime: 7
 ---
-
-March 2009
 
 About twenty years ago people noticed computers and TV were on a
 collision course and started to speculate about what they'd produce

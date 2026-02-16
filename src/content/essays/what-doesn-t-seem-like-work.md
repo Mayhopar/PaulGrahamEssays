@@ -1,14 +1,12 @@
 ---
 title: "What Doesn't Seem Like Work?"
-date: "September 2020"
-dateISO: "2020-09"
+date: "January 2015"
+dateISO: "2015-01"
 slug: "what-doesn-t-seem-like-work"
 sourceUrl: "https://paulgraham.com/work.html"
 wordCount: 483
 readingTime: 3
 ---
-
-January 2015
 
 My father is a mathematician. For most of my childhood he worked
 for Westinghouse, modelling nuclear reactors.

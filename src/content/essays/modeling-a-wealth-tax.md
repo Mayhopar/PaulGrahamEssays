@@ -1,14 +1,12 @@
 ---
 title: "Modeling a Wealth Tax"
-date: "January 2020"
-dateISO: "2020-01"
+date: "August 2020"
+dateISO: "2020-08"
 slug: "modeling-a-wealth-tax"
 sourceUrl: "https://paulgraham.com/wtax.html"
 wordCount: 421
 readingTime: 2
 ---
-
-August 2020
 
 Some politicians are proposing to introduce wealth taxes in addition
 to income and capital gains taxes. Let's try modeling the effects of various levels

@@ -1,14 +1,12 @@
 ---
 title: "An Alternative Theory of Unions"
-date: "January 2007"
-dateISO: "2007-01"
+date: "May 2007"
+dateISO: "2007-05"
 slug: "an-alternative-theory-of-unions"
 sourceUrl: "https://paulgraham.com/unions.html"
 wordCount: 515
 readingTime: 3
 ---
-
-May 2007
 
 People who worry about the increasing gap between rich and poor
 generally look back on the mid twentieth century as a golden age.

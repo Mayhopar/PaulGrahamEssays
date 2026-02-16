@@ -1,14 +1,12 @@
 ---
 title: "Why Startups Condense in America"
-date: "February 2007"
-dateISO: "2007-02"
+date: "May 2006"
+dateISO: "2006-05"
 slug: "why-startups-condense-in-america"
 sourceUrl: "https://paulgraham.com/america.html"
 wordCount: 4764
 readingTime: 21
 ---
-
-May 2006
 
 *(This essay is derived from a keynote at Xtech.)*
 

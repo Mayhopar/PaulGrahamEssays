@@ -1,14 +1,12 @@
 ---
 title: "Holding a Program in One's Head"
-date: "January 2007"
-dateISO: "2007-01"
+date: "August 2007"
+dateISO: "2007-08"
 slug: "holding-a-program-in-one-s-head"
 sourceUrl: "https://paulgraham.com/head.html"
 wordCount: 1835
 readingTime: 8
 ---
-
-August 2007
 
 A good programmer working intensively on his own code can hold it
 in his mind the way a mathematician holds a problem he's working

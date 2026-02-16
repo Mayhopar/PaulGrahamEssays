@@ -1,14 +1,12 @@
 ---
 title: "The Reddits"
-date: "January 2024"
-dateISO: "2024-01"
+date: "March 2024"
+dateISO: "2024-03"
 slug: "the-reddits"
 sourceUrl: "https://paulgraham.com/reddits.html"
 wordCount: 1168
 readingTime: 6
 ---
-
-March 2024
 
 I met the Reddits before we even started Y Combinator. In fact they
 were one of the reasons we started it.

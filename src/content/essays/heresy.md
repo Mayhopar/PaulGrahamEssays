@@ -1,14 +1,12 @@
 ---
 title: "Heresy"
-date: "March 2022"
-dateISO: "2022-03"
+date: "April 2022"
+dateISO: "2022-04"
 slug: "heresy"
 sourceUrl: "https://paulgraham.com/heresy.html"
 wordCount: 2116
 readingTime: 10
 ---
-
-April 2022
 
 One of the most surprising things I've witnessed in my lifetime is
 the rebirth of the concept of heresy.

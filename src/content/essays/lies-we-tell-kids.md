@@ -1,14 +1,12 @@
 ---
 title: "Lies We Tell Kids"
-date: "August 2008"
-dateISO: "2008-08"
+date: "May 2008"
+dateISO: "2008-05"
 slug: "lies-we-tell-kids"
 sourceUrl: "https://paulgraham.com/lies.html"
 wordCount: 5256
 readingTime: 23
 ---
-
-May 2008
 
 Adults lie constantly to kids. I'm not saying we should stop, but
 I think we should at least examine which lies we tell and why.

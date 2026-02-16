@@ -1,14 +1,12 @@
 ---
 title: "This Year We Can End the Death Penalty in California"
-date: "January 2016"
-dateISO: "2016-01"
+date: "November 2016"
+dateISO: "2016-11"
 slug: "this-year-we-can-end-the-death-penalty-in-california"
 sourceUrl: "https://paulgraham.com/prop62.html"
 wordCount: 187
 readingTime: 1
 ---
-
-November 2016
 
 If you're a California voter, there is an important proposition
 on your ballot this year: Proposition 62, which bans the death

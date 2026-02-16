@@ -1,14 +1,12 @@
 ---
 title: "Let the Other 95% of Great Programmers In"
-date: "January 2014"
-dateISO: "2014-01"
+date: "December 2014"
+dateISO: "2014-12"
 slug: "let-the-other-95-of-great-programmers-in"
 sourceUrl: "https://paulgraham.com/95.html"
 wordCount: 924
 readingTime: 5
 ---
-
-December 2014
 
 American technology companies want the government to make immigration
 easier because they say they can't find enough programmers in the

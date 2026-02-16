@@ -1,14 +1,12 @@
 ---
 title: "Two Kinds of Judgement"
-date: "February 2020"
-dateISO: "2020-02"
+date: "April 2007"
+dateISO: "2007-04"
 slug: "two-kinds-of-judgement"
 sourceUrl: "https://paulgraham.com/judgement.html"
 wordCount: 740
 readingTime: 4
 ---
-
-April 2007
 
 There are two different ways people judge you. Sometimes judging
 you correctly is the end goal. But there's a second much more

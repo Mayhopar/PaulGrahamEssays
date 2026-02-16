@@ -1,7 +1,7 @@
 ---
 title: "The Top Idea in Your Mind"
-date: "January 2010"
-dateISO: "2010-01"
+date: "July 2010"
+dateISO: "2010-07"
 slug: "the-top-idea-in-your-mind"
 sourceUrl: "https://paulgraham.com/top.html"
 wordCount: 1175
@@ -10,8 +10,6 @@ readingTime: 6
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-July 2010
 
 I realized recently that what one thinks about in the shower in the
 morning is more important than I'd thought. I knew it was a good

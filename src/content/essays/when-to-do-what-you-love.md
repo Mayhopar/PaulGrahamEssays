@@ -1,14 +1,12 @@
 ---
 title: "When To Do What You Love"
-date: "January 2024"
-dateISO: "2024-01"
+date: "September 2024"
+dateISO: "2024-09"
 slug: "when-to-do-what-you-love"
 sourceUrl: "https://paulgraham.com/when.html"
 wordCount: 1545
 readingTime: 7
 ---
-
-September 2024
 
 There's some debate about whether it's a good idea to "follow your
 passion." In fact the question is impossible to answer with a simple

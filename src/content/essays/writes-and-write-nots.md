@@ -1,14 +1,12 @@
 ---
 title: "Writes and Write-Nots"
-date: "January 2024"
-dateISO: "2024-01"
+date: "October 2024"
+dateISO: "2024-10"
 slug: "writes-and-write-nots"
 sourceUrl: "https://paulgraham.com/writes.html"
 wordCount: 555
 readingTime: 3
 ---
-
-October 2024
 
 I'm usually reluctant to make predictions about technology, but I
 feel fairly confident about this one: in a couple decades there

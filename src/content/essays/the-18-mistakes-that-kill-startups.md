@@ -1,7 +1,7 @@
 ---
 title: "The 18 Mistakes That Kill Startups"
-date: "October 2020"
-dateISO: "2020-10"
+date: "October 2006"
+dateISO: "2006-10"
 slug: "the-18-mistakes-that-kill-startups"
 sourceUrl: "https://paulgraham.com/startupmistakes.html"
 wordCount: 5603
@@ -10,8 +10,6 @@ readingTime: 25
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-October 2006
 
 In the Q & A period after a recent talk, someone asked what made
 startups fail. After standing there gaping for a few seconds I

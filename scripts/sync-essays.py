@@ -11,13 +11,35 @@ import math
 import requests
 from bs4 import BeautifulSoup
 from markdownify import markdownify as md
-from htmldate import find_date
 from slugify import slugify
 
 ESSAYS_DIR = os.path.join(os.path.dirname(__file__), "..", "src", "content", "essays")
 BASE_URL = "https://paulgraham.com"
 ARTICLES_URL = f"{BASE_URL}/articles.html"
 WORDS_PER_MINUTE = 230
+
+MONTHS = [
+    "January", "February", "March", "April", "May", "June",
+    "July", "August", "September", "October", "November", "December",
+]
+MONTH_PATTERN = "|".join(MONTHS)
+# Matches "November 2009" or "March 2006, rev August 2009" at the start of a line
+INLINE_DATE_RE = re.compile(rf"^\s*({MONTH_PATTERN})\s+(\d{{4}})", re.MULTILINE)
+# Matches the full date line (including optional ", rev Month Year") for stripping
+INLINE_DATE_LINE_RE = re.compile(
+    rf"\n*({MONTH_PATTERN})\s+\d{{4}}(,\s*rev\.?\s*({MONTH_PATTERN})\s+\d{{4}})?\s*\n+"
+)
+
+
+def extract_inline_date(content):
+    """Parse the 'Month Year' date from the beginning of essay text."""
+    # Only search the first ~500 chars
+    match = INLINE_DATE_RE.search(content[:500])
+    if not match:
+        return "", ""
+    month, year = match.group(1), match.group(2)
+    month_num = str(MONTHS.index(month) + 1).zfill(2)
+    return f"{month} {year}", f"{year}-{month_num}"
 
 
 def get_existing_slugs():
@@ -102,20 +124,6 @@ def scrape_essay(href):
     html = resp.text
     soup = BeautifulSoup(html, "html.parser")
 
-    # Try to find the date from the page
-    date_str = ""
-    date_iso = ""
-
-    date_found = find_date(html)
-    if date_found:
-        date_iso = date_found[:7]  # "YYYY-MM"
-        try:
-            from datetime import datetime
-            dt = datetime.strptime(date_found, "%Y-%m-%d")
-            date_str = dt.strftime("%B %Y")
-        except (ValueError, TypeError):
-            date_str = date_found
-
     # Extract essay content
     content = extract_content(soup)
 
@@ -123,6 +131,15 @@ def scrape_essay(href):
     content = re.sub(r"\n{3,}", "\n\n", content)
     content = re.sub(r"\|\s*$", "", content)  # trailing pipe from tables
     content = content.strip()
+
+    # Parse date from the inline "Month Year" line in the essay text
+    date_str, date_iso = extract_inline_date(content)
+
+    # Strip the inline date line from content (it's shown in the header)
+    match = INLINE_DATE_LINE_RE.search(content[:500])
+    if match:
+        content = content[:match.start()] + "\n\n" + content[match.end():].lstrip("\n")
+        content = re.sub(r"\n{3,}", "\n\n", content).strip()
 
     # Word count and reading time
     words = len(content.split())

@@ -1,14 +1,12 @@
 ---
 title: "The Real Reason to End the Death Penalty"
-date: "December 2019"
-dateISO: "2019-12"
+date: "April 2021"
+dateISO: "2021-04"
 slug: "the-real-reason-to-end-the-death-penalty"
 sourceUrl: "https://paulgraham.com/real.html"
 wordCount: 763
 readingTime: 4
 ---
-
-April 2021
 
 When intellectuals talk about the death penalty, they talk about
 things like whether it's permissible for the state to take someone's

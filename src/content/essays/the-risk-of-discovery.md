@@ -8,8 +8,6 @@ wordCount: 216
 readingTime: 1
 ---
 
-January 2017
-
 Because biographies of famous scientists tend to
 edit out their mistakes, we underestimate the
 degree of risk they were willing to take.

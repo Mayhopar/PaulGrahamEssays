@@ -1,14 +1,13 @@
 ---
 title: "How Y Combinator Started"
-date: "March 2005"
-dateISO: "2005-03"
+date: "March 2012"
+dateISO: "2012-03"
 slug: "how-y-combinator-started"
 sourceUrl: "https://paulgraham.com/ycstart.html"
 wordCount: 1447
 readingTime: 7
 ---
 
-March 2012
 Y Combinator's 7th birthday was March 11. As usual we were so
 busy we didn't notice till a few days after. I don't think we've
 ever managed to remember our birthday on our birthday.

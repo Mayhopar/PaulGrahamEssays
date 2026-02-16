@@ -1,14 +1,13 @@
 ---
 title: "Copy What You Like"
-date: "January 2006"
-dateISO: "2006-01"
+date: "July 2006"
+dateISO: "2006-07"
 slug: "copy-what-you-like"
 sourceUrl: "https://paulgraham.com/copy.html"
 wordCount: 930
 readingTime: 5
 ---
 
-July 2006
 When I was in high school I spent a lot of time imitating bad
 writers. What we studied in English classes was mostly fiction,
 so I assumed that was the highest form of writing. Mistake number

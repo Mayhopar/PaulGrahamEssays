@@ -1,7 +1,7 @@
 ---
 title: "Revenge of the Nerds"
-date: "December 2001"
-dateISO: "2001-12"
+date: "May 2002"
+dateISO: "2002-05"
 slug: "revenge-of-the-nerds"
 sourceUrl: "https://paulgraham.com/icad.html"
 wordCount: 5852
@@ -10,8 +10,6 @@ readingTime: 26
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-May 2002
 
 "We were after the C++ programmers. We managed to drag a
 lot of them about halfway to Lisp."
@@ -601,7 +599,6 @@ use the most powerful language you can get, and wait for
 your competitors' pointy-haired bosses to revert to the mean.
 
 ---
-
 
 **Appendix: Power**
 

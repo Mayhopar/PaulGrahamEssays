@@ -1,7 +1,7 @@
 ---
 title: "Relentlessly Resourceful"
-date: "January 2009"
-dateISO: "2009-01"
+date: "March 2009"
+dateISO: "2009-03"
 slug: "relentlessly-resourceful"
 sourceUrl: "https://paulgraham.com/relres.html"
 wordCount: 1005
@@ -10,8 +10,6 @@ readingTime: 5
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-March 2009
 
 A couple days ago I finally got being a good startup founder down
 to two words: relentlessly resourceful.

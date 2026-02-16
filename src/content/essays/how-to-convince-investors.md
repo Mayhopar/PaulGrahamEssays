@@ -1,7 +1,7 @@
 ---
 title: "How to Convince Investors"
-date: "January 2013"
-dateISO: "2013-01"
+date: "August 2013"
+dateISO: "2013-08"
 slug: "how-to-convince-investors"
 sourceUrl: "https://paulgraham.com/convince.html"
 wordCount: 3690
@@ -10,8 +10,6 @@ readingTime: 17
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-August 2013
 
 When people hurt themselves lifting heavy things, it's usually
 because they try to lift with their back. The right way to lift

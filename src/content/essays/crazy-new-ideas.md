@@ -1,14 +1,12 @@
 ---
 title: "Crazy New Ideas"
-date: "January 2021"
-dateISO: "2021-01"
+date: "May 2021"
+dateISO: "2021-05"
 slug: "crazy-new-ideas"
 sourceUrl: "https://paulgraham.com/newideas.html"
 wordCount: 1326
 readingTime: 6
 ---
-
-May 2021
 
 There's one kind of opinion I'd be very afraid to express publicly.
 If someone I knew to be both a domain expert and a reasonable person

@@ -1,14 +1,12 @@
 ---
 title: "Coronavirus and Credibility"
-date: "January 2020"
-dateISO: "2020-01"
+date: "April 2020"
+dateISO: "2020-04"
 slug: "coronavirus-and-credibility"
 sourceUrl: "https://paulgraham.com/cred.html"
 wordCount: 237
 readingTime: 2
 ---
-
-April 2020
 
 I recently saw a
 [video](https://www.youtube.com/watch?v=NAh4uS4f78o)

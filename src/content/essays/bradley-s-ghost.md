@@ -1,14 +1,13 @@
 ---
 title: "Bradley's Ghost"
-date: "January 2007"
-dateISO: "2007-01"
+date: "November 2004"
+dateISO: "2004-11"
 slug: "bradley-s-ghost"
 sourceUrl: "https://paulgraham.com/polls.html"
 wordCount: 618
 readingTime: 3
 ---
 
-November 2004
 A lot of people are writing now about
 why Kerry lost. Here I want to
 examine a more specific question: why were the exit polls so

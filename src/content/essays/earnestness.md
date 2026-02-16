@@ -1,14 +1,12 @@
 ---
 title: "Earnestness"
-date: "January 2020"
-dateISO: "2020-01"
+date: "December 2020"
+dateISO: "2020-12"
 slug: "earnestness"
 sourceUrl: "https://paulgraham.com/earnest.html"
 wordCount: 1671
 readingTime: 8
 ---
-
-December 2020
 
 Jessica and I have certain words that have special significance
 when we're talking about startups. The highest compliment we can

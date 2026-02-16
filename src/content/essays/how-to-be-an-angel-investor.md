@@ -1,14 +1,12 @@
 ---
 title: "How to Be an Angel Investor"
-date: "January 1998"
-dateISO: "1998-01"
+date: "March 2009"
+dateISO: "2009-03"
 slug: "how-to-be-an-angel-investor"
 sourceUrl: "https://paulgraham.com/angelinvesting.html"
 wordCount: 3952
 readingTime: 18
 ---
-
-March 2009
 
 *(This essay is derived from a talk at [AngelConf](http://angelconf.org).)*
 

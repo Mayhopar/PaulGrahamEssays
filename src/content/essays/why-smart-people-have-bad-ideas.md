@@ -1,7 +1,7 @@
 ---
 title: "Why Smart People Have Bad Ideas"
-date: "January 1995"
-dateISO: "1995-01"
+date: "April 2005"
+dateISO: "2005-04"
 slug: "why-smart-people-have-bad-ideas"
 sourceUrl: "https://paulgraham.com/bronze.html"
 wordCount: 3172
@@ -10,8 +10,6 @@ readingTime: 14
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-April 2005
 
 This summer, as an
 experiment, some

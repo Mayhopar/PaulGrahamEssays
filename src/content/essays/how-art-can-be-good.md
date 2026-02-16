@@ -1,14 +1,12 @@
 ---
 title: "How Art Can Be Good"
-date: "January 2007"
-dateISO: "2007-01"
+date: "December 2006"
+dateISO: "2006-12"
 slug: "how-art-can-be-good"
 sourceUrl: "https://paulgraham.com/goodart.html"
 wordCount: 3624
 readingTime: 16
 ---
-
-December 2006
 
 I grew up believing that taste is just a matter of personal preference.
 Each person has things they like, but no one's preferences are any

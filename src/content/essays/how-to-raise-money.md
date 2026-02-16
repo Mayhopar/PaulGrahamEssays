@@ -1,7 +1,7 @@
 ---
 title: "How to Raise Money"
-date: "March 2014"
-dateISO: "2014-03"
+date: "September 2013"
+dateISO: "2013-09"
 slug: "how-to-raise-money"
 sourceUrl: "https://paulgraham.com/fr.html"
 wordCount: 10698
@@ -10,8 +10,6 @@ readingTime: 47
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-September 2013
 
 Most startups that raise money do it more than once. A typical
 trajectory might be (1) to get started with a few tens of thousands

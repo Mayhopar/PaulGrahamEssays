@@ -1,7 +1,7 @@
 ---
 title: "Black Swan Farming"
-date: "January 2012"
-dateISO: "2012-01"
+date: "September 2012"
+dateISO: "2012-09"
 slug: "black-swan-farming"
 sourceUrl: "https://paulgraham.com/swan.html"
 wordCount: 2158
@@ -10,8 +10,6 @@ readingTime: 10
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-September 2012
 
 I've done several types of work over the years but I don't know
 another as counterintuitive as startup investing.

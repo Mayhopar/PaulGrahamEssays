@@ -1,14 +1,12 @@
 ---
 title: "How to Be an Expert in a Changing World"
-date: "January 2020"
-dateISO: "2020-01"
+date: "December 2014"
+dateISO: "2014-12"
 slug: "how-to-be-an-expert-in-a-changing-world"
 sourceUrl: "https://paulgraham.com/ecw.html"
 wordCount: 1061
 readingTime: 5
 ---
-
-December 2014
 
 If the world were static, we could have monotonically increasing
 confidence in our beliefs. The more (and more varied) experience

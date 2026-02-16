@@ -1,14 +1,13 @@
 ---
 title: "Cities and Ambition"
-date: "January 2008"
-dateISO: "2008-01"
+date: "May 2008"
+dateISO: "2008-05"
 slug: "cities-and-ambition"
 sourceUrl: "https://paulgraham.com/cities.html"
 wordCount: 3604
 readingTime: 16
 ---
 
-May 2008
 Great cities attract ambitious people. You can sense it when you
 walk around one. In a hundred subtle ways, the city sends you a
 message: you could do more; you should try harder.

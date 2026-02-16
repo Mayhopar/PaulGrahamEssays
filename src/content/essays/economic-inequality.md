@@ -1,14 +1,12 @@
 ---
 title: "Economic Inequality"
-date: "April 2015"
-dateISO: "2015-04"
+date: "January 2016"
+dateISO: "2016-01"
 slug: "economic-inequality"
 sourceUrl: "https://paulgraham.com/ineq.html"
 wordCount: 3424
 readingTime: 15
 ---
-
-January 2016
 
 Since the 1970s, economic inequality in the US has increased
 dramatically. And in particular, the rich have gotten a lot richer.

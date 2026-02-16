@@ -1,7 +1,7 @@
 ---
 title: "A Student's Guide to Startups"
-date: "August 2020"
-dateISO: "2020-08"
+date: "October 2006"
+dateISO: "2006-10"
 slug: "a-student-s-guide-to-startups"
 sourceUrl: "https://paulgraham.com/mit.html"
 wordCount: 6458
@@ -10,8 +10,6 @@ readingTime: 29
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-October 2006
 
 *(This essay is derived from a talk at MIT.)*
 

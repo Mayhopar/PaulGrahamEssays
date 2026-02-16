@@ -1,14 +1,12 @@
 ---
 title: "The Pooled-Risk Company Management Company"
-date: "November 2006"
-dateISO: "2006-11"
+date: "July 2008"
+dateISO: "2008-07"
 slug: "the-pooled-risk-company-management-company"
 sourceUrl: "https://paulgraham.com/prcmc.html"
 wordCount: 1260
 readingTime: 6
 ---
-
-July 2008
 
 At this year's startup school, David Heinemeier Hansson gave a
 [talk](http://www.omnisio.com/startupschool08/david-heinemeier-hansson-at-startup-school-08)

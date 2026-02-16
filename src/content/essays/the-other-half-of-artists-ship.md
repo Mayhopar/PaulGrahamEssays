@@ -1,14 +1,12 @@
 ---
 title: "The Other Half of \"Artists Ship\""
-date: "January 2008"
-dateISO: "2008-01"
+date: "November 2008"
+dateISO: "2008-11"
 slug: "the-other-half-of-artists-ship"
 sourceUrl: "https://paulgraham.com/artistsship.html"
 wordCount: 1309
 readingTime: 6
 ---
-
-November 2008
 
 One of the differences between big companies and startups is that
 big companies tend to have developed procedures to protect themselves

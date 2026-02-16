@@ -1,7 +1,7 @@
 ---
 title: "The Future of Startup Funding"
-date: "January 2010"
-dateISO: "2010-01"
+date: "August 2010"
+dateISO: "2010-08"
 slug: "the-future-of-startup-funding"
 sourceUrl: "https://paulgraham.com/future.html"
 wordCount: 3879
@@ -10,8 +10,6 @@ readingTime: 17
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-August 2010
 
 Two years ago I
 [wrote](http://www.paulgraham.com/googles.html#next) about what I called "a huge, unexploited

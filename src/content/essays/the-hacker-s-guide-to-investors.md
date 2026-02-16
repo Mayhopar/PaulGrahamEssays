@@ -1,14 +1,12 @@
 ---
 title: "The Hacker's Guide to Investors"
-date: "February 2007"
-dateISO: "2007-02"
+date: "April 2007"
+dateISO: "2007-04"
 slug: "the-hacker-s-guide-to-investors"
 sourceUrl: "https://paulgraham.com/guidetoinvestors.html"
 wordCount: 6246
 readingTime: 28
 ---
-
-April 2007
 
 *(This essay is derived from a keynote talk at the 2007 ASES Summit
 at Stanford.)*

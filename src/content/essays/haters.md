@@ -8,8 +8,6 @@ wordCount: 1391
 readingTime: 7
 ---
 
-January 2020
-
 *(I originally intended this for startup founders, who are often
 surprised by the attention they get as their companies grow, but
 it applies equally to anyone who becomes famous.)*

@@ -1,14 +1,12 @@
 ---
 title: "The Other Road Ahead"
-date: "January 2001"
-dateISO: "2001-01"
+date: "September 2001"
+dateISO: "2001-09"
 slug: "the-other-road-ahead"
 sourceUrl: "https://paulgraham.com/road.html"
 wordCount: 11974
 readingTime: 53
 ---
-
-September 2001
 
 *(This article explains why much of the next generation of software
 may be server-based, what that will mean for programmers,

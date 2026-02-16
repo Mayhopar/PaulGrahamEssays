@@ -1,14 +1,12 @@
 ---
 title: "Change Your Name"
-date: "January 2015"
-dateISO: "2015-01"
+date: "August 2015"
+dateISO: "2015-08"
 slug: "change-your-name"
 sourceUrl: "https://paulgraham.com/name.html"
 wordCount: 758
 readingTime: 4
 ---
-
-August 2015
 
 If you have a US startup called X and you don't have x.com, you
 should probably change your name.

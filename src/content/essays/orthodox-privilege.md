@@ -1,14 +1,12 @@
 ---
 title: "Orthodox Privilege"
-date: "January 2020"
-dateISO: "2020-01"
+date: "July 2020"
+dateISO: "2020-07"
 slug: "orthodox-privilege"
 sourceUrl: "https://paulgraham.com/orth.html"
 wordCount: 650
 readingTime: 3
 ---
-
-July 2020
 
 "Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions."
  Einstein

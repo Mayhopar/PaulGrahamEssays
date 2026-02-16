@@ -1,14 +1,12 @@
 ---
 title: "The Shape of the Essay Field"
-date: "January 2025"
-dateISO: "2025-01"
+date: "June 2025"
+dateISO: "2025-06"
 slug: "the-shape-of-the-essay-field"
 sourceUrl: "https://paulgraham.com/field.html"
 wordCount: 769
 readingTime: 4
 ---
-
-June 2025
 
 An essay has to tell people something they don't already know. But
 there are three different reasons people might not know something,

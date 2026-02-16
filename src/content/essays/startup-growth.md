@@ -1,7 +1,7 @@
 ---
 title: "Startup = Growth"
-date: "January 2012"
-dateISO: "2012-01"
+date: "September 2012"
+dateISO: "2012-09"
 slug: "startup-growth"
 sourceUrl: "https://paulgraham.com/growth.html"
 wordCount: 5353
@@ -10,8 +10,6 @@ readingTime: 24
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-September 2012
 
 A startup is a company designed to grow fast. Being newly founded
 does not in itself make a company a startup. Nor is it necessary

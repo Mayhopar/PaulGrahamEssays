@@ -1,14 +1,12 @@
 ---
 title: "Being a Noob"
-date: "April 2020"
-dateISO: "2020-04"
+date: "January 2020"
+dateISO: "2020-01"
 slug: "being-a-noob"
 sourceUrl: "https://paulgraham.com/noob.html"
 wordCount: 373
 readingTime: 2
 ---
-
-January 2020
 
 When I was young, I thought old people had everything figured out.
 Now that I'm old, I know this isn't true.

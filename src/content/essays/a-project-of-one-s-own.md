@@ -1,14 +1,12 @@
 ---
 title: "A Project of One's Own"
-date: "January 2021"
-dateISO: "2021-01"
+date: "June 2021"
+dateISO: "2021-06"
 slug: "a-project-of-one-s-own"
 sourceUrl: "https://paulgraham.com/own.html"
 wordCount: 2510
 readingTime: 11
 ---
-
-June 2021
 
 A few days ago, on the way home from school, my nine year old son
 told me he couldn't wait to get home to write more of the story he

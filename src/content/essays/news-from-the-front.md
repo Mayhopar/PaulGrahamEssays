@@ -1,14 +1,12 @@
 ---
 title: "News from the Front"
-date: "January 2007"
-dateISO: "2007-01"
+date: "September 2007"
+dateISO: "2007-09"
 slug: "news-from-the-front"
 sourceUrl: "https://paulgraham.com/colleges.html"
 wordCount: 2216
 readingTime: 10
 ---
-
-September 2007
 
 A few weeks ago I had a thought so heretical that it really surprised
 me. It may not matter all that much where you go to college.

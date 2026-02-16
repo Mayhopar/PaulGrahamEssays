@@ -1,14 +1,12 @@
 ---
 title: "Alien Truth"
-date: "January 2022"
-dateISO: "2022-01"
+date: "October 2022"
+dateISO: "2022-10"
 slug: "alien-truth"
 sourceUrl: "https://paulgraham.com/alien.html"
 wordCount: 684
 readingTime: 3
 ---
-
-October 2022
 
 If there were intelligent beings elsewhere in the universe, they'd
 share certain truths in common with us. The truths of mathematics

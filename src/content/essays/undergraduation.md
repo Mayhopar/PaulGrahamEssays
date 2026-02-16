@@ -1,7 +1,7 @@
 ---
 title: "Undergraduation"
-date: "January 2005"
-dateISO: "2005-01"
+date: "March 2005"
+dateISO: "2005-03"
 slug: "undergraduation"
 sourceUrl: "https://paulgraham.com/college.html"
 wordCount: 3660
@@ -10,8 +10,6 @@ readingTime: 16
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-March 2005
 
 *(Parts of this essay began as replies to students who wrote to
 me with questions.)*

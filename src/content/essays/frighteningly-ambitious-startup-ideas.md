@@ -1,7 +1,7 @@
 ---
 title: "Frighteningly Ambitious Startup Ideas"
-date: "January 2012"
-dateISO: "2012-01"
+date: "March 2012"
+dateISO: "2012-03"
 slug: "frighteningly-ambitious-startup-ideas"
 sourceUrl: "https://paulgraham.com/ambitious.html"
 wordCount: 3790
@@ -10,8 +10,6 @@ readingTime: 17
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-March 2012
 
 One of the more surprising things I've noticed while working
 on Y Combinator is how frightening the most ambitious startup

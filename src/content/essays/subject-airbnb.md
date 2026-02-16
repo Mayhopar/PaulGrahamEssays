@@ -8,7 +8,6 @@ wordCount: 1368
 readingTime: 6
 ---
 
-March 2011
 Yesterday Fred Wilson published a remarkable [post](http://avc.com/2011/03/airbnb) about missing
 [Airbnb](http://airbnb.com). VCs miss good startups all the time, but it's extraordinarily
 rare for one to talk about it publicly till long afterward. So

@@ -1,14 +1,14 @@
 ---
 title: "It's Charisma, Stupid"
-date: "February 2007"
-dateISO: "2007-02"
+date: "November 2004"
+dateISO: "2004-11"
 slug: "it-s-charisma-stupid"
 sourceUrl: "https://paulgraham.com/charisma.html"
 wordCount: 1495
 readingTime: 7
 ---
 
-November 2004, corrected June 2006
+November 2004, corrected 
 
 Occam's razor says we should prefer the simpler of two explanations.
 I begin by reminding readers of this principle because I'm about

@@ -1,14 +1,12 @@
 ---
 title: "The Python Paradox"
-date: "December 2014"
-dateISO: "2014-12"
+date: "August 2004"
+dateISO: "2004-08"
 slug: "the-python-paradox"
 sourceUrl: "https://paulgraham.com/pypar.html"
 wordCount: 449
 readingTime: 2
 ---
-
-August 2004
 
 In a recent [talk](gh.html) I said something that upset a lot of
 people: that you could get smarter programmers to work on

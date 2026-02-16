@@ -1,14 +1,12 @@
 ---
 title: "Good Writing"
-date: "January 2025"
-dateISO: "2025-01"
+date: "May 2025"
+dateISO: "2025-05"
 slug: "good-writing"
 sourceUrl: "https://paulgraham.com/goodwriting.html"
 wordCount: 1645
 readingTime: 8
 ---
-
-May 2025
 
 There are two senses in which writing can be good: it can
 sound good, and the ideas can be right. It can have nice,

@@ -1,14 +1,12 @@
 ---
 title: "The Need to Read"
-date: "January 2022"
-dateISO: "2022-01"
+date: "November 2022"
+dateISO: "2022-11"
 slug: "the-need-to-read"
 sourceUrl: "https://paulgraham.com/read.html"
 wordCount: 446
 readingTime: 2
 ---
-
-November 2022
 
 In the science fiction books I read as a kid, reading had often
 been replaced by some more efficient way of acquiring knowledge.

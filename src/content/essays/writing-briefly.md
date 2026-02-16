@@ -1,14 +1,13 @@
 ---
 title: "Writing,  Briefly"
-date: "October 2007"
-dateISO: "2007-10"
+date: "March 2005"
+dateISO: "2005-03"
 slug: "writing-briefly"
 sourceUrl: "https://paulgraham.com/writing44.html"
 wordCount: 459
 readingTime: 2
 ---
 
-March 2005
 *(In the process
 of answering an email, I accidentally wrote a tiny essay about writing.
 I usually spend weeks on an essay. This one took  67 minutes—23

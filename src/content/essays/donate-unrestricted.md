@@ -1,14 +1,12 @@
 ---
 title: "Donate Unrestricted"
-date: "January 2021"
-dateISO: "2021-01"
+date: "March 2021"
+dateISO: "2021-03"
 slug: "donate-unrestricted"
 sourceUrl: "https://paulgraham.com/donate.html"
 wordCount: 485
 readingTime: 3
 ---
-
-March 2021
 
 The secret curse of the nonprofit world is restricted donations.
 If you haven't been involved with nonprofits, you may never have

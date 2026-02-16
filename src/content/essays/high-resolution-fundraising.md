@@ -1,7 +1,7 @@
 ---
 title: "High Resolution Fundraising"
-date: "January 2010"
-dateISO: "2010-01"
+date: "September 2010"
+dateISO: "2010-09"
 slug: "high-resolution-fundraising"
 sourceUrl: "https://paulgraham.com/hiresfund.html"
 wordCount: 712
@@ -10,8 +10,6 @@ readingTime: 4
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-September 2010
 
 The reason startups have been using
 [more convertible notes](http://twitter.com/paulg/status/22319113993) in angel

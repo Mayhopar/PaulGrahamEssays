@@ -1,14 +1,12 @@
 ---
 title: "Good and Bad Procrastination"
-date: "February 2006"
-dateISO: "2006-02"
+date: "December 2005"
+dateISO: "2005-12"
 slug: "good-and-bad-procrastination"
 sourceUrl: "https://paulgraham.com/procrastination.html"
 wordCount: 1804
 readingTime: 8
 ---
-
-December 2005
 
 The most impressive people I know are all terrible procrastinators.
 So could it be that procrastination isn't always bad?

@@ -1,7 +1,7 @@
 ---
 title: "Why to Not Not Start a Startup"
-date: "August 2009"
-dateISO: "2009-08"
+date: "March 2007"
+dateISO: "2007-03"
 slug: "why-to-not-not-start-a-startup"
 sourceUrl: "https://paulgraham.com/notnot.html"
 wordCount: 6283
@@ -10,8 +10,6 @@ readingTime: 28
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-March 2007
 
 *(This essay is derived from talks at the 2007
 Startup School and the Berkeley CSUA.)*

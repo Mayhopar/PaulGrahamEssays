@@ -1,14 +1,12 @@
 ---
 title: "How to Do Great Work"
-date: "January 2023"
-dateISO: "2023-01"
+date: "July 2023"
+dateISO: "2023-07"
 slug: "how-to-do-great-work"
 sourceUrl: "https://paulgraham.com/greatwork.html"
 wordCount: 11824
 readingTime: 52
 ---
-
-July 2023
 
 If you collected lists of techniques for doing great work in a lot
 of different fields, what would the intersection look like? I decided

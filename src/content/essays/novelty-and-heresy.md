@@ -1,14 +1,12 @@
 ---
 title: "Novelty and Heresy"
-date: "January 2019"
-dateISO: "2019-01"
+date: "November 2019"
+dateISO: "2019-11"
 slug: "novelty-and-heresy"
 sourceUrl: "https://paulgraham.com/nov.html"
 wordCount: 255
 readingTime: 2
 ---
-
-November 2019
 
 If you discover something new, there's a significant chance you'll be
 accused of some form of heresy.

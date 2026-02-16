@@ -1,14 +1,12 @@
 ---
 title: "The Origins of Wokeness"
-date: "March 2023"
-dateISO: "2023-03"
+date: "January 2025"
+dateISO: "2025-01"
 slug: "the-origins-of-wokeness"
 sourceUrl: "https://paulgraham.com/woke.html"
 wordCount: 6188
 readingTime: 27
 ---
-
-January 2025
 
 The word "prig" isn't very common now, but if you look up
 the definition, it will sound familiar. Google's isn't bad:

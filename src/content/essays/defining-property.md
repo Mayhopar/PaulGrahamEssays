@@ -1,14 +1,12 @@
 ---
 title: "Defining Property"
-date: "January 2012"
-dateISO: "2012-01"
+date: "March 2012"
+dateISO: "2012-03"
 slug: "defining-property"
 sourceUrl: "https://paulgraham.com/property.html"
 wordCount: 980
 readingTime: 5
 ---
-
-March 2012
 
 As a child I read a book of stories about a famous judge in eighteenth
 century Japan called Ooka Tadasuke. One of the cases he decided

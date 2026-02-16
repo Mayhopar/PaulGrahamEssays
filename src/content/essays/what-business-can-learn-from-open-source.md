@@ -1,14 +1,12 @@
 ---
 title: "What Business Can Learn from Open Source"
-date: "December 2008"
-dateISO: "2008-12"
+date: "August 2005"
+dateISO: "2005-08"
 slug: "what-business-can-learn-from-open-source"
 sourceUrl: "https://paulgraham.com/opensource.html"
 wordCount: 4353
 readingTime: 19
 ---
-
-August 2005
 
 *(This essay is derived from a talk at Oscon 2005.)*
 

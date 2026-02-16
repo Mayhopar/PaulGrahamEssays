@@ -1,7 +1,7 @@
 ---
 title: "Ramen Profitable"
-date: "April 2006"
-dateISO: "2006-04"
+date: "July 2009"
+dateISO: "2009-07"
 slug: "ramen-profitable"
 sourceUrl: "https://paulgraham.com/ramenprofitable.html"
 wordCount: 1843
@@ -10,8 +10,6 @@ readingTime: 9
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-July 2009
 
 Now that the term "ramen profitable" has become widespread, I ought
 to explain precisely what the idea entails.

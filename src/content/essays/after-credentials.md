@@ -1,14 +1,12 @@
 ---
 title: "After Credentials"
-date: "January 2008"
-dateISO: "2008-01"
+date: "December 2008"
+dateISO: "2008-12"
 slug: "after-credentials"
 sourceUrl: "https://paulgraham.com/credentials.html"
 wordCount: 2387
 readingTime: 11
 ---
-
-December 2008
 
 A few months ago I read a *New York Times* article on South
 Korean cram schools that said

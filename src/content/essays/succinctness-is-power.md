@@ -1,14 +1,12 @@
 ---
 title: "Succinctness is Power"
-date: "January 2002"
-dateISO: "2002-01"
+date: "May 2002"
+dateISO: "2002-05"
 slug: "succinctness-is-power"
 sourceUrl: "https://paulgraham.com/power.html"
 wordCount: 3004
 readingTime: 14
 ---
-
-May 2002
 
 "The quantity of meaning compressed into a small space by
 algebraic signs, is another circumstance that facilitates

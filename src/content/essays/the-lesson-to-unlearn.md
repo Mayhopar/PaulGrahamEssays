@@ -1,14 +1,12 @@
 ---
 title: "The Lesson to Unlearn"
-date: "September 2020"
-dateISO: "2020-09"
+date: "December 2019"
+dateISO: "2019-12"
 slug: "the-lesson-to-unlearn"
 sourceUrl: "https://paulgraham.com/lesson.html"
 wordCount: 4043
 readingTime: 18
 ---
-
-December 2019
 
 The most damaging thing you learned in school wasn't something you
 learned in any specific class. It was learning to get good grades.

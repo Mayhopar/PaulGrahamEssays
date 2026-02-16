@@ -1,14 +1,12 @@
 ---
 title: "Having Kids"
-date: "February 2020"
-dateISO: "2020-02"
+date: "December 2019"
+dateISO: "2019-12"
 slug: "having-kids"
 sourceUrl: "https://paulgraham.com/kids.html"
 wordCount: 1537
 readingTime: 7
 ---
-
-December 2019
 
 Before I had kids, I was afraid of having kids. Up to that point I
 felt about kids the way the young Augustine felt about living

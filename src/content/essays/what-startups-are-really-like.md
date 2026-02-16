@@ -1,7 +1,7 @@
 ---
 title: "What Startups Are Really Like"
-date: "November 2009"
-dateISO: "2009-11"
+date: "October 2009"
+dateISO: "2009-10"
 slug: "what-startups-are-really-like"
 sourceUrl: "https://paulgraham.com/really.html"
 wordCount: 5237
@@ -10,8 +10,6 @@ readingTime: 23
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-October 2009
 
 *(This essay is derived from a talk at the 2009 Startup School.)*
 

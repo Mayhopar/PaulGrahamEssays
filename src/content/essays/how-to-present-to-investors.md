@@ -1,7 +1,7 @@
 ---
 title: "How to Present to Investors"
-date: "January 2007"
-dateISO: "2007-01"
+date: "August 2006"
+dateISO: "2006-08"
 slug: "how-to-present-to-investors"
 sourceUrl: "https://paulgraham.com/investors.html"
 wordCount: 2817
@@ -11,7 +11,7 @@ readingTime: 13
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
 
-August 2006, rev. April 2007, September 2010
+August 2006, rev. April 2007, 
 
 In a few days it will be Demo Day, when the startups we funded
 this summer present to investors. Y Combinator funds startups twice

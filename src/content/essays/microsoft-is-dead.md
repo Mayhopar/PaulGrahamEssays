@@ -1,14 +1,12 @@
 ---
 title: "Microsoft is Dead"
-date: "October 2008"
-dateISO: "2008-10"
+date: "April 2007"
+dateISO: "2007-04"
 slug: "microsoft-is-dead"
 sourceUrl: "https://paulgraham.com/microsoft.html"
 wordCount: 1287
 readingTime: 6
 ---
-
-April 2007
 
 A few days ago I suddenly realized Microsoft was dead. I was talking
 to a young startup founder about how Google was different from

@@ -1,14 +1,12 @@
 ---
 title: "What I've Learned from Hacker News"
-date: "January 2009"
-dateISO: "2009-01"
+date: "February 2009"
+dateISO: "2009-02"
 slug: "what-i-ve-learned-from-hacker-news"
 sourceUrl: "https://paulgraham.com/hackernews.html"
 wordCount: 2864
 readingTime: 13
 ---
-
-February 2009
 
 Hacker News was two years
 old last week. Initially it was supposed to be a side project—an

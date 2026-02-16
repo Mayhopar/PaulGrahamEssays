@@ -1,14 +1,12 @@
 ---
 title: "The Refragmentation"
-date: "April 2016"
-dateISO: "2016-04"
+date: "January 2016"
+dateISO: "2016-01"
 slug: "the-refragmentation"
 sourceUrl: "https://paulgraham.com/re.html"
 wordCount: 7188
 readingTime: 32
 ---
-
-January 2016
 
 One advantage of being old is that you can see change happen in
 your lifetime. A lot of the change I've seen is fragmentation. US

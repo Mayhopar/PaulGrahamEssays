@@ -1,14 +1,12 @@
 ---
 title: "Trolls"
-date: "August 2008"
-dateISO: "2008-08"
+date: "February 2008"
+dateISO: "2008-02"
 slug: "trolls"
 sourceUrl: "https://paulgraham.com/trolls.html"
 wordCount: 895
 readingTime: 4
 ---
-
-February 2008
 
 A user on Hacker News recently posted a
 [comment](http://news.ycombinator.com/item?id=116938)

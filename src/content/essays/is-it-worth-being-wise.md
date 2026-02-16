@@ -1,14 +1,12 @@
 ---
 title: "Is It Worth Being Wise?"
-date: "August 2008"
-dateISO: "2008-08"
+date: "February 2007"
+dateISO: "2007-02"
 slug: "is-it-worth-being-wise"
 sourceUrl: "https://paulgraham.com/wisdom.html"
 wordCount: 3743
 readingTime: 17
 ---
-
-February 2007
 
 A few days ago I finally figured out something I've wondered about
 for 25 years: the relationship between wisdom and intelligence.

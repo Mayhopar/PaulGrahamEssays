@@ -8,8 +8,6 @@ wordCount: 2636
 readingTime: 12
 ---
 
-April 2016
-
 *(This is a talk I gave at an event called Opt412 in Pittsburgh.
 Much of it will apply to other towns. But not all, because
 as I say in the talk, Pittsburgh has some important advantages over

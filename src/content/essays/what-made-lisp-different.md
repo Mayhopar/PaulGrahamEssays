@@ -1,7 +1,7 @@
 ---
 title: "What Made Lisp Different"
-date: "February 2007"
-dateISO: "2007-02"
+date: "December 2001"
+dateISO: "2001-12"
 slug: "what-made-lisp-different"
 sourceUrl: "https://paulgraham.com/diff.html"
 wordCount: 702

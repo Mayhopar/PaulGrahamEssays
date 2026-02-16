@@ -8,8 +8,6 @@ wordCount: 511
 readingTime: 3
 ---
 
-November 2022
-
 Since I was about 9 I've been puzzled by the apparent contradiction
 between being made of matter that behaves in a predictable way, and
 the feeling that I could choose to do whatever I wanted. At the

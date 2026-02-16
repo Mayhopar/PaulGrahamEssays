@@ -1,14 +1,12 @@
 ---
 title: "Some Heroes"
-date: "January 2008"
-dateISO: "2008-01"
+date: "April 2008"
+dateISO: "2008-04"
 slug: "some-heroes"
 sourceUrl: "https://paulgraham.com/heroes.html"
 wordCount: 2695
 readingTime: 12
 ---
-
-April 2008
 
 There are some topics I save up because they'll be so much fun to
 write about. This is one of them: a list of my heroes.

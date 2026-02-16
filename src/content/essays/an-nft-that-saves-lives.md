@@ -1,14 +1,12 @@
 ---
 title: "An NFT That Saves Lives"
-date: "January 2021"
-dateISO: "2021-01"
+date: "May 2021"
+dateISO: "2021-05"
 slug: "an-nft-that-saves-lives"
 sourceUrl: "https://paulgraham.com/nft.html"
 wordCount: 314
 readingTime: 2
 ---
-
-May 2021
 
 [Noora Health](https://www.noorahealth.org/), a nonprofit I've
 supported for years, just launched

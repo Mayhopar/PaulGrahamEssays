@@ -11,8 +11,6 @@ readingTime: 5
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
 
-October 2008
-
 The economic situation is apparently so grim that some experts fear
 we may be in for a stretch as bad as the mid seventies.
 

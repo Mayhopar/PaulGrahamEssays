@@ -1,7 +1,7 @@
 ---
 title: "The Future of Web Startups"
-date: "January 2007"
-dateISO: "2007-01"
+date: "October 2007"
+dateISO: "2007-10"
 slug: "the-future-of-web-startups"
 sourceUrl: "https://paulgraham.com/webstartups.html"
 wordCount: 3404
@@ -10,8 +10,6 @@ readingTime: 15
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-October 2007
 
 *(This essay is derived from a keynote at FOWA in October 2007.)*
 

@@ -8,8 +8,6 @@ wordCount: 630
 readingTime: 3
 ---
 
-January 2015
-
 No one, VC or angel, has invested in more of the top startups than
 Ron Conway. He knows what happened in every deal in the Valley,
 half the time because he arranged it.

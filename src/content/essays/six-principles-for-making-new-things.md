@@ -1,14 +1,12 @@
 ---
 title: "Six Principles for Making New Things"
-date: "January 1995"
-dateISO: "1995-01"
+date: "February 2008"
+dateISO: "2008-02"
 slug: "six-principles-for-making-new-things"
 sourceUrl: "https://paulgraham.com/newthings.html"
 wordCount: 1167
 readingTime: 6
 ---
-
-February 2008
 
 The fiery reaction to the release of [Arc](arc.html) had
 an unexpected consequence: it made me realize I had a design

@@ -1,7 +1,7 @@
 ---
 title: "How to Start a Startup"
-date: "October 2005"
-dateISO: "2005-10"
+date: "March 2005"
+dateISO: "2005-03"
 slug: "how-to-start-a-startup"
 sourceUrl: "https://paulgraham.com/start.html"
 wordCount: 9749
@@ -10,8 +10,6 @@ readingTime: 43
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-March 2005
 
 *(This essay is derived from a talk at the Harvard Computer
 Society.)*

@@ -1,14 +1,12 @@
 ---
 title: "Mind the Gap"
-date: "March 2002"
-dateISO: "2002-03"
+date: "May 2004"
+dateISO: "2004-05"
 slug: "mind-the-gap"
 sourceUrl: "https://paulgraham.com/gap.html"
 wordCount: 5684
 readingTime: 25
 ---
-
-May 2004
 
 When people care enough about something to do it well, those who
 do it best tend to be far better than everyone else. There's a

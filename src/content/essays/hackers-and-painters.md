@@ -1,14 +1,12 @@
 ---
 title: "Hackers and Painters"
-date: "January 2003"
-dateISO: "2003-01"
+date: "May 2003"
+dateISO: "2003-05"
 slug: "hackers-and-painters"
 sourceUrl: "https://paulgraham.com/hp.html"
 wordCount: 5587
 readingTime: 25
 ---
-
-May 2003
 
 *(This essay is derived from a guest lecture at Harvard, which incorporated
 an earlier talk at Northeastern.)*

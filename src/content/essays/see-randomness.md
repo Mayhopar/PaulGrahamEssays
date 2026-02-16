@@ -1,14 +1,12 @@
 ---
 title: "See Randomness"
-date: "January 2009"
-dateISO: "2009-01"
+date: "April 2006"
+dateISO: "2006-04"
 slug: "see-randomness"
 sourceUrl: "https://paulgraham.com/randomness.html"
 wordCount: 598
 readingTime: 3
 ---
-
-April 2006, rev August 2009
 
 Plato quotes Socrates as saying "the unexamined life is not worth
 living." Part of what he meant was that the proper role of humans is to

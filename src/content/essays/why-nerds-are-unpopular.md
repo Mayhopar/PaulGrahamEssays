@@ -1,14 +1,12 @@
 ---
 title: "Why Nerds are Unpopular"
-date: "March 2009"
-dateISO: "2009-03"
+date: "February 2003"
+dateISO: "2003-02"
 slug: "why-nerds-are-unpopular"
 sourceUrl: "https://paulgraham.com/nerds.html"
 wordCount: 5693
 readingTime: 25
 ---
-
-February 2003
 
 When we were in junior high school, my friend Rich and I made a map
 of the school lunch tables according to popularity. This was easy

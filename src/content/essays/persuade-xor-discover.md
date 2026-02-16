@@ -1,14 +1,12 @@
 ---
 title: "Persuade xor Discover"
-date: "January 2009"
-dateISO: "2009-01"
+date: "September 2009"
+dateISO: "2009-09"
 slug: "persuade-xor-discover"
 sourceUrl: "https://paulgraham.com/discover.html"
 wordCount: 1318
 readingTime: 6
 ---
-
-September 2009
 
 When meeting people you don't know very well, the convention is
 to seem extra friendly. You smile and say "pleased to meet you,"

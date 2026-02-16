@@ -1,14 +1,12 @@
 ---
 title: "Superlinear Returns"
-date: "January 2023"
-dateISO: "2023-01"
+date: "October 2023"
+dateISO: "2023-10"
 slug: "superlinear-returns"
 sourceUrl: "https://paulgraham.com/superlinear.html"
 wordCount: 4258
 readingTime: 19
 ---
-
-October 2023
 
 One of the most important things I didn't understand about the world
 when I was a child is the degree to which the returns for performance

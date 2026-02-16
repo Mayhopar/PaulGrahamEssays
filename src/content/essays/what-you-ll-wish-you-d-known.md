@@ -8,8 +8,6 @@ wordCount: 5070
 readingTime: 23
 ---
 
-January 2005
-
 *(I wrote this talk for a
 high school. I never actually
 gave it, because the school authorities vetoed the plan to invite me.)*

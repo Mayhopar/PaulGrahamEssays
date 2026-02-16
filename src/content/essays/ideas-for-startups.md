@@ -1,7 +1,7 @@
 ---
 title: "Ideas for Startups"
-date: "April 2006"
-dateISO: "2006-04"
+date: "October 2005"
+dateISO: "2005-10"
 slug: "ideas-for-startups"
 sourceUrl: "https://paulgraham.com/ideas.html"
 wordCount: 3941
@@ -10,8 +10,6 @@ readingTime: 18
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-October 2005
 
 *(This essay is derived from a talk at the 2005
 [Startup School.](http://startupschool.org))*

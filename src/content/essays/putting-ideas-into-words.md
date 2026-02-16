@@ -1,14 +1,12 @@
 ---
 title: "Putting Ideas into Words"
-date: "January 2022"
-dateISO: "2022-01"
+date: "February 2022"
+dateISO: "2022-02"
 slug: "putting-ideas-into-words"
 sourceUrl: "https://paulgraham.com/words.html"
 wordCount: 1164
 readingTime: 6
 ---
-
-February 2022
 
 Writing about something, even something you know well, usually shows
 you that you didn't know it as well as you thought. Putting ideas

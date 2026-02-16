@@ -1,14 +1,12 @@
 ---
 title: "Being Popular"
-date: "January 2001"
-dateISO: "2001-01"
+date: "May 2001"
+dateISO: "2001-05"
 slug: "being-popular"
 sourceUrl: "https://paulgraham.com/popular.html"
 wordCount: 7601
 readingTime: 34
 ---
-
-May 2001
 
 *(This article was written as a kind of business plan for a
 [new language](arc.html).

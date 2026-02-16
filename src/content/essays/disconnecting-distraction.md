@@ -14,8 +14,6 @@ using the Internet on my work computer. I'm trying other
 strategies now, but I think this time I'll wait till I'm sure
 they work before writing about them.*
 
-May 2008
-
 Procrastination feeds on distractions. Most people find it
 uncomfortable just to sit and do nothing; you avoid work by doing
 something else.

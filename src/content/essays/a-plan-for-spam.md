@@ -1,7 +1,7 @@
 ---
 title: "A Plan for Spam"
-date: "August 2016"
-dateISO: "2016-08"
+date: "August 2002"
+dateISO: "2002-08"
 slug: "a-plan-for-spam"
 sourceUrl: "https://paulgraham.com/spam.html"
 wordCount: 5314
@@ -10,8 +10,6 @@ readingTime: 24
 
 **Like to build things?** Try [Hacker
 News](http://news.ycombinator.com).
-
-August 2002
 
 *(This article describes the spam-filtering techniques
 used in the spamproof web-based mail reader we

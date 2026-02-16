@@ -8,8 +8,6 @@ wordCount: 147
 readingTime: 1
 ---
 
-January 2023
-
 *([Someone](https://twitter.com/stef/status/1617222428727586816) fed my essays into GPT to make something that could answer
 questions based on them, then asked it where good ideas come from. The
 answer was ok, but not what I would have said. This is what I would have said.)*

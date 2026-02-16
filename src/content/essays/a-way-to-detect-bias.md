@@ -1,14 +1,12 @@
 ---
 title: "A Way to Detect Bias"
-date: "September 2020"
-dateISO: "2020-09"
+date: "October 2015"
+dateISO: "2015-10"
 slug: "a-way-to-detect-bias"
 sourceUrl: "https://paulgraham.com/bias.html"
 wordCount: 565
 readingTime: 3
 ---
-
-October 2015
 
 This will come as a surprise to a lot of people, but in some cases
 it's possible to detect bias in a selection process without knowing

@@ -11,8 +11,6 @@ readingTime: 21
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
 
-January 2006
-
 To do something well you have to like it. That idea is not exactly
 novel. We've got it down to four words: "Do what you love." But
 it's not enough just to tell people that. Doing what you love is

@@ -1,14 +1,12 @@
 ---
 title: "Tablets"
-date: "January 2010"
-dateISO: "2010-01"
+date: "December 2010"
+dateISO: "2010-12"
 slug: "tablets"
 sourceUrl: "https://paulgraham.com/tablets.html"
 wordCount: 549
 readingTime: 3
 ---
-
-December 2010
 
 I was thinking recently how inconvenient it was not to have a general
 term for iPhones, iPads, and the corresponding things running

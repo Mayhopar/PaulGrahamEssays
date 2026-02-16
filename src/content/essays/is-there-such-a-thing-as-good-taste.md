@@ -1,14 +1,12 @@
 ---
 title: "Is There Such a Thing as Good Taste?"
-date: "January 2021"
-dateISO: "2021-01"
+date: "November 2021"
+dateISO: "2021-11"
 slug: "is-there-such-a-thing-as-good-taste"
 sourceUrl: "https://paulgraham.com/goodtaste.html"
 wordCount: 1123
 readingTime: 5
 ---
-
-November 2021
 
 *(This essay is derived from a talk at the Cambridge Union.)*
 

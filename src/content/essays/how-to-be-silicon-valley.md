@@ -1,14 +1,12 @@
 ---
 title: "How to Be Silicon Valley"
-date: "August 2006"
-dateISO: "2006-08"
+date: "May 2006"
+dateISO: "2006-05"
 slug: "how-to-be-silicon-valley"
 sourceUrl: "https://paulgraham.com/siliconvalley.html"
 wordCount: 3602
 readingTime: 16
 ---
-
-May 2006
 
 *(This essay is derived from a keynote at Xtech.)*
 

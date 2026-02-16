@@ -1,7 +1,7 @@
 ---
 title: "Why Startup Hubs Work"
-date: "January 2004"
-dateISO: "2004-01"
+date: "October 2011"
+dateISO: "2011-10"
 slug: "why-startup-hubs-work"
 sourceUrl: "https://paulgraham.com/hubs.html"
 wordCount: 1806
@@ -10,8 +10,6 @@ readingTime: 8
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-October 2011
 
 If you look at a list of US cities sorted by population, the number
 of successful startups per capita varies by orders of magnitude.

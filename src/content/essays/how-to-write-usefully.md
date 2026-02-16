@@ -1,14 +1,12 @@
 ---
 title: "How to Write Usefully"
-date: "January 2020"
-dateISO: "2020-01"
+date: "February 2020"
+dateISO: "2020-02"
 slug: "how-to-write-usefully"
 sourceUrl: "https://paulgraham.com/useful.html"
 wordCount: 2868
 readingTime: 13
 ---
-
-February 2020
 
 What should an essay be? Many people would say persuasive. That's
 what a lot of us were taught essays should be. But I think we can

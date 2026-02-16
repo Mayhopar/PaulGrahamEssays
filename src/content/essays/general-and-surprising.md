@@ -1,14 +1,12 @@
 ---
 title: "General and Surprising"
-date: "January 2017"
-dateISO: "2017-01"
+date: "September 2017"
+dateISO: "2017-09"
 slug: "general-and-surprising"
 sourceUrl: "https://paulgraham.com/sun.html"
 wordCount: 439
 readingTime: 2
 ---
-
-September 2017
 
 The most valuable insights are both general and surprising.
 F = ma for example. But general and surprising is a hard

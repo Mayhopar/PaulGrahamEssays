@@ -11,8 +11,6 @@ readingTime: 22
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
 
-August 2008
-
 Raising money is the second hardest part of starting a startup.
 The hardest part is making something people want: most startups
 that die, die because they didn't do that. But the second biggest

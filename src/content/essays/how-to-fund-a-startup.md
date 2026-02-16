@@ -1,7 +1,7 @@
 ---
 title: "How to Fund a Startup"
-date: "March 2020"
-dateISO: "2020-03"
+date: "November 2005"
+dateISO: "2005-11"
 slug: "how-to-fund-a-startup"
 sourceUrl: "https://paulgraham.com/startupfunding.html"
 wordCount: 8942
@@ -11,7 +11,6 @@ readingTime: 39
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
 
-November 2005
 Venture funding works like gears. A typical startup goes through
 several rounds of funding, and at each round you want to take just
 enough money to reach the speed where you can shift into the next

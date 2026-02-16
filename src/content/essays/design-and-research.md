@@ -8,8 +8,6 @@ wordCount: 2661
 readingTime: 12
 ---
 
-January 2003
-
 *(This article is derived from a keynote talk at the fall 2002 meeting
 of NEPLS.)*
 

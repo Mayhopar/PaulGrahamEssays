@@ -11,8 +11,6 @@ readingTime: 4
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
 
-January 2012
-
 There are great startup ideas lying around unexploited right under
 our noses. One reason we don't see them is a phenomenon I call
 *schlep blindness*. Schlep was originally a Yiddish word but has

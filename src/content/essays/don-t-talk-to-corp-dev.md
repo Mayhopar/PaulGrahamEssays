@@ -1,14 +1,12 @@
 ---
 title: "Don't Talk to Corp Dev"
-date: "January 2025"
-dateISO: "2025-01"
+date: "January 2015"
+dateISO: "2015-01"
 slug: "don-t-talk-to-corp-dev"
 sourceUrl: "https://paulgraham.com/corpdev.html"
 wordCount: 1293
 readingTime: 6
 ---
-
-January 2015
 
 Corporate Development, aka corp dev, is the group within companies
 that buys other companies. If you're talking to someone from corp

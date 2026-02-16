@@ -1,14 +1,12 @@
 ---
 title: "What Kate Saw in Silicon Valley"
-date: "January 2009"
-dateISO: "2009-01"
+date: "August 2009"
+dateISO: "2009-08"
 slug: "what-kate-saw-in-silicon-valley"
 sourceUrl: "https://paulgraham.com/kate.html"
 wordCount: 813
 readingTime: 4
 ---
-
-August 2009
 
 Kate Courteau is the architect who designed Y Combinator's office.
 Recently we managed to recruit her to help us run YC when she's not

@@ -1,7 +1,7 @@
 ---
 title: "Startups in 13 Sentences"
-date: "May 2009"
-dateISO: "2009-05"
+date: "February 2009"
+dateISO: "2009-02"
 slug: "startups-in-13-sentences"
 sourceUrl: "https://paulgraham.com/13sentences.html"
 wordCount: 1322
@@ -12,8 +12,6 @@ readingTime: 6
 [Y Combinator](http://ycombinator.com/apply.html).
 Watch how this essay was
 [written](https://byronm.com/13sentences.html).
-
-February 2009
 
 One of the things I always tell startups is a principle I learned
 from Paul Buchheit: it's better to make a few people really happy

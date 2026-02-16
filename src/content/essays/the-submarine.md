@@ -8,8 +8,6 @@ wordCount: 2314
 readingTime: 11
 ---
 
-April 2005
-
 "Suits make a corporate comeback," says the [*New
 York Times*](http://www.nytimes.com/2005/04/14/fashion/thursdaystyles/14peacock.html?ex=1271131200&en=e96f2670387e3636&ei=5090&partner=rssuserland). Why does this sound familiar? Maybe because
 the suit was also back in [February](http://www.cvbizlink.com/articles/2005/04/07/news/news/doc42406f05edf53293947237.prt),

@@ -1,14 +1,12 @@
 ---
 title: "What the Bubble Got Right"
-date: "April 2004"
-dateISO: "2004-04"
+date: "September 2004"
+dateISO: "2004-09"
 slug: "what-the-bubble-got-right"
 sourceUrl: "https://paulgraham.com/bubble.html"
 wordCount: 3729
 readingTime: 17
 ---
-
-September 2004
 
 *(This essay is derived from an invited talk at ICFP 2004.)*
 

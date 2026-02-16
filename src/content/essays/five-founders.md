@@ -1,14 +1,12 @@
 ---
 title: "Five Founders"
-date: "January 2009"
-dateISO: "2009-01"
+date: "April 2009"
+dateISO: "2009-04"
 slug: "five-founders"
 sourceUrl: "https://paulgraham.com/5founders.html"
 wordCount: 757
 readingTime: 4
 ---
-
-April 2009
 
 *Inc* recently asked me who I thought were the 5 most
 interesting startup founders of the last 30 years. How do

@@ -1,7 +1,7 @@
 ---
 title: "Where to See Silicon Valley"
-date: "January 2010"
-dateISO: "2010-01"
+date: "October 2010"
+dateISO: "2010-10"
 slug: "where-to-see-silicon-valley"
 sourceUrl: "https://paulgraham.com/seesv.html"
 wordCount: 1081
@@ -10,8 +10,6 @@ readingTime: 5
 
 **Want to start a startup?** Get funded by
 [Y Combinator](http://ycombinator.com/apply.html).
-
-October 2010
 
 Silicon Valley proper is mostly suburban sprawl. At first glance
 it doesn't seem there's anything to see. It's not the sort of place

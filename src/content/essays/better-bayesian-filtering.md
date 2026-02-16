@@ -1,14 +1,12 @@
 ---
 title: "Better Bayesian Filtering"
-date: "December 2002"
-dateISO: "2002-12"
+date: "January 2003"
+dateISO: "2003-01"
 slug: "better-bayesian-filtering"
 sourceUrl: "https://paulgraham.com/better.html"
 wordCount: 4326
 readingTime: 19
 ---
-
-January 2003
 
 *(This article was given as a talk at the 2003 Spam Conference.
 It describes the work I've done to improve the performance of

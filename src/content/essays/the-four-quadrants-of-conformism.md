@@ -1,14 +1,12 @@
 ---
 title: "The Four Quadrants of Conformism"
-date: "January 2020"
-dateISO: "2020-01"
+date: "July 2020"
+dateISO: "2020-07"
 slug: "the-four-quadrants-of-conformism"
 sourceUrl: "https://paulgraham.com/conformism.html"
 wordCount: 1975
 readingTime: 9
 ---
-
-July 2020
 
 One of the most revealing ways to classify people is by the degree
 and aggressiveness of their conformism. Imagine a Cartesian coordinate

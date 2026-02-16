@@ -1,14 +1,12 @@
 ---
 title: "Snapshot: Viaweb, June 1998"
-date: "January 1998"
-dateISO: "1998-01"
+date: "January 2012"
+dateISO: "2012-01"
 slug: "snapshot-viaweb-june-1998"
 sourceUrl: "https://paulgraham.com/vw.html"
 wordCount: 869
 readingTime: 4
 ---
-
-January 2012
 
 A few hours before the Yahoo acquisition was announced in June 1998
 I took a [snapshot of Viaweb's

@@ -1,14 +1,12 @@
 ---
 title: "Fashionable Problems"
-date: "January 2020"
-dateISO: "2020-01"
+date: "December 2019"
+dateISO: "2019-12"
 slug: "fashionable-problems"
 sourceUrl: "https://paulgraham.com/fp.html"
 wordCount: 190
 readingTime: 1
 ---
-
-December 2019
 
 I've seen the same pattern in many different fields: even though
 lots of people have worked hard in the field, only a small fraction

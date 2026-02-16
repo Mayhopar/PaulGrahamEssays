@@ -1,14 +1,12 @@
 ---
 title: "Java's Cover"
-date: "December 2005"
-dateISO: "2005-12"
+date: "April 2001"
+dateISO: "2001-04"
 slug: "java-s-cover"
 sourceUrl: "https://paulgraham.com/javacover.html"
 wordCount: 1363
 readingTime: 6
 ---
-
-April 2001
 
 This essay developed out of conversations I've had with
 several other programmers about why Java smelled suspicious. It's not
@@ -27,7 +25,6 @@ about Java (which I have never used) but about hacker's radar
 (which I have thought about a lot).
 
 ---
-
 
 The aphorism "you can't tell a book by its cover" originated in
 the times when books were sold in plain cardboard covers, to be
