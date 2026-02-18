@@ -59,7 +59,7 @@ bad managers that way. And the old system meant people had to deal
 with a lot more corporate politics, in order to protect the work
 they'd invested in a position on the ladder.
 
-The big disadvantage of the new system is that it involves more [risk](inequality.html). If you develop ideas in a startup instead
+The big disadvantage of the new system is that it involves more [risk](/read/inequality-and-risk). If you develop ideas in a startup instead
 of within a big company, any number of random factors could sink
 you before you can finish. But maybe the older generation would
 laugh at me for saying that the way we do things is riskier. After

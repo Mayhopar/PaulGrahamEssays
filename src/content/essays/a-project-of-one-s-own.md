@@ -79,7 +79,7 @@ There are occasionally times when schoolwork becomes a project of
 one's own. Whenever I had to write a paper, that would become a
 project of my own — except in English classes, ironically, because
 the things one has to write in English classes are so
-[bogus](essay.html). And
+[bogus](/read/the-age-of-the-essay). And
 when I got to college and started taking CS classes, the programs
 I had to write became projects of my own. Whenever I was writing
 or programming, I was usually skating, and that has been true ever
@@ -181,7 +181,7 @@ Steve Wozniak. If you can find the right people, you only have to
 tell them what to do at the highest level. They'll handle the
 details. Indeed, they insist on it. For a project to feel like your
 own, you must have sufficient autonomy. You can't be working to
-order, or [slowed down](artistsship.html)
+order, or [slowed down](/read/the-other-half-of-artists-ship)
 by bureaucracy.
 
 One way to ensure autonomy is not to have a boss at all. There are
@@ -191,7 +191,7 @@ financially, startups and open source projects have a lot in common,
 including the fact that they're often run by skaters. And indeed,
 there's a wormhole from one end of the scale to the other: one of
 the best ways to discover
-[startup ideas](startupideas.html) is to work on a project
+[startup ideas](/read/how-to-get-startup-ideas) is to work on a project
 just for fun.
 
 If your projects are the kind that make money, it's easy to work
@@ -243,7 +243,7 @@ duckling phase.
 Tiger parents, as parents so often do, are fighting the last
 war. Grades mattered more in the old days when the route to success
 was to acquire
-[credentials](credentials.html)
+[credentials](/read/after-credentials)
 while ascending some predefined ladder.
 But it's just as well that their tactics are focused on grades. How
 awful it would be if they invaded the territory of projects, and

@@ -109,7 +109,7 @@ that you want to make terribly risky choices, if the upside looks
 good enough.
 
 VCs are currently
-[paid](venturecapital.html) in a way that makes them
+[paid](/read/a-unified-theory-of-vc-suckage) in a way that makes them
 focus on the upside:
 they get a percentage of the fund's gains. And that helps overcome
 their understandable fear of investing in a company run by nerds
@@ -152,7 +152,7 @@ lab, or tenure at a university.
 That's what everyone does in societies where risk isn't rewarded.
 If you can't ensure your own security, the next best thing is to
 make a nest for yourself in some large organization where your
-status depends mostly on [seniority](ladder.html).
+status depends mostly on [seniority](/read/after-the-ladder).
 [[3](#f3n)]
 
 Even if we could somehow replace investors, I don't see how we could
@@ -337,7 +337,7 @@ redistribute wealth successfully, because there are no startups to
 kill.
 [5]
 The speed at which startups develop new techology is the other
-reason they pay so well. As I explained in ["How to Make Wealth"](wealth.html), what you do in a startup is compress a
+reason they pay so well. As I explained in ["How to Make Wealth"](/read/how-to-make-wealth), what you do in a startup is compress a
 lifetime's worth of work into a few years. It seems as
 dumb to discourage that as to discourage risk-taking.
 

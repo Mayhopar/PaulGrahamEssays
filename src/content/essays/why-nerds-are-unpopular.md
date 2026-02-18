@@ -418,7 +418,7 @@ Bullying was only part of the problem. Another problem, and possibly
 an even worse one, was that we never had anything real to work on.
 Humans like to work; in most of the world, your work is your identity.
 And all the work we did was
-[pointless](essay.html), or seemed so at the time.
+[pointless](/read/the-age-of-the-essay), or seemed so at the time.
 
 At best it was practice for real work we might do far in the future,
 so far that we didn't even know at the time what we were practicing

@@ -24,7 +24,7 @@ future than the best investors, because the best founders are making
 it.
 
 There is no one single force driving this trend. Hardware [does
-well](http://bits.blogs.nytimes.com/2012/05/11/pebble-smartwatch-tops-out-at-10-million-on-kickstarter/) on crowdfunding sites. The spread of [tablets](http://paulgraham.com/tablets.html) makes it
+well](http://bits.blogs.nytimes.com/2012/05/11/pebble-smartwatch-tops-out-at-10-million-on-kickstarter/) on crowdfunding sites. The spread of [tablets](/read/tablets) makes it
 possible to build new things [controlled
 by](http://lockitron.com) and even [incorporating](http://doublerobotics.com)
 them. [Electric motors](http://www.boostedboards.com/)
@@ -38,7 +38,7 @@ online.
 One question I can answer is why hardware is suddenly cool.
 It always was cool.
 Physical things are great. They just haven't
-been as great a way to start a [rapidly growing](growth.html) business
+been as great a way to start a [rapidly growing](/read/startup-growth) business
 as software. But that rule may not be permanent. It's not even
 that old; it only dates from about 1990. Maybe the advantage
 of software will turn out to have been temporary. Hackers love to
@@ -56,7 +56,7 @@ in particular, don't be deterred from [applying](http://ycombinator.com/apply.ht
 with a hardware idea, because we're especially interested in hardware
 startups.
 
-We know there's room for the [next Steve Jobs](ambitious.html).
+We know there's room for the [next Steve Jobs](/read/frighteningly-ambitious-startup-ideas).
 But there's almost certainly also room for the first
 <Your Name Here>.
 

@@ -465,7 +465,7 @@ way they dress.
 
 It's not only in the sciences that heresy pays off.
 In any competitive field, you can
-[win big](avg.html) by seeing things that others daren't.
+[win big](/read/beating-the-averages) by seeing things that others daren't.
 And in every
 field there are probably heresies few dare utter. Within
 the US car industry there is a lot of hand-wringing now

@@ -46,7 +46,7 @@ things is parallel and therefore fault tolerant.
 
 There are times when this format is what a writer wants. One, obviously,
 is when what you have to say actually is a list of n
-things. I once wrote an essay about the [mistakes that kill startups](startupmistakes.html), and a few people made fun of me
+things. I once wrote an essay about the [mistakes that kill startups](/read/the-18-mistakes-that-kill-startups), and a few people made fun of me
 for writing something whose title began with a number. But in that
 case I really was trying to make a complete catalog of a number of
 independent things. In fact, one of the questions I was trying to
@@ -126,7 +126,7 @@ The greatest weakness of the list of n things is that there's so
 little room for new thought. The main point of essay writing, when
 done right, is the new ideas you have while doing it. A real essay,
 as the name implies, is
-[dynamic](essay.html): you don't know what you're going
+[dynamic](/read/the-age-of-the-essay): you don't know what you're going
 to write when you start. It will be about whatever you discover
 in the course of writing it.
 

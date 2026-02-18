@@ -30,7 +30,7 @@ used by a few thousand hobbyists, or starting a site to let people
 rent airbeds on strangers' floors.
 
 Ditto for essayists. An essay that told people things they already
-knew would be boring. You have to tell them something [new](useful.html).
+knew would be boring. You have to tell them something [new](/read/how-to-write-usefully).
 
 But this pattern isn't universal. In fact, it doesn't hold for most
 kinds of work. In most kinds of work  to be an administrator, for
@@ -106,7 +106,7 @@ they have a chance to. The problem with high school is that they
 haven't yet had a chance to. Plus high school tends to be an
 inward-looking little world whose inhabitants lack confidence, both
 of which magnify the forces of conformism. So high school is
-often a [bad time](nerds.html) for the
+often a [bad time](/read/why-nerds-are-unpopular) for the
 independent-minded. But there is some advantage even here: it
 teaches you what to avoid. If you later find yourself in a situation
 that makes you think "this is like high school," you know you should
@@ -191,7 +191,7 @@ and then more and more, until half the people around you are wearing
 the same shirt. You may not care much what you wear, but there are
 intellectual fashions too, and you definitely don't want to participate
 in those. Not just because you want sovereignty over your own
-thoughts, but because [unfashionable](nov.html)
+thoughts, but because [unfashionable](/read/novelty-and-heresy)
 ideas are disproportionately likely to lead somewhere interesting.
 The best place to find undiscovered ideas is where no one else is
 looking.
@@ -250,7 +250,7 @@ reinforces that idea. You're *un*conventional. You *don't* care
 what other people think. But it's not just a kind of immunity. In
 the most independent-minded people, the desire not to be told what
 to think is a positive force. It's not mere skepticism, but an
-active [delight](gba.html) in ideas that subvert
+active [delight](/read/the-word-hacker) in ideas that subvert
 the conventional wisdom, the more counterintuitive the better.
 
 Some of the most novel ideas seemed at the time almost like practical
@@ -316,7 +316,7 @@ The most important active step you can take to cultivate your
 curiosity is probably to seek out the topics that engage it. Few
 adults are equally curious about everything, and it doesn't seem
 as if you can choose which topics interest you. So it's up to you
-to [find](genius.html) them. Or invent them, if
+to [find](/read/the-bus-ticket-theory-of-genius) them. Or invent them, if
 necessary.
 
 Another way to increase your curiosity is to indulge it, by
@@ -340,7 +340,7 @@ One convenient consequence of the fact that no one identifies
 as conventional-minded is that you can say what you like about
 conventional-minded people without getting in too much trouble.
 When I wrote ["The Four Quadrants of
-Conformism"](conformism.html) I expected a firestorm of rage from the
+Conformism"](/read/the-four-quadrants-of-conformism) I expected a firestorm of rage from the
 aggressively conventional-minded, but in fact it was quite muted.
 They sensed that there was something about the essay that they
 disliked intensely, but they had a hard time finding a specific
@@ -386,7 +386,7 @@ day be possible for product companies.
 There are intellectual fashions in every field, but their
 influence varies. One of the reasons politics, for example, tends
 to be boring is that it's so extremely subject to them. The threshold
-for having opinions about politics is much [lower](identity.html) than the one for having
+for having opinions about politics is much [lower](/read/keep-your-identity-small) than the one for having
 opinions about set theory. So while there are some ideas in politics,
 in practice they tend to be swamped by waves of intellectual fashion.
 [5]

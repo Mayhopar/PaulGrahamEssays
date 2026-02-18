@@ -32,7 +32,7 @@ as I know, no substitute for this kind of discovery. Talking about
 your ideas with other people is a good way to develop them. But
 even after doing this, you'll find you still discover new things
 when you sit down to write. There is a kind of thinking that can
-only be done by [writing](words.html).
+only be done by [writing](/read/putting-ideas-into-words).
 
 There are of course kinds of thinking that can be done without
 writing. If you don't need to go too deeply into a problem, you can

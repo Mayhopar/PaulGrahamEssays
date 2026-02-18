@@ -15,7 +15,7 @@ readingTime: 18
 [Startup School.](http://startupschool.org))*
 
 How do you get good ideas for
-[startups](start.html)? That's probably the number
+[startups](/read/how-to-start-a-startup)? That's probably the number
 one question people ask me.
 
 I'd like to reply with another question: why do people think it's
@@ -115,7 +115,7 @@ The opposite extreme would be a well-paying but boring job at a big
 company. Big companies are biased against new technologies, and
 the people you'd meet there would be wrong too.
 
-In an [essay](hs.html) I wrote for high school students,
+In an [essay](/read/what-you-ll-wish-you-d-known) I wrote for high school students,
 I said a good rule of thumb was to stay upwind-- to
 work on things that maximize your future options. The principle
 applies for adults too, though perhaps it has to be modified to:
@@ -230,9 +230,9 @@ related in unexpected ways. Everyone knows computer science and
 electrical engineering are related, but precisely because everyone
 knows it, importing ideas from one to the other doesn't yield great
 profits. It's like importing something from Wisconsin to Michigan.
-Whereas (I claim) hacking and [painting](hp.html) are
+Whereas (I claim) hacking and [painting](/read/hackers-and-painters) are
 also related, in the sense that hackers and painters are both
-[makers](taste.html),
+[makers](/read/taste-for-makers),
 and this source of new ideas is practically virgin territory.
 
 **Problems**

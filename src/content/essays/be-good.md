@@ -245,7 +245,7 @@ If you're benevolent, people will rally around you: investors,
 customers, other companies, and potential employees. In the long
 term the most important may be the potential employees. I think
 everyone knows now that
-[good hackers](gh.html) are much better than mediocre
+[good hackers](/read/great-hackers) are much better than mediocre
 ones. If you can attract the best hackers to work for you, as
 Google has, you have a big advantage. And the very best hackers
 tend to be idealistic. They're not desperate for a job. They can
@@ -321,7 +321,7 @@ I realize this sounds like the stuff one used to hear about the
 "new economy" during the Bubble. Believe me, I was not drinking
 that kool-aid at the time. But I'm convinced there were some
 [good
-ideas](bubble.html) buried in Bubble thinking. For example, it's ok to focus on
+ideas](/read/what-the-bubble-got-right) buried in Bubble thinking. For example, it's ok to focus on
 growth instead of profits—but only if the growth is genuine.
 You can't be buying users; that's a pyramid scheme. But a company
 with rapid, genuine growth is valuable, and eventually markets learn

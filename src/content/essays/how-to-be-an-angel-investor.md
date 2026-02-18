@@ -75,7 +75,7 @@ That's ok. Dilution is normal. What saves you from being mistreated
 in future rounds, usually, is that you're in the same boat as the
 founders. They can't dilute you without diluting themselves just
 as much. And they won't dilute themselves unless they end up
-[net ahead](equity.html). So in theory, each further
+[net ahead](/read/the-equity-equation). So in theory, each further
 round of investment leaves you
 with a smaller share of an even more valuable company, till after
 several more rounds you end up with .5% of the company at the point
@@ -185,7 +185,7 @@ Someone who doesn't know the first thing about the mechanics of
 venture funding but knows what a successful startup founder looks
 like is actually far ahead of someone who knows termsheets inside
 out, but thinks
-["hacker"](gba.html) means someone who breaks into computers.
+["hacker"](/read/the-word-hacker) means someone who breaks into computers.
 If you can recognize good startup founders by empathizing with
 them—if you both resonate at the same frequency—then
 you may already be a better startup picker than the median professional

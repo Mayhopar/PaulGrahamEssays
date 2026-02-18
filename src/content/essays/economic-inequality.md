@@ -100,7 +100,7 @@ This is one way I know the rich aren't all getting richer simply
 from some new system for transferring wealth to them from
 everyone else. When you use the would-have method with startup
 founders, you find what most would have done
-[back in 1960](re.html), when
+[back in 1960](/read/the-refragmentation), when
 economic inequality was lower, was to join big companies or become
 professors. Before Mark Zuckerberg started Facebook, his default
 expectation was that he'd end up working at Microsoft. The reason
@@ -108,7 +108,7 @@ he and most other startup founders are richer than they would have
 been in the mid 20th century is not because of some right turn the
 country took during the Reagan administration, but because progress
 in technology has made it much easier to start a new company that
-[grows fast](growth.html).
+[grows fast](/read/startup-growth).
 
 Traditional economists seem strangely averse to studying individual
 humans. It seems to be a rule with them that everything has to start
@@ -184,7 +184,7 @@ being careful what you ask for.
 I think rising economic inequality is the inevitable fate of countries
 that don't choose something worse. We had a 40 year stretch in the
 middle of the 20th century that convinced some people otherwise.
-But as I explained in [The Refragmentation](re.html),
+But as I explained in [The Refragmentation](/read/the-refragmentation),
 that was an anomaly — a
 unique combination of circumstances that compressed American society
 not just economically but culturally too.
@@ -199,7 +199,7 @@ change in the last 10 years. Technology has decreased the cost of
 starting a startup so much that founders now have the upper hand
 over investors. Founders get less diluted, and it is now common
 for them to retain
-[board control](control.html) as well. Both further increase
+[board control](/read/founder-control) as well. Both further increase
 economic inequality, the former because founders own more stock,
 and the latter because, as investors have learned, founders tend
 to be better at running their companies than investors.
@@ -411,7 +411,7 @@ drafts of this.
 **Note:** This is a new version from which I
 removed a pair of metaphors that made a lot of people mad,
 essentially by macroexpanding them. If anyone wants to see
-the old version, I put it [here](ineqold.html).
+the old version, I put it [here](https://paulgraham.com/ineqold.html).
 
 **Related:**
 

@@ -22,7 +22,7 @@ by the end of the summer. What's going on? Did some kind of anomaly
 make this summer's applicants especially good? We worry about that,
 but we can't think of one. We'll find out this winter.
 
-The whole summer was full of surprises. The best was that the [hypothesis](hiring.html) we were testing seems to be
+The whole summer was full of surprises. The best was that the [hypothesis](/read/hiring-is-obsolete) we were testing seems to be
 correct. Young hackers can start viable companies. This is good
 news for two reasons: (a) it's an encouraging thought, and (b) it
 means that Y Combinator, which is predicated on the idea, is not

@@ -8,7 +8,7 @@ wordCount: 1167
 readingTime: 6
 ---
 
-The fiery reaction to the release of [Arc](arc.html) had
+The fiery reaction to the release of [Arc](https://paulgraham.com/arc.html) had
 an unexpected consequence: it made me realize I had a design
 philosophy. The main complaint of the more articulate critics was
 that Arc seemed so flimsy. After years of working on it, all I had

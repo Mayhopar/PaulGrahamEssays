@@ -12,11 +12,11 @@ December 2001 (rev. May 2002)
 
 *(This article came about in response to some questions on
 the [LL1](http://ll1.mit.edu) mailing list. It is now
-incorporated in [Revenge of the Nerds](icad.html).)*
+incorporated in [Revenge of the Nerds](/read/revenge-of-the-nerds).)*
 
 When McCarthy designed Lisp in the late 1950s, it was
 a radical departure from existing languages,
-the most important of which was [Fortran](history.html).
+the most important of which was [Fortran](https://paulgraham.com/history.html).
 
 Lisp embodied nine new ideas:
 
@@ -73,7 +73,7 @@ Fortran into Algol and thence to both their descendants.
 
 When a language is made entirely of expressions, you can
 compose expressions however you want. You can say either
-(using [Arc](arc.html) syntax)
+(using [Arc](https://paulgraham.com/arc.html) syntax)
 
 (if foo (= x 1) (= x 2))
 or
@@ -125,4 +125,4 @@ variation from the random expedients other languages
 adopted. That was not, probably, how McCarthy
 thought of it. Lisp wasn't designed to fix the mistakes
 in Fortran; it came about more as the byproduct of an
-attempt to [axiomatize computation](rootsoflisp.html).
+attempt to [axiomatize computation](/read/the-roots-of-lisp).

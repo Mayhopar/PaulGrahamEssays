@@ -89,7 +89,7 @@ taking your life.
 Arguing online is only incidentally addictive. There are more
 dangerous things than that. As I've written before, one byproduct
 of technical progress is that things we like tend to become [more
-addictive](addiction.html). Which means we will increasingly have to make a conscious
+addictive](/read/the-acceleration-of-addictiveness). Which means we will increasingly have to make a conscious
 effort to avoid addictions  to stand outside ourselves and ask "is
 this how I want to be spending my time?"
 

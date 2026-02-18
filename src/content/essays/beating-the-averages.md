@@ -355,7 +355,7 @@ of a powerful macro, and say there! how about that? But if I did,
 it would just look like gibberish to someone who didn't know Lisp;
 there isn't room here to explain everything you'd need to know to
 understand what it meant. In
-[Ansi Common Lisp](acl.html) I tried to move
+[Ansi Common Lisp](https://paulgraham.com/acl.html) I tried to move
 things along as fast as I could, and even so I didn't get to macros
 until page 160.
 
@@ -468,7 +468,7 @@ written in C++ and Perl. It's hard to say whether the program is no
 longer written in Lisp, though, because to translate this program
 into C++ they literally had to write a Lisp interpreter: the source
 files of all the page-generating templates are still, as far as I
-know, Lisp code. (See [Greenspun's Tenth Rule](quotes.html).)
+know, Lisp code. (See [Greenspun's Tenth Rule](https://paulgraham.com/quotes.html).)
 
 [2] Robert Morris says that I didn't need to be secretive, because
 even if our competitors had known we were using Lisp, they wouldn't

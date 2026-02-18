@@ -246,11 +246,11 @@ indicator of merit.
 
 **Good design is often slightly funny.** This one
 may not always be true. But Durer's
-[engravings](pilate.html)
+[engravings](https://paulgraham.com/pilate.html)
 and Saarinen's
-[womb chair](womb.html) and the
-[Pantheon](pantheon.html) and the
-original [Porsche 911](1974-911s.html) all seem
+[womb chair](https://paulgraham.com/womb.html) and the
+[Pantheon](https://paulgraham.com/pantheon.html) and the
+original [Porsche 911](https://paulgraham.com/1974-911s.html) all seem
 to me slightly funny. Godel's incompleteness theorem
 seems like a practical joke.
 
@@ -378,8 +378,8 @@ Mosaics (and some Cezannes) get extra visual punch by making
 the whole picture out of the same atoms. Compositional
 symmetry yields some of the most memorable paintings,
 especially when two halves react to one another, as in
-the *[Creation of Adam](symptg.html)* or
-*[American Gothic](symptg.html).*
+the *[Creation of Adam](https://paulgraham.com/symptg.html)* or
+*[American Gothic](https://paulgraham.com/symptg.html).*
 
 In math and engineering, recursion, especially, is a big win.
 Inductive proofs are wonderfully short. In software,
@@ -437,13 +437,13 @@ really-- in fact, maybe they meant it to look that way.
 
 Dangerous territory, that; if anything you should
 cultivate dissatisfaction.
-In Leonardo's [drawings](leonardo.html) there are often five
+In Leonardo's [drawings](https://paulgraham.com/leonardo.html) there are often five
 or six attempts to get a line right.
 The distinctive back of the Porsche
 911 only appeared in the redesign of an awkward
-[prototype](porsche695.html).
+[prototype](https://paulgraham.com/porsche695.html).
 In Wright's early plans for the
-[Guggenheim](guggen.html),
+[Guggenheim](https://paulgraham.com/guggen.html),
 the right half was a ziggurat; he inverted it to get the
 present shape.
 
@@ -491,8 +491,8 @@ feeling that their own vision will be lost in the process.
 has an uncanny quality: [Euler's
 Formula](http://mathworld.wolfram.com/EulerFormula.html),
 Bruegel's
-*[Hunters in the Snow](hunters.html),* the
-[SR-71](sr71.html), [Lisp](rootsoflisp.html). They're not just
+*[Hunters in the Snow](https://paulgraham.com/hunters.html),* the
+[SR-71](https://paulgraham.com/sr71.html), [Lisp](/read/the-roots-of-lisp). They're not just
 beautiful, but strangely beautiful.
 
 I'm not sure why. It may just be my own stupidity. A
@@ -569,7 +569,7 @@ ridiculous, and believed them so strongly that you risked
 ostracism or even violence by saying otherwise.
 
 If our own time were any different, that would be remarkable.
-As far as I can tell it [isn't](say.html).
+As far as I can tell it [isn't](/read/what-you-can-t-say).
 
 This problem afflicts not just every
 era, but in some degree every field.

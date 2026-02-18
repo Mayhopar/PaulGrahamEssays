@@ -29,7 +29,7 @@ going to talk about taste in art. You have better taste than me if
 the art you like is better than the art I like.
 
 If there's no such thing as good taste, then there's no such thing
-as [good art](goodart.html). Because if there is such a
+as [good art](/read/how-art-can-be-good). Because if there is such a
 thing as good art, it's
 easy to tell which of two people has better taste. Show them a lot
 of works by artists they've never seen before and ask them to

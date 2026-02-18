@@ -36,7 +36,7 @@ as much traffic by word of mouth online than our first PR firm got
 through the print media.
 
 And of course another big change for the average startup is that
-programming languages have improved-- or rather, the [median language](avg.html) has. At most startups ten years
+programming languages have improved-- or rather, the [median language](/read/beating-the-averages) has. At most startups ten years
 ago, software development meant ten programmers writing code in
 C++. Now the same work might be done by one or two using Python
 or Ruby.
@@ -163,7 +163,7 @@ founders instead of the company?
 Some VCs will say this is
 unthinkable—that they want all their money to be put to work
 growing the company. But the fact is, the huge size of current VC
-investments is dictated by the [structure](venturecapital.html)
+investments is dictated by the [structure](/read/a-unified-theory-of-vc-suckage)
 of VC funds, not the needs of startups. Often as not these large
 investments go to work destroying the company rather than growing
 it.

@@ -44,7 +44,7 @@ This works well in some fields and badly in others. I suspect
 it works in movies and software because they're both messy
 processes. "Systematic"
 is the last word I'd use to describe the way
-[good programmers](gh.html) write software.
+[good programmers](/read/great-hackers) write software.
 Code is not something they assemble painstakingly after
 careful planning, like the pyramids. It's something they
 plunge into, working fast and constantly changing their minds,
@@ -93,7 +93,7 @@ are building cars in the US. The problem with
 American cars is bad design. You can see that just by
 looking at them.
 
-All that extra sheet metal on the [AMC Matador](matador.html) wasn't
+All that extra sheet metal on the [AMC Matador](https://paulgraham.com/matador.html) wasn't
 added by the workers. The problem
 with this car, as with American cars today, is that it was
 designed by marketing people instead of designers.
@@ -118,9 +118,9 @@ We can stop there, and have something crude but
 serviceable, like a Vise-grip. Or we can improve it,
 which usually means encrusting it with gratuitous ornament.
 When we want to make a car "better,"
-we stick [tail fins](59eldorado.html) on it, or make it
-[longer](75eldorado.html), or make the
-[windows smaller](04magnum.html), depending on the current fashion.
+we stick [tail fins](https://paulgraham.com/59eldorado.html) on it, or make it
+[longer](https://paulgraham.com/75eldorado.html), or make the
+[windows smaller](https://paulgraham.com/04magnum.html), depending on the current fashion.
 
 Ditto for houses. In America you can have either a flimsy box banged
 together out of two by fours and drywall, or a McMansion-- a
@@ -188,7 +188,7 @@ designer can.
 
 Cars aren't the worst thing we make in America.
 Where the just-do-it model fails most dramatically is in our cities-- or
-rather, [exurbs](denver.html).
+rather, [exurbs](https://paulgraham.com/denver.html).
 If real estate developers operated on a large enough scale, if
 they built whole towns, market forces would compel
 them to build towns that didn't suck. But they only build a
@@ -231,10 +231,10 @@ In many technologies, version 2 has higher resolution. Why
 not in design generally? I think we'll gradually see
 national characters superseded
 by occupational characters: hackers in Japan will be allowed
-to behave with a [willfulness](gba.html)
+to behave with a [willfulness](/read/the-word-hacker)
 that would now seem unJapanese,
 and products in America will be designed with an
-insistence on [taste](taste.html) that would now seem unAmerican.
+insistence on [taste](/read/taste-for-makers) that would now seem unAmerican.
 Perhaps the most successful countries, in the future, will be
 those most willing to ignore what are now considered
 national characters, and do each kind of work in the way

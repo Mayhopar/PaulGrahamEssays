@@ -54,7 +54,7 @@ amount of money — hundreds of millions or even billions of dollars
 most. The reason is not the extra motivation you get from doing
 this, but that the way to make a really large amount of money is
 to start a startup, and working on what interests you is an excellent
-way to discover [startup ideas](startupideas.html).
+way to discover [startup ideas](/read/how-to-get-startup-ideas).
 
 Many if not most of the biggest startups began as projects the
 founders were doing for fun. Apple, Google, and Facebook all began
@@ -132,7 +132,7 @@ later from math to economics than from economics to math.
 
 There's one case, though, where it's easy to say whether you should
 work on what interests you the most: if you want to do
-[great work](greatwork.html).
+[great work](/read/how-to-do-great-work).
 This is not a sufficient condition for doing great work, but it is
 a necessary one.
 

@@ -35,6 +35,6 @@ the assumption, the bigger the dead zone it creates.
 
 There is a positive side to this phenomenon though. If you're
 looking for new ideas, one way to find them is by [looking for
-heresies](say.html). When you look at the question this way, the depressingly
+heresies](/read/what-you-can-t-say). When you look at the question this way, the depressingly
 large dead zones around mistaken assumptions become excitingly large
 mines of new ideas.

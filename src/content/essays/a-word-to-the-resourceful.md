@@ -34,7 +34,7 @@ could be detected by what appeared to be unrelated tests. You'd
 expect that if the founders at one end were distinguished by the
 presence of quality x, at the other end they'd be distinguished by
 lack of x. Was there some kind of inverse relation between
-[resourcefulness](relres.html) and being hard to talk to?
+[resourcefulness](/read/relentlessly-resourceful) and being hard to talk to?
 
 It turns out there is, and the key to the mystery is the old adage
 "a word to the wise is sufficient." Because this phrase is not

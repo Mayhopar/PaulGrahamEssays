@@ -25,7 +25,7 @@ But that test is not as simple as it sounds. In startups, as in a
 lot of other domains, the distribution of outcomes follows a power
 law, but in startups the curve is startlingly steep. The big
 successes are so big they
-[dwarf](swan.html) the rest. And since there are only
+[dwarf](/read/black-swan-farming) the rest. And since there are only
 a handful each year (the conventional wisdom is 15), investors treat
 "big success" as if it were binary. Most are interested in you if
 you seem like you have a chance, however small, of being one of the
@@ -192,7 +192,7 @@ how big you can get.
 Your target market has to be big, and it also has to be capturable
 by you. But the market doesn't have to be big yet, nor do you
 necessarily have to be in it yet. Indeed, it's often better to
-start in a [small](ds.html) market that will either turn into a big one or
+start in a [small](/read/do-things-that-don-t-scale) market that will either turn into a big one or
 from which you can move into a big one. There just has to be some
 plausible sequence of hops that leads to dominating a big market a
 few years down the line.
@@ -282,7 +282,7 @@ Raising money is not like applying to college, where you can assume
 that if you can get into MIT, you can also get into Foobar State.
 Because the best investors are much smarter than the rest, and the
 best startup ideas look initially like
-[bad ideas](startupideas.html), it's not uncommon
+[bad ideas](/read/how-to-get-startup-ideas), it's not uncommon
 for a startup to be rejected by all the VCs except the best ones.
 That's what happened to Dropbox. Y Combinator started in Boston,
 and for the first 3 years we ran alternating batches in Boston and

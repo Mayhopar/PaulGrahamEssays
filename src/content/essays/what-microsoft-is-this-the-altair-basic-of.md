@@ -26,7 +26,7 @@ you could not merely ignore, but ridicule.
 
 Often the founders themselves didn't know why their ideas were
 promising. They were attracted to these ideas by instinct, because
-they were [living in the future](startupideas.html) and
+they were [living in the future](/read/how-to-get-startup-ideas) and
 they sensed that something was missing. But they could not have
 put into words exactly how their ugly ducklings were going to grow
 into big, beautiful swans.

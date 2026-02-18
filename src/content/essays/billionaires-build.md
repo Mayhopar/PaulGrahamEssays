@@ -92,7 +92,7 @@ own computer. But more and more started to want one, till now every
 
 The ideal combination is the group of founders who are
 ["living in
-the future"](startupideas.html) in the sense of being at the leading edge of some kind
+the future"](/read/how-to-get-startup-ideas) in the sense of being at the leading edge of some kind
 of change, and who are building something they themselves want.
 Most super-successful startups are of this type. Steve Wozniak
 wanted a computer. Mark Zuckerberg wanted to engage online with his
@@ -256,7 +256,7 @@ let it go.
 
 Mundane as it sounds, that's the most powerful motivator of all,
 not just in startups, but in most ambitious undertakings: to be
-[genuinely interested](genius.html) in what
+[genuinely interested](/read/the-bus-ticket-theory-of-genius) in what
 you're building. This is what really
 drives billionaires, or at least the ones who become billionaires
 from starting companies. The company is their project.
@@ -339,7 +339,7 @@ it's really done?
 I'll tell you how it's really done, so you can at least tell your
 own kids the truth. It's all about users. The most reliable way to
 become a billionaire is to start a company that
-[grows fast](growth.html), and the
+[grows fast](/read/startup-growth), and the
 way to grow fast is to make what users want. Newly started startups
 have no choice but to delight users, or they'll never even get
 rolling. But this never stops being the lodestar, and bigger companies

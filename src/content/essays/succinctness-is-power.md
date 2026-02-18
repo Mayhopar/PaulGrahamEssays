@@ -15,7 +15,7 @@ the reasonings we are accustomed to carry on by their aid."
 - Charles Babbage, quoted in Iverson's Turing Award Lecture
 
 In the discussion about issues raised by [Revenge
-of the Nerds](icad.html) on the LL1 mailing list, Paul Prescod wrote
+of the Nerds](/read/revenge-of-the-nerds) on the LL1 mailing list, Paul Prescod wrote
 something that stuck in my mind.
 > Python's goal is regularity and readability, not succinctness.
 
@@ -319,7 +319,7 @@ We should be clear that we are talking about the succinctness
 of languages, not of individual programs.
 It certainly is possible for individual programs to be written too densely.
 
-I wrote about this in [On Lisp](onlisp.html). A complex macro
+I wrote about this in [On Lisp](https://paulgraham.com/onlisp.html). A complex macro
 may have to save many times its own length to be justified. If writing
 some hairy macro could save you ten lines of code every time you use it,
 and the macro is itself ten lines of code, then you get a net saving in

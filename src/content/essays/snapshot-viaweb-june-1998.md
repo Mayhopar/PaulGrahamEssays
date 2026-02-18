@@ -24,7 +24,7 @@ You may notice a certain similarity between the Viaweb and [Y Combinator](http:/
 as an inside joke when we started YC. Considering how basic a red
 circle is, it seemed surprising to me when we started Viaweb how
 few other companies used one as their logo. A bit later I realized
-[why](zero.html).
+[why](https://paulgraham.com/zero.html).
 
 On the [Company
 page](http://www.ycombinator.com/viaweb/com.html) you'll notice a mysterious individual called John McArtyem.
@@ -51,7 +51,7 @@ would deter any actual customers, but it did not.)
 Back in the 90s, to get users you had to get mentioned in magazines
 and newspapers. There were not the same ways to get found online
 that there are today. So we used to pay a [PR
-firm](submarine.html) $16,000 a month to get us mentioned in the press. Fortunately
+firm](/read/the-submarine) $16,000 a month to get us mentioned in the press. Fortunately
 reporters [liked
 us](http://ycombinator.com/viaweb/presquot.html).
 

@@ -272,7 +272,7 @@ fields.
 
 And as technology becomes increasingly important in the
 economy, nerd culture is
-[rising](nerdad.html) with it. Nerds are already
+[rising](https://paulgraham.com/nerdad.html) with it. Nerds are already
 a lot cooler than they were when I was a kid. When I was in
 college in the mid-1980s, "nerd" was still an insult. People
 who majored in computer science generally tried to conceal it.
@@ -336,7 +336,7 @@ directly to earnings. It's still early days.
 
 What made the options valuable, for the most part, is
 that they were options on the stock of
-[startups](start.html). Startups
+[startups](/read/how-to-start-a-startup). Startups
 were not of course a creation of the Bubble, but they
 were more visible during the Bubble than ever before.
 
@@ -349,7 +349,7 @@ big one. But increasingly startups are evolving into a
 vehicle for developing technology on spec.
 
 As I wrote in
-[Hackers & Painters](hackpaint.html), employees seem to be most
+[Hackers & Painters](https://paulgraham.com/hackpaint.html), employees seem to be most
 productive when they're paid in proportion to the wealth
 they generate. And the advantage of a startup—indeed,
 almost its raison d'etre—is that it offers something
@@ -422,7 +422,7 @@ the specific companies, but not so wrong about the underlying
 principle. I think one of the big trends we'll see in the
 coming century is a huge increase in productivity.
 
-Or more precisely, a huge increase in [variation](gh.html) in
+Or more precisely, a huge increase in [variation](/read/great-hackers) in
 productivity. Technology is a lever. It doesn't add;
 it multiplies. If the present range of productivity is
 0 to 100, introducing a multiple of 10 increases the range

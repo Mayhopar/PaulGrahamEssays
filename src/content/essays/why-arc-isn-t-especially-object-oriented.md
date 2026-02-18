@@ -9,7 +9,7 @@ readingTime: 3
 ---
 
 There is a kind of mania for object-oriented programming at the moment, but
-some of the [smartest programmers](reesoo.html) I know are some of the least excited about it.
+some of the [smartest programmers](https://paulgraham.com/reesoo.html) I know are some of the least excited about it.
 
 My own feeling is that object-oriented
 programming is a useful technique in some
@@ -24,7 +24,7 @@ programming, and three and a half of them are bad:
 1. Object-oriented programming is exciting
    if you have a statically-typed language without
    lexical closures or macros. To some degree, it offers a way around these
-   limitations. (See [Greenspun's Tenth Rule](quotes.html).)- Object-oriented programming is popular in big companies,
+   limitations. (See [Greenspun's Tenth Rule](https://paulgraham.com/quotes.html).)- Object-oriented programming is popular in big companies,
      because it suits the way they write software. At big companies,
      software tends to be written by large (and frequently changing)
      teams of

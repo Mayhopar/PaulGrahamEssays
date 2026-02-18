@@ -9,7 +9,7 @@ readingTime: 34
 ---
 
 *(This article was written as a kind of business plan for a
-[new language](arc.html).
+[new language](https://paulgraham.com/arc.html).
 So it is missing (because it takes for granted) the most important
 feature of a good programming language: very powerful abstractions.)*
 
@@ -52,7 +52,7 @@ elegant it may be as a piece of sculpture.
 It may be that the majority of programmers can't tell a good language
 from a bad one. But that's no different with any other tool. It
 doesn't mean that it's a waste of time to try designing a good
-language. [Expert hackers](design.html)
+language. [Expert hackers](https://paulgraham.com/design.html)
 can tell a good language when they see
 one, and they'll use it. Expert hackers are a tiny minority,
 admittedly, but that tiny minority write all the good software,
@@ -759,7 +759,7 @@ In the matter of libraries I think there is room to beat languages
 like Perl and Python at their own game. A lot of the new applications
 that will need to be written in the coming years will be
 [server-based
-applications](road.html). There's no reason a new Lisp shouldn't have string
+applications](/read/the-other-road-ahead). There's no reason a new Lisp shouldn't have string
 libraries as good as Perl, and if this new Lisp also had powerful
 libraries for server-based applications, it could be very popular.
 Real hackers won't turn up their noses at a new tool that will let
@@ -788,7 +788,7 @@ the two would work very well together.
 
 By way of summary, let's try describing the hacker's dream language.
 The dream language is
-[beautiful](taste.html), clean, and terse. It has an
+[beautiful](/read/taste-for-makers), clean, and terse. It has an
 interactive toplevel that starts up fast. You can write programs
 to solve common problems with very little code. Nearly all the
 code in any program you write is code that's specific to your

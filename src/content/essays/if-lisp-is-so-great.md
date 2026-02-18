@@ -61,7 +61,7 @@ more leverage over developers, who can more easily be replaced.
 
 Indeed, if programming languages were all more or less equivalent,
 there would be little justification for using any but the most
-popular. But they [aren't](icad.html) all equivalent, not by a long
+popular. But they [aren't](/read/revenge-of-the-nerds) all equivalent, not by a long
 shot. And that's why less popular languages, like Jane Austen's
 novels, continue to survive at all. When everyone else is reading
 the latest John Grisham novel, there will always be a few people

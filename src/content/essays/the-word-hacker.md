@@ -98,7 +98,7 @@ what they expected to be
 the next generation of business computer. They were mistaken.
 The next generation of business computer was
 being developed on entirely different lines by two long-haired
-guys called Steve in a [garage](garage.html) in Los Altos. At about the
+guys called Steve in a [garage](https://paulgraham.com/garage.html) in Los Altos. At about the
 same time, the powers that be
 were cooperating to develop the
 official next generation operating system, Multics.
@@ -185,7 +185,7 @@ of the licensing deal for DOS, just as the hypothetical
 redefining it as one that's easier to solve.
 
 Smart-alecks have to develop a keen sense of how much they
-can [get away](say.html) with. And lately hackers
+can [get away](/read/what-you-can-t-say) with. And lately hackers
 have sensed a change
 in the atmosphere.
 Lately hackerliness seems rather frowned upon.
@@ -265,7 +265,7 @@ Jackie McDonough, Robert Morris, Eric Raymond, Guido van Rossum,
 David Weinberger, and
 Steven Wolfram for reading drafts of this essay.
 
-(The [image](bluebox.html) shows Steves Jobs and Wozniak
+(The [image](https://paulgraham.com/bluebox.html) shows Steves Jobs and Wozniak
 with a "blue box."
 Photo by Margret Wozniak. Reproduced by permission of Steve
 Wozniak.)

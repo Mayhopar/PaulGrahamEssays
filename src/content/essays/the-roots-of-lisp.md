@@ -37,7 +37,7 @@ far: the C model and the Lisp model.
 These two seem points of high ground, with swampy lowlands
 between them. As computers have grown more powerful,
 the new languages being developed have been [moving
-steadily](diff.html) toward the Lisp model. A popular recipe
+steadily](/read/what-made-lisp-different) toward the Lisp model. A popular recipe
 for new programming languages in the past 20 years
 has been to take the C model of computing and add to
 it, piecemeal, parts taken from the Lisp model,

@@ -241,7 +241,7 @@ technology; it's mainly in the prevention of bad things that
 technology comes into play. Technology certainly can enhance
 discussion. Nested comments do, for example. But I'd rather use
 a site with primitive features and smart, nice users than a more
-advanced one whose users were idiots or [trolls](trolls.html).
+advanced one whose users were idiots or [trolls](/read/trolls).
 
 So the most important thing a community site can do is attract the
 kind of people it wants. A site trying to be as big as possible

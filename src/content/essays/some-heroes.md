@@ -245,7 +245,7 @@ artificial intelligence, and was an early member of both of the top
 two computer science departments, MIT and Stanford. No one would
 dispute that he's one of the greats, but he's an especial hero to
 me because of
-[Lisp](rootsoflisp.html).
+[Lisp](/read/the-roots-of-lisp).
 
 It's hard for us now to understand what a conceptual leap that was
 at the time. Paradoxically, one of the reasons his achievement is
@@ -305,9 +305,9 @@ great Renaissance patrons of the arts. As the CEO of a company,
 that makes him unique.
 
 Most CEOs delegate
-[taste](taste.html) to a subordinate.
+[taste](/read/taste-for-makers) to a subordinate.
 The
-[design paradox](gh.html)
+[design paradox](/read/great-hackers)
 means they're choosing more or less at random. But Steve
 Jobs actually has taste himself — such good taste that he's shown
 the world how much more important taste is than they realized.

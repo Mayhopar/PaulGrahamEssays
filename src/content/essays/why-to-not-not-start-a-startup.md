@@ -676,7 +676,7 @@ to make a lot of money. I couldn't care less about other ways to
 do that, like speculating in securities. At most those are interesting
 the way puzzles are. There's more going on with startups. They
 may represent one of those rare, historic shifts in the way
-[wealth](wealth.html) is created.
+[wealth](/read/how-to-make-wealth) is created.
 
 That's ultimately what drives us to work on Y Combinator. We want
 to make money, if only so we don't have to stop doing it, but that's

@@ -16,7 +16,7 @@ this in borderline cases, and reports that it works well.
 
 Why only do it in borderline cases? And why only do it once?
 
-As I mentioned in [Will Filters Kill Spam?](wfks.html),
+As I mentioned in [Will Filters Kill Spam?](https://paulgraham.com/wfks.html),
 following all the urls in
 a spam would have an amusing side-effect. If popular email clients
 did this in order to filter spam, the spammer's servers

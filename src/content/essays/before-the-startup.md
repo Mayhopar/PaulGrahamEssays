@@ -136,8 +136,8 @@ startup is to try to figure out the tricks for winning at this new
 game. Since fundraising appears to be the measure of success for
 startups (another classic noob mistake), they always want to know what the
 tricks are for convincing investors. We tell them the best way to
-[convince investors](convince.html) is to make a startup
-that's actually doing well, meaning [growing fast](growth.html), and then simply
+[convince investors](/read/how-to-convince-investors) is to make a startup
+that's actually doing well, meaning [growing fast](/read/startup-growth), and then simply
 tell investors so. Then they want to know what the tricks are for
 growing fast. And we have to tell them the best way to do that is
 simply to make something people want.
@@ -297,7 +297,7 @@ to succeed if you wait. In the unlikely case that you're 20 and
 one of your side projects takes off like Facebook did, you'll face
 a choice of running with it or not, and it may be reasonable to run
 with it. But the usual way startups take off is for the founders
-to [make them](ds.html) take off, and it's gratuitously
+to [make them](/read/do-things-that-don-t-scale) take off, and it's gratuitously
 stupid to do that at 20.
 
 **Try**
@@ -311,7 +311,7 @@ The answer is the fifth counterintuitive point: you can't tell. Your
 life so far may have given you some idea what your prospects might
 be if you tried to become a mathematician, or a professional football
 player. But unless you've had a very strange life you haven't done
-much that was [like](really.html) being a startup founder.
+much that was [like](/read/what-startups-are-really-like) being a startup founder.
 Starting a startup will change you a lot. So what you're trying
 to estimate is not just what you are, but what you could grow into,
 and who can do that?
@@ -351,7 +351,7 @@ cofounders. And the m.o. for getting both is the same. Which leads
 to our sixth and last counterintuitive point: that the way to get
 startup ideas is not to try to think of startup ideas.
 
-I've written a whole [essay](startupideas.html) on this,
+I've written a whole [essay](/read/how-to-get-startup-ideas) on this,
 so I won't repeat it all here. But the short version is that if
 you make a conscious effort to think of startup ideas, the ideas
 you come up with will not merely be bad, but bad and plausible-sounding,
@@ -389,7 +389,7 @@ so long as you work on problems demanding enough to stretch you.
 What kind of problems are those? That is very hard to answer in
 the general case. History is full of examples of young people who
 were working on important problems that [no
-one else](marginal.html) at the time thought were important, and in particular
+one else](/read/the-power-of-the-marginal) at the time thought were important, and in particular
 that their parents didn't think were important. On the other hand,
 history is even fuller of examples of parents who thought their
 kids were wasting their time and who were right. So how do you
@@ -466,14 +466,14 @@ boiled down to two words: just learn.
 **Notes**
 [1]
 Some founders listen more than others, and this tends to be a
-[predictor of success](word.html). One of the things I
+[predictor of success](/read/a-word-to-the-resourceful). One of the things I
 remember about the Airbnbs during YC is how intently they listened.
 [2]
 In fact, this is one of the reasons startups are possible. If
 big companies weren't plagued by internal inefficiencies, they'd
 be proportionately more effective, leaving less room for startups.
 [3]
-In a startup you have to spend a lot of time on [schleps](schlep.html), but this sort of work is merely
+In a startup you have to spend a lot of time on [schleps](/read/schlep-blindness), but this sort of work is merely
 unglamorous, not bogus.
 [4]
 What should you do if your true calling is gaming the system?
@@ -514,7 +514,7 @@ job after college, they thought at least a little about how the
 courses they took might look to an employer. And perhaps even
 worse, they might shy away from taking a difficult class lest they
 get a low grade, which would harm their all-important GPA. Good
-news: users [don't care](credentials.html) what your GPA
+news: users [don't care](/read/after-credentials) what your GPA
 was. And I've never heard of investors caring either. Y Combinator
 certainly never asks what classes you took in college or what grades
 you got in them.

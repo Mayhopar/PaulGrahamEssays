@@ -478,7 +478,7 @@ find valuable ones just sitting there waiting to be implemented.
 
 The schlep filter is so dangerous that I wrote a separate essay
 about the condition it induces, which I called
-[schlep blindness](schlep.html).
+[schlep blindness](/read/schlep-blindness).
 I gave Stripe as an example of a startup that benefited from turning
 off this filter, and a pretty striking example it is. Thousands
 of programmers were in a position to see this idea; thousands of
@@ -651,7 +651,7 @@ was at the time.
 [[17](#f17n)]
 
 Are there groups of
-[scruffy](marginal.html)
+[scruffy](/read/the-power-of-the-marginal)
 but sophisticated users like the early
 microcomputer "hobbyists" that are currently being ignored by the
 big players? A startup with its sights set on bigger things can

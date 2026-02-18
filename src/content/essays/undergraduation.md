@@ -23,7 +23,7 @@ I was one. I was certainly a hacker, at least.
 **Hacking**
 
 What should you do in college to become a
-[good hacker](gh.html)? There are two
+[good hacker](/read/great-hackers)? There are two
 main things you can do: become very good at programming, and learn
 a lot about specific, cool problems. These turn out to be equivalent,
 because each drives you to do the other.
@@ -47,7 +47,7 @@ Another way to be good at programming is to find other people who
 are good at it, and learn what they know. Programmers tend to sort
 themselves into tribes according to the type of work they do and
 the tools they use, and some tribes are
-[smarter](pypar.html) than others. Look
+[smarter](/read/the-python-paradox) than others. Look
 around you and see what the smart people seem to be working on;
 there's usually a reason.
 
@@ -102,7 +102,7 @@ to work on now.
 
 When I was in college, a lot of the professors believed (or at least
 wished) that
-[computer science](hp.html) was a branch of math. This idea was
+[computer science](/read/hackers-and-painters) was a branch of math. This idea was
 strongest at Harvard, where there wasn't even a CS major till the
 1980s; till then one had to major in applied math. But it was
 nearly as bad at Cornell. When I told the fearsome Professor Conway
@@ -147,7 +147,7 @@ learn in the course of working honestly on hard problems. All such
 work tends to be related, in that ideas and techniques from one
 field can often be transplanted successfully to others. Even others
 that seem quite distant. For example, I write
-[essays](essay.html) the same way
+[essays](/read/the-age-of-the-essay) the same way
 I write software: I sit down and blow out a lame version 1 as fast
 as I can type, then spend several weeks rewriting it.
 
@@ -161,7 +161,7 @@ approached with hopelessly inadequate techniques. Bold? Closer
 to fraudulent.
 
 The social sciences are also fairly bogus, because they're so much
-influenced by intellectual [fashions](say.html). If a
+influenced by intellectual [fashions](/read/what-you-can-t-say). If a
 physicist met a colleague
 from 100 years ago, he could teach him some new things; if a psychologist
 met a colleague from 100 years ago, they'd just get into an
@@ -232,7 +232,7 @@ learn practical skills, and not by accident.
 
 What you should learn to get a job depends on the kind you want.
 If you want to work in a big company, learn how to hack
-[Blub](avg.html) on
+[Blub](/read/beating-the-averages) on
 Windows. If you want to work at a cool little company or research
 lab, you'll do better to learn Ruby on Linux. And if you want to
 start your own company, which I think will be more and more common,
@@ -373,7 +373,7 @@ grad school, and impossible to trick problems into letting you solve
 them. College is where faking stops working. From this point,
 unless you want to go work for a big company, which is like reverting
 to high school, the only way forward is through doing what you
-[love](love.html).
+[love](/read/how-to-do-what-you-love).
 
 <div class="text-xs">
 
@@ -443,7 +443,7 @@ Why go to a college that limits their options?
 **Thanks** to Trevor Blackwell, Alex Lewin, Jessica Livingston,
 Robert Morris, Eric
 Raymond, and several
-[anonymous CS professors](undergrad2.html)
+[anonymous CS professors](https://paulgraham.com/undergrad2.html)
 for reading drafts of this, and to the students whose questions
 began it.
 

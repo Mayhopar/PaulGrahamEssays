@@ -124,7 +124,7 @@ Nothing kills startups like distractions. The worst type are those
 that pay money: day jobs, consulting, profitable side-projects.
 The startup may have more long-term potential, but you'll always
 interrupt working on it to answer calls from people paying you now.
-Paradoxically, [fundraising](fundraising.html) is this type of distraction, so try to
+Paradoxically, [fundraising](/read/a-fundraising-survival-guide) is this type of distraction, so try to
 minimize that too.
 
 **11. Don't get demoralized.**
@@ -139,7 +139,7 @@ bend at the knees when picking up a heavy box.
 
 **12. Don't give up.**
 
-Even if you get demoralized, [don't give up](die.html). You can get surprisingly
+Even if you get demoralized, [don't give up](/read/how-not-to-die). You can get surprisingly
 far by just not giving up. This isn't true in all fields. There
 are a lot of people who couldn't become good mathematicians no
 matter how long they persisted. But startups aren't like that.

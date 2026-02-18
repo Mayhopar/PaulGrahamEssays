@@ -85,13 +85,13 @@ turned out to be.
 
 I wouldn't quite call it "Bubble 2.0" just because VCs are eager
 to invest again. The Internet is a genuinely big deal. The bust
-was as much an [overreaction](http://www.paulgraham.com/bubble.html) as
+was as much an [overreaction](/read/what-the-bubble-got-right) as
 the boom. It's to be expected that once we started to pull out of
 the bust, there would be a lot of growth in this area, just as there
 was in the industries that spiked the sharpest before the Depression.
 
 The reason this won't turn into a second Bubble is that the IPO
-market is gone. [Venture investors](startupfunding.html)
+market is gone. [Venture investors](/read/how-to-fund-a-startup)
 are driven by exit strategies. The reason they were funding all
 those laughable startups during the late 90s was that they hoped
 to sell them to gullible retail investors; they hoped to be laughing
@@ -142,7 +142,7 @@ Maps appeared and the term "Ajax" was [coined](http://www.adaptivepath.com/publi
 **2. Democracy**
 
 The second big element of Web 2.0 is democracy. We now have several
-examples to prove that [amateurs](opensource.html) can
+examples to prove that [amateurs](/read/what-business-can-learn-from-open-source) can
 surpass professionals, when they have the right kind of system to
 channel their efforts. [Wikipedia](http://wikipedia.org)
 may be the most famous. Experts have given Wikipedia middling
@@ -195,10 +195,10 @@ Even the startups are different this time around. They are to the
 startups of the Bubble what bloggers are to the print media. During
 the Bubble, a startup meant a company headed by an MBA that was
 blowing through several million dollars of VC money to "get big
-fast" in the most literal sense. Now it means a smaller, [younger](hiring.html), more technical group that just
+fast" in the most literal sense. Now it means a smaller, [younger](/read/hiring-is-obsolete), more technical group that just
 decided to make something great. They'll decide later if they want
 to raise VC-scale funding, and if they take it, they'll take it on
-[their terms](vcsqueeze.html).
+[their terms](/read/the-venture-capital-squeeze).
 
 **3. Don't Maltreat Users**
 
@@ -210,7 +210,7 @@ them to annoying ads. The very design of the average site in the
 late 90s was an abuse. Many of the most popular sites were loaded
 with obtrusive branding that made them slow to load and sent the
 user the message: this is our site, not yours. (There's a physical
-analog in the Intel and Microsoft [stickers](designedforwindows.html) that come on some
+analog in the Intel and Microsoft [stickers](https://paulgraham.com/designedforwindows.html) that come on some
 laptops.)
 
 I think the root of the problem was that sites felt they were giving
@@ -234,7 +234,7 @@ and a pay version, don't make the free version too restricted. And
 if you find yourself asking "should we allow users to do x?" just
 answer "yes" whenever you're unsure. Err on the side of generosity.
 
-In [How to Start a Startup](start.html) I advised startups
+In [How to Start a Startup](/read/how-to-start-a-startup) I advised startups
 never to let anyone fly under them, meaning never to let any other
 company offer a cheaper, easier solution. Another way to fly low
 is to give users more power. Let users do what they want. If you
@@ -320,7 +320,7 @@ from a server.
 
 This plan collapsed under its own weight. Microsoft helped kill it,
 but it would have died anyway. There was no uptake among hackers.
-When you find [PR firms](submarine.html) promoting
+When you find [PR firms](/read/the-submarine) promoting
 something as the next development platform, you can be sure it's
 not. If it were, you wouldn't need PR firms to tell you, because
 hackers would already be writing stuff on top of it, the way sites
@@ -380,7 +380,7 @@ tied to the browser, the second wave extends applications across
 the web and enables a new generation of services and business
 opportunities." To the extent this means anything, it seems to be
 about
-[web-based applications](road.html).
+[web-based applications](/read/the-other-road-ahead).
 [2]
 Disclosure: Reddit was funded by
 [Y Combinator](http://ycombinator.com). But although

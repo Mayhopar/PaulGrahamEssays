@@ -90,7 +90,7 @@ theirs, but since they made the appointment it must be worth it to
 them.) During busy periods, office hours sometimes get long enough
 that they compress the day, but they never interrupt it.
 
-When we were working on [our own startup](start.html), back in the 90s, I evolved
+When we were working on [our own startup](/read/how-to-start-a-startup), back in the 90s, I evolved
 another trick for partitioning the day. I used to program from
 dinner till about 3 am every day, because at night no one could
 interrupt me. Then I'd sleep till about 11 am, and come in and

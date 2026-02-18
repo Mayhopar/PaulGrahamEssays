@@ -277,7 +277,7 @@ visibly inferior because (among other things), they had no way
 around the statelessness of CGI scripts. If you were going to
 change something, all the changes had to happen on one page, with
 an Update button at the bottom. As I've written elsewhere, by
-using [Lisp](avg.html), which many people still consider
+using [Lisp](/read/beating-the-averages), which many people still consider
 a research language,
 we could make the Viaweb editor behave more like desktop software.
 
@@ -1247,7 +1247,7 @@ the manager, which merchants used to retrieve orders, view statistics,
 and configure domain names etc. I wrote the editor, which merchants
 used to build their sites. The ordering system and image generator
 were written in C and C++, the manager mostly in Perl, and the editor
-in [Lisp](avg.html).
+in [Lisp](/read/beating-the-averages).
 
 [8] Price discrimination is so pervasive (how often have you heard
 a retailer claim that their buying power meant lower prices for
@@ -1329,6 +1329,6 @@ Bob Frankston for information about VisiCalc; and again to Ken Anderson
 for inviting me to speak at BBN.
 
 You'll find this essay and 14 others in
-[***Hackers & Painters***](hackpaint.html).
+[***Hackers & Painters***](https://paulgraham.com/hackpaint.html).
 
 </div>

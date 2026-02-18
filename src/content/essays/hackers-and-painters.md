@@ -125,7 +125,7 @@ that kind of works.
 
 Measuring what hackers are actually trying to do, designing
 beautiful software, would be much more difficult. You need
-a good [sense of design](taste.html) to judge
+a good [sense of design](/read/taste-for-makers) to judge
 good design. And
 there is no correlation, except possibly
 a [negative](http://www.apa.org/journals/features/psp7761121.pdf)
@@ -203,7 +203,7 @@ just as writers and painters and architects do.
 Realizing this has real implications for software design.
 It means that a programming language should, above all, be
 malleable. A programming language is for
-[thinking](piraha.html) of
+[thinking](https://paulgraham.com/piraha.html) of
 programs, not for expressing programs you've already thought
 of. It should be a pencil, not a pen. Static typing would
 be a fine idea if people actually did write programs the way
@@ -449,13 +449,13 @@ easy to change your mind. Dynamic typing is a win here because
 you don't have to
 commit to specific data representations up front.
 But the key to flexibility, I think, is to make the language
-very [abstract](power.html).
+very [abstract](/read/succinctness-is-power).
 The easiest program to change is one that's very short.
 
 This sounds like a paradox, but a great painting
 has to be better than it has to be.
 For example, when Leonardo
-painted the portrait of [Ginevra de Benci](ginevra.html)
+painted the portrait of [Ginevra de Benci](https://paulgraham.com/ginevra.html)
 in the National Gallery, he put a juniper bush behind her head.
 In it he carefully
 painted each individual leaf. Many painters might have thought,
@@ -521,7 +521,7 @@ great art of the past is the work of multiple hands, though
 there may only be one name on the wall next to it in the
 museum. Leonardo was an apprentice in the workshop of
 Verrocchio and painted one of the angels in his [Baptism of
-Christ](baptism.html). This sort of thing was the rule, not the exception.
+Christ](https://paulgraham.com/baptism.html). This sort of thing was the rule, not the exception.
 Michelangelo was considered especially dedicated for insisting
 on painting all the figures on the ceiling of the Sistine
 Chapel himself.
@@ -632,7 +632,7 @@ years ago. At the time, no one thought
 these paintings were as important as we do today. It would have
 seemed very odd to people at the time that Federico da Montefeltro,
 the Duke of Urbino, would one day be known mostly as the guy
-with the strange nose in a [painting](montefeltro.html)
+with the strange nose in a [painting](https://paulgraham.com/montefeltro.html)
 by Piero della Francesca.
 
 So while I admit that hacking doesn't seem as cool as painting now,

@@ -45,7 +45,7 @@ too early that you're default dead, whereas it's very dangerous to
 start worrying too late.
 
 The reason is a phenomenon I wrote about earlier: the
-[fatal pinch](pinch.html).
+[fatal pinch](/read/the-fatal-pinch).
 The fatal pinch is default dead + slow growth + not enough
 time to fix it. And the way founders end up in it is by not realizing
 that's where they're headed.
@@ -135,7 +135,7 @@ Asking whether you're default alive or default dead may save you
 from this. Maybe the alarm bells it sets off will counteract the
 forces that push you to overhire. Instead you'll be compelled to
 seek growth in other ways. For example, by [doing
-things that don't scale](ds.html), or by redesigning the product in the
+things that don't scale](/read/do-things-that-don-t-scale), or by redesigning the product in the
 way only founders can.
 And for many if not most startups, these paths to growth will be
 the ones that actually work.

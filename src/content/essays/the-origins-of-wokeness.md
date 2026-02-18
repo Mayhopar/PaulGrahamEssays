@@ -464,7 +464,7 @@ too far into wokeness. The Bud Light brand may have been
 permanently damaged by it. I'm not going to claim Trump's
 second victory in 2024 was a referendum on wokeness; I think
 he won, as presidential candidates always do, because he was
-more [charismatic](charisma.html); but voters'
+more [charismatic](/read/it-s-charisma-stupid); but voters'
 disgust with wokeness must have helped.
 
 So what do we do now? Wokeness is already in retreat.
@@ -549,7 +549,7 @@ of aggressively performative moralism — is of course
 harder. Here we're up against human nature. There will
 always be prigs. And in particular there will always be the
 enforcers among them, the
-[aggressively conventional-minded](conformism.html).
+[aggressively conventional-minded](/read/the-four-quadrants-of-conformism).
 These people are born that way. Every society has them. So
 the best we can do is to keep them bottled up.
 
@@ -568,7 +568,7 @@ ideologies that appealed to them even if we wanted to. So if
 we want to keep them bottled up, we have to do it one step
 downstream. Fortunately when the aggressively
 conventional-minded go on the rampage they always do one
-thing that gives them away: they define new [heresies](heresy.html) to
+thing that gives them away: they define new [heresies](/read/heresy) to
 punish people for. So the best way to protect ourselves from
 future outbreaks of things like wokeness is to have powerful
 antibodies against the concept of heresy.
@@ -592,7 +592,7 @@ able to notice when they become aligned behind some new
 ideology. And if we always fight back at that point, with
 any luck we can stop them in their tracks.
 
-The number of true things we [can't say](say.html)
+The number of true things we [can't say](/read/what-you-can-t-say)
 should not increase. If it does, something is wrong.
 
 <div class="text-xs">

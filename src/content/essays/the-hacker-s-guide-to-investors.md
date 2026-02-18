@@ -29,7 +29,7 @@ hackers don't know how little they know about this strange world.
 **1. The investors are what make a startup hub.**
 
 About a year ago I tried to figure out what you'd need to reproduce
-[Silicon Valley](siliconvalley.html). I decided the
+[Silicon Valley](/read/how-to-be-silicon-valley). I decided the
 critical ingredients were rich people
 and nerds—investors and founders. People are all you need to
 make technology, and all the other people will move.
@@ -354,7 +354,7 @@ too many signatures to close.
 The reason investors can get away
 with this is that they see so many deals. It doesn't matter if
 they underestimate you because of some surface imperfection, because
-the next best deal will be [almost as good](judgement.html).
+the next best deal will be [almost as good](/read/two-kinds-of-judgement).
 Imagine picking out
 apples at a grocery store. You grab one with a little bruise.
 Maybe it's just a surface bruise, but why even bother checking when
@@ -394,7 +394,7 @@ just couldn't stand the idea of taking this rival firm's rejects.
 In this case the exploding termsheet was not (or not only) a tactic
 to pressure the startup. It was more like the high school trick
 of breaking up with someone before they can break up with you. In
-an [earlier essay](startupfunding.html) I said that VCs were a lot like high school girls.
+an [earlier essay](/read/how-to-fund-a-startup) I said that VCs were a lot like high school girls.
 A few VCs have joked about that characterization, but none have
 disputed it.
 

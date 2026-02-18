@@ -125,7 +125,7 @@ example, if your company wants to write some software, it might
 seem a prudent choice to write it in Java. But when you choose a
 language, you're also choosing a community. The programmers you'll
 be able to hire to work on a Java project won't be as
-[smart](pypar.html) as the
+[smart](/read/the-python-paradox) as the
 ones you could get to work on a project written in Python.
 And the quality of your hackers probably matters more than the
 language you choose. Though, frankly, the fact that good hackers
@@ -239,7 +239,7 @@ kind of solution. Before ITA
 the people working on airline fare searches probably thought it
 was one of the most boring applications imaginable. But ITA made
 it interesting by
-[redefining](carl.html) the problem in a more ambitious way.
+[redefining](https://paulgraham.com/carl.html) the problem in a more ambitious way.
 
 I think the same thing happened at Google. When Google was founded,
 the conventional wisdom among the so-called portals was that search
@@ -278,7 +278,7 @@ not a hacker, you can't tell who the good hackers are. A similar
 problem explains why American cars are so ugly. I call it the
 *design paradox.* You might think that you could make your products
 beautiful just by hiring a great designer to design them. But if
-you yourself don't have good [taste](taste.html),
+you yourself don't have good [taste](/read/taste-for-makers),
 how are you going to recognize
 a good designer? By definition you can't tell from his portfolio.
 And you can't go by the awards he's won or the jobs he's had,
@@ -335,7 +335,7 @@ department functions like a mine. They produce new ideas; maybe
 the rest of the company will be able to use them.
 
 You may not have to go to this extreme.
-[Bottom-up programming](progbot.html)
+[Bottom-up programming](/read/programming-bottom-up)
 suggests another way to partition the company: have the smart people
 work as toolmakers. If your company makes software to do x, have
 one group that builds tools for writing software of that type, and
@@ -487,12 +487,12 @@ can probably make yourself smart too.
 The key to being a good hacker may be to work on what you like.
 When I think about the great hackers I know, one thing they have
 in common is the extreme
-[difficulty](procrastination.html) of making them work
+[difficulty](/read/good-and-bad-procrastination) of making them work
 on anything they
 don't want to. I don't know if this is cause or effect; it may be
 both.
 
-To do something well you have to [love](love.html) it.
+To do something well you have to [love](/read/how-to-do-what-you-love) it.
 So to the extent you
 can preserve hacking as something you love, you're likely to do it
 well. Try to keep the sense of wonder you had about programming at
@@ -522,7 +522,7 @@ partly to his extraordinary peripheral vision. "Perfect'' eyesight
 means about 47 degrees of vertical peripheral vision. Bill Bradley
 had 70; he could see the basket when he was looking at the floor.
 Maybe great hackers have some similar inborn ability. (I cheat by
-using a very [dense](power.html) language,
+using a very [dense](/read/succinctness-is-power) language,
 which shrinks the court.)
 
 This could explain the disconnect over cubicles. Maybe the people
@@ -533,7 +533,7 @@ are true, knows all too well.)
 
 One difference I've noticed between great hackers and smart people
 in general is that hackers are more
-[politically incorrect](say.html). To the
+[politically incorrect](/read/what-you-can-t-say). To the
 extent there is a secret handshake among good hackers, it's when they
 know one another well enough to express opinions that would get
 them stoned to death by the general public. And I can see why

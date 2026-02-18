@@ -104,7 +104,7 @@ reason why.
 
 (As we later learned, it probably cost us little to reject people
 whose characters we had doubts about, because how good founders are
-and how well they do are [not orthogonal](mean.html). If bad founders succeed
+and how well they do are [not orthogonal](/read/mean-people-fail). If bad founders succeed
 at all, they tend to sell early. The most successful founders are
 almost all good.)
 

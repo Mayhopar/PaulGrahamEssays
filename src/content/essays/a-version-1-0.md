@@ -20,7 +20,7 @@ see an early draft if it will show how much you have
 to rewrite to beat an essay into shape.
 
 Below is the oldest version I can find of
-[The Age of the Essay](essay.html)
+[The Age of the Essay](/read/the-age-of-the-essay)
 (probably the second or third day), with
 text that ultimately survived in
 red and text that later

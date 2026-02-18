@@ -326,7 +326,7 @@ a town gets money from the state government to renovate a vacant
 building as a "high-tech incubator," as if it were merely lack of
 the right sort of office space that had till now prevented the town
 from becoming a
-[startup hub](siliconvalley.html).
+[startup hub](/read/how-to-be-silicon-valley).
 At the other extreme are places like
 Idealab, which generates ideas for new startups internally and hires
 people to work for them.
@@ -366,7 +366,7 @@ idea. Angels and even VC firms occasionally do this, but they also
 invest at later stages.
 
 The problems are different in the early stages. For example, in
-the first couple months a startup may completely redefine their [idea](ideas.html). So seed investors usually care less
+the first couple months a startup may completely redefine their [idea](/read/ideas-for-startups). So seed investors usually care less
 about the idea than the people. This is true of all venture funding,
 but especially so in the seed stage.
 
@@ -436,7 +436,7 @@ make it fairly hard to fire them later.
 
 The most dramatic change, I predict,
 is that VCs will allow founders to
-cash out partially by [selling](vcsqueeze.html)
+cash out partially by [selling](/read/the-venture-capital-squeeze)
 some of their stock direct to the VC firm. VCs have traditionally
 resisted letting founders get anything before the ultimate "liquidity
 event." But they're also desperate for deals. And since I know
@@ -926,7 +926,7 @@ in every possible disaster.
 
 A frightening prospect? In a way. And yet also in a way encouraging.
 The very uncertainty of startups frightens away almost everyone.
-People overvalue stability—especially [young](hiring.html)
+People overvalue stability—especially [young](/read/hiring-is-obsolete)
 people, who ironically need it least. And so in starting a startup,
 as in any really bold undertaking, merely deciding to do it gets
 you halfway there. On the day of the race, most of the other runners

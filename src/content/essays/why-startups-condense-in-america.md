@@ -15,7 +15,7 @@ Valley and Boston, and few in Chicago or Miami. A country that
 wants startups will probably also have to reproduce whatever makes
 these clusters form.
 
-I've claimed that the [recipe](siliconvalley.html) is a
+I've claimed that the [recipe](/read/how-to-be-silicon-valley) is a
 great university near a town smart
 people like. If you set up those conditions within the US, startups
 will form as inevitably as water droplets condense on a cold piece
@@ -99,7 +99,7 @@ gum has a long way to go before it could create a San Francisco.
 Do you need a San Francisco? Might there not be an alternate route
 to innovation that goes through obedience and cooperation instead
 of individualism? Possibly, but I'd bet not. Most imaginative
-people seem to share a certain prickly [independence](gba.html),
+people seem to share a certain prickly [independence](/read/the-word-hacker),
 whenever and wherever they lived. You see it in Diogenes telling
 Alexander to get out of his light and two thousand years later in
 Feynman breaking into safes at Los Alamos.
@@ -255,7 +255,7 @@ the stories of existing startups, and then try to simulate what
 would have happened in your country. When you hit something that
 would have killed Apple, prune it off.
 
-*Startups are [marginal](marginal.html).*
+*Startups are [marginal](/read/the-power-of-the-marginal).*
 They're started by the poor and the
 timid; they begin in marginal space and spare time; they're started
 by people who are supposed to be doing something else; and though
@@ -527,7 +527,7 @@ things in their own right.
 
 And then of course there's the question, can you afford not to? I
 can imagine a future in which the default choice of ambitious young
-people is to start their [own](hiring.html) company
+people is to start their [own](/read/hiring-is-obsolete) company
 rather than work for someone else's. I'm not sure that will happen,
 but it's where the trend points now. And if that is the future,
 places that don't have startups will be a whole step behind,

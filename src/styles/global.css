@@ -112,3 +112,29 @@ body {
   border-top: 1px solid var(--theme-border);
   margin: 2em 0;
 }
+
+/* Auto-hiding scrollbars — visible only on hover/scroll */
+.autohide-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+  transition: scrollbar-color 0.3s;
+}
+.autohide-scrollbar:hover {
+  scrollbar-color: var(--theme-border) transparent;
+}
+
+/* Chromium / Edge */
+.autohide-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+.autohide-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+.autohide-scrollbar::-webkit-scrollbar-thumb {
+  background: transparent;
+  border-radius: 3px;
+}
+.autohide-scrollbar:hover::-webkit-scrollbar-thumb {
+  background: var(--theme-border);
+}
+

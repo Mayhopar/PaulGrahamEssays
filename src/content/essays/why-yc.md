@@ -36,7 +36,7 @@ thought that if all our investments tank, we will thus have been
 doing something unselfish. (It's oddly nondeterministic.)
 
 The real reason we started Y Combinator is one probably only a
-[hacker](gba.html) would understand. We did it because it seems such a great
+[hacker](/read/the-word-hacker) would understand. We did it because it seems such a great
 hack. There are thousands of smart people who could start companies
 and don't, and with a relatively small amount of force applied at
 just the right place, we can spring on the world a stream of new

@@ -8,7 +8,7 @@ wordCount: 1004
 readingTime: 5
 ---
 
-All the best [hackers](gba.html)
+All the best [hackers](/read/the-word-hacker)
 I know are gradually switching to Macs. My
 friend Robert said his whole research group at MIT recently bought
 themselves Powerbooks. These guys are not the graphic designers
@@ -21,7 +21,7 @@ and run FreeBSD. What more do you need to know?
 I got a Powerbook at the end of last year. When my IBM Thinkpad's
 hard disk died soon after, it became my only laptop. And when my
 friend Trevor showed up at my house recently, he was carrying a
-Powerbook [identical](tlbmac.html) to mine.
+Powerbook [identical](https://paulgraham.com/tlbmac.html) to mine.
 
 For most of us, it's not a switch to Apple, but a return. Hard as
 this was to believe in the mid 90s, the Mac was in its time the
@@ -36,7 +36,7 @@ The whole room gasped.
 And when the Mac appeared, it was even better than we'd hoped. It
 was small and powerful and cheap, as promised. But it was also
 something we'd never considered a computer could be: fabulously
-well [designed](taste.html).
+well [designed](/read/taste-for-makers).
 
 I had to have one. And I wasn't alone. In the mid to late 1980s,
 all the hackers I knew were either writing software for the Mac,
@@ -48,7 +48,7 @@ Then came Linux and FreeBSD, and hackers, who follow the most
 powerful OS wherever it leads, found themselves switching to Intel
 boxes. If you cared about design, you could buy a Thinkpad, which
 was at least not actively repellent, if you could get the Intel and
-Microsoft [stickers](designedforwindows.html)
+Microsoft [stickers](https://paulgraham.com/designedforwindows.html)
 off the front. [1]
 
 With OS X, the hackers are back. When I walked into the Apple store
@@ -88,7 +88,7 @@ Whatever they're doing, you'll be doing.
 
 In the matter of "platforms" this tendency is even more pronounced,
 because novel software originates with
-[great hackers](gh.html), and they tend
+[great hackers](/read/great-hackers), and they tend
 to write it first for whatever computer they personally use. And
 software sells hardware. Many if not most of the initial sales of
 the Apple II came from people who bought one to run VisiCalc. And

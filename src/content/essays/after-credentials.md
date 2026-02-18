@@ -200,7 +200,7 @@ longer.
 Now companies increasingly have to pay employees market price for
 the work they do. One reason is that employees no longer trust
 companies to deliver
-[deferred rewards](ladder.html): why work to accumulate
+[deferred rewards](/read/after-the-ladder): why work to accumulate
 deferred rewards at a company that might go bankrupt, or be taken
 over and have all its implicit obligations wiped out? The other
 is that some companies broke ranks and started to pay young employees
@@ -272,7 +272,7 @@ turn out to be a better way of preventing it than the credentials
 the left are forced to fall back on.
 
 The era of credentials began to end when the power of large
-organizations [peaked](highres.html)
+organizations [peaked](/read/the-high-res-society)
 in the late twentieth century. Now we seem
 to be entering a new era based on measurement. The reason the new
 model has advanced so rapidly is that it works so much better. It

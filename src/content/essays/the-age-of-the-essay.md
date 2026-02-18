@@ -342,7 +342,7 @@ that surprises you, who've thought about the topic a lot,
 will probably surprise most readers.
 
 For example, in a recent
-[essay](gh.html) I pointed out that because
+[essay](/read/great-hackers) I pointed out that because
 you can only judge computer programmers by working with
 them, no one knows who the best programmers are overall.
 I didn't realize this when I began
@@ -491,7 +491,7 @@ piece.
 
 Above all, make a habit of paying
 attention to things you're not supposed to, either because
-they're "[inappropriate](say.html),"
+they're "[inappropriate](/read/what-you-can-t-say),"
 or not important, or not what you're
 supposed to be working on. If you're curious about something,
 trust your instincts.

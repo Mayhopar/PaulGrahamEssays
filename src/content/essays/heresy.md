@@ -98,7 +98,7 @@ always there. They exist in every sufficiently large society. That's
 why waves of intolerance can arise so suddenly; all they need is
 something to set them off.
 
-I've already written an [essay](conformism.html)
+I've already written an [essay](/read/the-four-quadrants-of-conformism)
 describing the aggressively
 conventional-minded. The short version is that people can be
 classified in two dimensions according to (1) how independent- or

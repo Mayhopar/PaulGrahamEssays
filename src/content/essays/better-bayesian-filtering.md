@@ -10,7 +10,7 @@ readingTime: 19
 
 *(This article was given as a talk at the 2003 Spam Conference.
 It describes the work I've done to improve the performance of
-the algorithm described in [A Plan for Spam](spam.html),
+the algorithm described in [A Plan for Spam](/read/a-plan-for-spam),
 and what I plan to do in the future.)*
 
 The first discovery I'd like to present here is an algorithm for
@@ -329,7 +329,7 @@ crawler to look at the page. But that might not be necessary.
 The response rate for spam-of-the-future must
 be low, or everyone would be doing it.
 If it's low enough,
-it [won't pay](wfks.html) for spammers to send it, and we won't
+it [won't pay](https://paulgraham.com/wfks.html) for spammers to send it, and we won't
 have to work too hard on filtering it.
 
 Now for the really shocking news: during that same one-month

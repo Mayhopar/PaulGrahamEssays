@@ -526,7 +526,7 @@ Y Combinator. It's common for founders to have discovered something
 intuitively without understanding all its implications. That's
 probably true of the biggest discoveries in any field.
 [4]
-I got it wrong in ["How to Make Wealth"](wealth.html) when I said that a
+I got it wrong in ["How to Make Wealth"](/read/how-to-make-wealth) when I said that a
 startup was a small company that takes on a hard technical
 problem. That is the most common recipe but not the only one.
 [5]

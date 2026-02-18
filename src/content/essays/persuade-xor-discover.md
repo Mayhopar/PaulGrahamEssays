@@ -40,7 +40,7 @@ added by politicians is woven through it. We're starting to
 move from social lies to real lies.
 
 Here's an example of a paragraph from an essay I wrote about
-[labor unions](unions.html). As written,
+[labor unions](/read/an-alternative-theory-of-unions). As written,
 it tends to offend people who like unions.
 > People who think the labor movement was the creation of heroic
 > union organizers have a problem to explain: why are unions shrinking
@@ -110,7 +110,7 @@ place they come from different sources.
 
 Would it be so bad to add a few extra words, to make people feel
 better? Maybe not. Maybe I'm excessively attached to conciseness.
-I write [code](power.html) the same way I write essays,
+I write [code](/read/succinctness-is-power) the same way I write essays,
 making pass after pass
 looking for anything I can cut. But I have a legitimate reason for
 doing this. You don't know what the ideas are until you get them
@@ -123,7 +123,7 @@ yourself. The ideas start to get mixed together with the spin
 you've added to get them past the readers' misconceptions.
 
 I think the goal of an essay should be to discover
-[surprising](essay.html) things. That's my goal, at least.
+[surprising](/read/the-age-of-the-essay) things. That's my goal, at least.
 And most surprising means most different from what people currently
 believe. So writing to persuade and writing to discover are
 diametrically opposed. The more your conclusions disagree with

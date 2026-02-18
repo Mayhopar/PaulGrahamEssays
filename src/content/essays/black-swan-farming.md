@@ -236,7 +236,7 @@ what they're selling and how good they are at selling it. And while
 we can teach startups a lot about how to appeal to investors, even
 the most convincing pitch can't sell an idea that investors don't
 like. I was genuinely worried that Airbnb, for example, would not
-be able to raise money after Demo Day. I couldn't convince [Fred Wilson](airbnb.html) to fund them. They might not
+be able to raise money after Demo Day. I couldn't convince [Fred Wilson](/read/subject-airbnb) to fund them. They might not
 have raised money at all but for the coincidence that Greg McAdoo,
 our contact at Sequoia, was one of a handful of VCs who understood
 the vacation rental business, having spent much of the previous two

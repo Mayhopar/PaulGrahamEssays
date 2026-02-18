@@ -297,7 +297,7 @@ people have said about good taste have generally been such nonsense.
 
 It's not for the people who talk about art that I want to free the
 idea of good art, but for those who
-[make](taste.html) it. Right now, ambitious
+[make](/read/taste-for-makers) it. Right now, ambitious
 kids going to art school run smack into a brick wall. They arrive
 hoping one day to be as good as the famous artists they've seen in
 books, and the first thing they learn is that the concept of good

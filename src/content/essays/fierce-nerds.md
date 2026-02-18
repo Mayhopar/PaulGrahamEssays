@@ -36,13 +36,13 @@ to be fierce.
 [[1](#f1n)]
 
 There's also a natural connection between nerdiness and
-[independent-mindedness](think.html). It's hard to be
+[independent-mindedness](/read/how-to-think-for-yourself). It's hard to be
 independent-minded without
 being somewhat socially awkward, because conventional beliefs are
 so often mistaken, or at least arbitrary. No one who was both
 independent-minded and ambitious would want to waste the effort it
 takes to fit in. And the independent-mindedness of the fierce nerds
-will obviously be of the [aggressive](conformism.html)
+will obviously be of the [aggressive](/read/the-four-quadrants-of-conformism)
 rather than the passive type:
 they'll be annoyed by rules, rather than dreamily unaware of them.
 
@@ -86,7 +86,7 @@ your fierceness will be a great help in solving difficult problems.
 And not just the kind of scientific and technical problems that
 nerds have traditionally solved. As the world progresses, the number
 of things you can win at by getting the right answer increases.
-Recently [getting rich](richnow.html) became
+Recently [getting rich](/read/how-people-get-rich-now) became
 one of them: 7 of the 8 richest people
 in America are now fierce nerds.
 
@@ -101,8 +101,8 @@ big successes.
 The bad news is that if it's not exercised, your fierceness will
 turn to bitterness, and you will become an intellectual playground
 bully: the grumpy sysadmin, the forum troll, the
-[hater](fh.html), the shooter
-down of [new ideas](newideas.html).
+[hater](/read/haters), the shooter
+down of [new ideas](/read/crazy-new-ideas).
 
 How do you avoid this fate? Work on ambitious projects. If you
 succeed, it will bring you a kind of satisfaction that neutralizes

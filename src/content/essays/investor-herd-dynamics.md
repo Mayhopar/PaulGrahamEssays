@@ -52,7 +52,7 @@ because some will angrily refuse.
 
 The second reason investors like you more when you've had some
 success at fundraising is that it makes you more confident, and an
-investors' opinion of [you](convince.html) is the foundation
+investors' opinion of [you](/read/how-to-convince-investors) is the foundation
 of their opinion of your company. Founders are often surprised how
 quickly investors seem to know when they start to succeed at raising
 money. And while there are in fact lots of ways for such information

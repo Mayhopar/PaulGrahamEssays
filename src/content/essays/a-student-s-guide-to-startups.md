@@ -29,7 +29,7 @@ The most ambitious students will at this point be asking: Why wait
 till you graduate? Why not start a startup while you're in college?
 In fact, why go to college at all? Why not start a startup instead?
 
-A year and a half ago I gave a [talk](hiring.html)
+A year and a half ago I gave a [talk](/read/hiring-is-obsolete)
 where I said that the average age of the founders of
 Yahoo, Google, and Microsoft was 24, and that if grad students could
 start startups, why not undergrads? I'm glad I phrased that as a
@@ -236,7 +236,7 @@ at a time, and we can't be in a dozen places at once. But even if
 we could somehow magically save people from moving, we wouldn't.
 We wouldn't be doing founders a favor by letting them stay in
 Nebraska. Places that aren't
-[startup hubs](siliconvalley.html) are toxic to startups.
+[startup hubs](/read/how-to-be-silicon-valley) are toxic to startups.
 You can tell that from indirect evidence. You can tell how hard
 it must be to start a startup in Houston or Chicago or Miami from
 the microscopically small number, per capita, that succeed

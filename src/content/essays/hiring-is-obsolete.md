@@ -38,7 +38,7 @@ those who have everything investors want except experience.
 
 **Market Rate**
 
-I once claimed that [nerds](nerds.html) were unpopular
+I once claimed that [nerds](/read/why-nerds-are-unpopular) were unpopular
 in secondary school mainly because they had better things to do
 than work full-time at being popular. Some said I was just telling
 people what they wanted to hear. Well, I'm now about to do that
@@ -133,7 +133,7 @@ is the raison d'etre of startups.
 
 To start with, most big companies have some kind of turf to protect,
 and this tends to warp their development decisions. For example,
-[Web-based](road.html) applications are hot now, but
+[Web-based](/read/the-other-road-ahead) applications are hot now, but
 within Microsoft there must
 be a lot of ambivalence about them, because the very idea of Web-based
 software threatens the desktop. So any Web-based application that
@@ -449,13 +449,13 @@ and can you make that change happen faster?
 
 I now have some data on this, and I can tell you what tends to be
 missing when people lack experience. I've said that every
-[startup](start.html) needs three things: to start with good people,
+[startup](/read/how-to-start-a-startup) needs three things: to start with good people,
 to make something users want, and not to spend too much money. It's
 the middle one you get wrong when you're inexperienced. There are
 plenty of undergrads with enough technical skill to write good
 software, and undergrads are not especially prone to waste money.
 If they get something wrong, it's usually not realizing they have
-to make something people [want](bronze.html).
+to make something people [want](/read/why-smart-people-have-bad-ideas).
 
 This is not exclusively a failing of the young. It's common for
 startup founders of all ages to build things no one wants.

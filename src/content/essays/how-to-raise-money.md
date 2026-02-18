@@ -82,7 +82,7 @@ then when some act the rest have to.
 
 Such a high proportion of successful startups raise money that it
 might seem fundraising is one of the defining qualities of a startup.
-Actually it isn't. [Rapid growth](growth.html) is what
+Actually it isn't. [Rapid growth](/read/startup-growth) is what
 makes a company a startup. Most companies in a position to grow
 rapidly find that (a) taking outside money helps them grow faster,
 and (b) their growth potential makes it easy to attract such money.
@@ -93,7 +93,7 @@ outside money wouldn't help them to, and if you're one of them,
 don't raise money.
 
 The other time not to raise money is when you won't be able to. If
-you try to raise money before you can [convince](convince.html)
+you try to raise money before you can [convince](/read/how-to-convince-investors)
 investors, you'll not only waste your time, but also burn your
 reputation with those investors.
 
@@ -103,9 +103,9 @@ One of the things that surprises founders most about fundraising
 is how distracting it is. When you start fundraising, everything
 else grinds to a halt. The problem is not the time fundraising
 consumes but that it becomes the [top idea in
-your mind](top.html). A startup can't endure that level of distraction
+your mind](/read/the-top-idea-in-your-mind). A startup can't endure that level of distraction
 for long. An early stage startup grows mostly because the founders
-[make](ds.html) it grow, and if the founders look away,
+[make](/read/do-things-that-don-t-scale) it grow, and if the founders look away,
 growth usually drops sharply.
 
 Because fundraising is so distracting, a startup should either be
@@ -290,7 +290,7 @@ at this and ask how their process works and where you are in it.
 **Get the first commitment.**
 
 The biggest factor in most investors' opinions of you is the opinion
-of [other investors](herd.html). Once you start getting
+of [other investors](/read/investor-herd-dynamics). Once you start getting
 investors to commit, it becomes increasingly easy to get more to.
 But the other side of this coin is that it's often hard to get the
 first commitment.
@@ -414,7 +414,7 @@ a $7 million series A round, and we'll be accepting termsheets next
 tuesday." I've known a handful of founders who could pull that off
 without having VCs laugh in their faces. But if you're in the
 inexperienced but earnest majority, the solution is analogous to
-the solution I recommend for [pitching](convince.html)
+the solution I recommend for [pitching](/read/how-to-convince-investors)
 your startup: do the right thing and then just tell investors what
 you're doing.
 
@@ -492,7 +492,7 @@ is one of the strongest. No one wants you if you seem desperate.
 And the best way not to seem desperate is not to *be* desperate.
 That's one reason we urge startups during YC to keep expenses low
 and to try to make it to [ramen
-profitability](ramenprofitable.html) before Demo Day. Though it sounds slightly
+profitability](/read/ramen-profitable) before Demo Day. Though it sounds slightly
 paradoxical, if you want to raise money, the best thing you can do
 is get yourself to the point where you don't need to.
 
@@ -839,7 +839,7 @@ straw if you're just getting air. It's not going to get better.
 
 Fundraising is a chore for most founders, but some find it more
 interesting than working on their startup. The work at an early
-stage startup often consists of unglamorous [schleps](schlep.html). Whereas fundraising, when it's
+stage startup often consists of unglamorous [schleps](/read/schlep-blindness). Whereas fundraising, when it's
 going well, can be quite the opposite. Instead of sitting in your
 grubby apartment listening to users complain about bugs in your
 software, you're being offered millions of dollars by famous investors

@@ -238,7 +238,7 @@ most of the writing in the mainstream media was. I'm not saying
 I used to believe what I read in *Time* and *Newsweek*. Since high
 school, at least, I've thought of magazines like that more as
 guides to what ordinary people were being
-[told](say.html) to think than as
+[told](/read/what-you-can-t-say) to think than as
 sources of information. But I didn't realize till the last
 few years that writing for publication didn't have to mean writing
 that way. I didn't realize you could write as candidly and

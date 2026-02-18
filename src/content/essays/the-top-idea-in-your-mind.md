@@ -62,7 +62,7 @@ preceding 10 years I'd been able to think about what I wanted. So
 the contrast when I couldn't was sharp. But I don't think this
 problem is unique to me, because just about every startup I've seen
 grinds to a halt when they start raising money  or [talking
-to acquirers](corpdev.html).
+to acquirers](/read/don-t-talk-to-corp-dev).
 
 You can't directly control where your thoughts drift. If you're
 controlling them, they're not drifting. But you can control them

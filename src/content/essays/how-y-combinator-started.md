@@ -29,7 +29,7 @@ At the time I had been thinking about doing some angel investing. I
 had just given a talk to the undergraduate computer club at Harvard
 about
 [how to start a
-startup](start.html), and it
+startup](/read/how-to-start-a-startup), and it
 hit me afterward that although I had always
 meant to do angel investing, 7 years had now passed since I got
 enough money to do it, and I still hadn't started. I had also
@@ -68,7 +68,7 @@ funding.
 
 We modelled YC on the seed funding we ourselves had taken
 when we started Viaweb. We started Viaweb with $10k we got from
-our friend [Julian Weber](julian.html),
+our friend [Julian Weber](https://paulgraham.com/julian.html),
 the husband of Idelle Weber, whose
 painting class I took as a grad student at Harvard. Julian knew
 about business, but you would not describe him as a suit. Among
@@ -101,7 +101,7 @@ them to do it.
 We knew students would already be making plans for the summer, so
 we did what we're always telling startups to do: we launched fast.
 Here are the
-initial [announcement](summerfounder.html)
+initial [announcement](https://paulgraham.com/summerfounder.html)
 and [description](https://web.archive.org/web/20170609055553/http://ycombinator.com/old/sfp.html) of what
 was at the time called the Summer Founders Program.
 

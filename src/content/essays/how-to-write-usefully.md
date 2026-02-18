@@ -112,7 +112,7 @@ here all night till you eat your vegetables." Except you're the
 child too.
 
 I'm not saying no mistake gets through. For example, I added condition
-(c) in ["A Way to Detect Bias"](bias.html)
+(c) in ["A Way to Detect Bias"](/read/a-way-to-detect-bias)
 after readers pointed out that I'd
 omitted it. But in practice you can catch nearly all of them.
 
@@ -203,7 +203,7 @@ reason people don't know something is because they don't want to
 know it. Usually because it contradicts some cherished belief. And
 indeed, if you're looking for novel ideas, popular but mistaken
 beliefs are a good place to find them. Every popular mistaken belief
-creates a [dead zone](nov.html) of ideas around
+creates a [dead zone](/read/novelty-and-heresy) of ideas around
 it that are relatively unexplored because they contradict it.
 
 The strength component just makes things worse. If there's anything
@@ -307,7 +307,7 @@ How many essays are there left to write though? The answer to that
 question is probably the most exciting thing I've learned about
 essay writing. Nearly all of them are left to write.
 
-Although [the essay](essay.html)
+Although [the essay](/read/the-age-of-the-essay)
 is an old form, it hasn't been assiduously
 cultivated. In the print era, publication was expensive, and there
 wasn't enough demand for essays to publish that many. You could

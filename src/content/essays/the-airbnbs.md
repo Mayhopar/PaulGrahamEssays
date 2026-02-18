@@ -81,7 +81,7 @@ airbnb," they would also realize that this was the future. But only
 if they tried it, and they weren't. That was the problem during Y
 Combinator: to get growth started.
 
-Airbnb's goal during YC was to reach what we call [ramen profitability](http://paulgraham.com/ramenprofitable.html),
+Airbnb's goal during YC was to reach what we call [ramen profitability](/read/ramen-profitable),
 which means making enough money that the company can pay the founders'
 living expenses, if they live on ramen noodles. Ramen profitability
 is not, obviously, the end goal of any startup, but it's the most
@@ -95,7 +95,7 @@ The way to get growth started in something like Airbnb is to focus
 on the hottest subset of the market. If you can get growth started
 there, it will spread to the rest. When I asked the Airbnbs where
 there was most demand, they knew from searches: New York City. So
-they focused on New York. They went there [in person](http://paulgraham.com/ds.html) to visit their
+they focused on New York. They went there [in person](/read/do-things-that-don-t-scale) to visit their
 hosts and help them make their listings more attractive. A big part
 of that was better pictures. So Joe and Brian rented a professional
 camera and took pictures of the hosts' places themselves.

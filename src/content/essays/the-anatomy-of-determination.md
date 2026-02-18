@@ -160,14 +160,14 @@ as complicated as determination.
 
 Note too that determination and talent are not the whole story.
 There's a third factor in achievement: how much you like the work.
-If you really [love](love.html) working on something,
+If you really [love](/read/how-to-do-what-you-love) working on something,
 you don't need determination to drive you; it's what you'd do anyway.
 But most types of work have aspects one doesn't like, because most
 types of work consist of doing things for other people, and it's
 very unlikely that the tasks imposed by their needs will happen to
 align exactly with what you want to do.
 
-Indeed, if you want to create the most [wealth](wealth.html),
+Indeed, if you want to create the most [wealth](/read/how-to-make-wealth),
 the way to do it is to focus more on their needs than your interests,
 and make up the difference with determination.
 

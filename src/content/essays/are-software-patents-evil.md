@@ -285,7 +285,7 @@ individual brilliance. If you assemble a team of qualified experts
 and tell them to make a new web-based email program, they'll get
 their asses kicked by a team of inspired nineteen year olds.
 
-Experts can implement, but they can't [design](taste.html).
+Experts can implement, but they can't [design](/read/taste-for-makers).
 Or rather, expertise in implementation is the only kind most people,
 including the experts themselves, can measure.
 [[5](#f5n)]
@@ -375,7 +375,7 @@ with, you must be perilously close to tautologies.
 
 The CEO of Forgent, one of the most notorious patent trolls, says
 that what his company does is "the American way." Actually that's
-not true. The American way is to make money by [creating wealth](wealth.html), not by suing people.
+not true. The American way is to make money by [creating wealth](/read/how-to-make-wealth), not by suing people.
 [[7](#f7n)]
 What companies like Forgent do is actually the proto-industrial
 way. In the period just before the industrial revolution, some of

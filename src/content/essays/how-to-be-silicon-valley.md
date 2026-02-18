@@ -439,6 +439,6 @@ and Stephen Wolfram for
 reading drafts of this, and to Ed Dumbill for inviting me to speak.
 
 (The second part of this talk became [Why Startups
-Condense in America](america.html).)
+Condense in America](/read/why-startups-condense-in-america).)
 
 </div>

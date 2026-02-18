@@ -60,7 +60,7 @@ numbers seem so small at first. This can't be how the big, famous
 startups got started, they think. The mistake they make is to
 underestimate the power of compound growth. We encourage every
 startup to measure their progress by weekly [growth
-rate](growth.html). If you have 100 users, you need to get 10 more next week
+rate](/read/startup-growth). If you have 100 users, you need to get 10 more next week
 to grow 10% a week. And while 110 may not seem much better than
 100, if you keep growing at 10% a week you'll be surprised how big
 the numbers get. After a year you'll have 14,000 users, and after
@@ -121,7 +121,7 @@ But in retrospect that too was the optimal path to dominating a big
 market.
 
 How do you find users to recruit manually? If you build something
-to solve [your own problems](startupideas.html), then
+to solve [your own problems](/read/how-to-get-startup-ideas), then
 you only have to find your peers, which is usually straightforward.
 Otherwise you'll have to make a more deliberate effort to locate
 the most promising vein of users. The usual way to do that is to
@@ -278,7 +278,7 @@ hundreds of other startups ready at hand.
 
 **Meraki**
 
-For [hardware startups](hw.html) there's a variant of
+For [hardware startups](/read/the-hardware-renaissance) there's a variant of
 doing things that don't scale that we call "pulling a Meraki."
 Although we didn't fund Meraki, the founders were Robert Morris's
 grad students, so we know their history. They got started by doing

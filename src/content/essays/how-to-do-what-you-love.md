@@ -388,7 +388,7 @@ The two-job route has several variants depending on how long you
 work for money at a time. At one extreme is the "day job," where
 you work regular hours at one job to make money, and work on what
 you love in your spare time. At the other extreme you work at
-something till you make [enough](wealth.html) not to
+something till you make [enough](/read/how-to-make-wealth) not to
 have to work for money again.
 
 The two-job route is less common than the organic route, because

@@ -10,7 +10,7 @@ readingTime: 5
 
 1993
 
-*(This essay is from the introduction to* [On Lisp](onlisp.html)*.)*
+*(This essay is from the introduction to* [On Lisp](https://paulgraham.com/onlisp.html)*.)*
 
 It's a long-standing principle of programming style that the functional
 elements of a program should not be too large. If some component of a
@@ -112,9 +112,9 @@ productivity of individual programmers goes up.
 A small group wins, relatively speaking, simply because it's
 smaller. When a small group also takes advantage of the
 techniques that Lisp makes possible, it can
-[win outright](avg.html).
+[win outright](/read/beating-the-averages).
 
-**New:** [Download On Lisp for Free](onlisptext.html).
+**New:** [Download On Lisp for Free](https://paulgraham.com/onlisptext.html).
 
 ---
 

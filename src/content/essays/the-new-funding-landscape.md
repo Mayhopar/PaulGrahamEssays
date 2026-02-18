@@ -224,7 +224,7 @@ of blowing up in your face and leaving you with nothing, as happens
 if you get rejected by a VC fund after a full partner meeting.
 Whereas if investors seem hot, you can not only close the round
 faster, but now that convertible notes are becoming the norm,
-actually [raise the price](hiresfund.html) to reflect demand.
+actually [raise the price](/read/high-resolution-fundraising) to reflect demand.
 
 **Valuation**
 

@@ -76,7 +76,7 @@ always do.
 
 One thing we can say for sure is that there will be a lot more
 startups. The monolithic, hierarchical companies of the mid 20th
-century are being [replaced](highres.html) by networks
+century are being [replaced](/read/the-high-res-society) by networks
 of smaller companies. This process is not just something happening
 now in Silicon Valley. It started decades ago, and it's happening
 as far afield as the car industry. It has a long way to run.
@@ -91,7 +91,7 @@ The fact that startups need less money means founders will increasingly
 have the upper hand over investors. You still need just as much
 of their energy and imagination, but they don't need as much of
 your money. Because founders have the upper hand, they'll retain
-an increasingly large share of the stock in, and [control of](control.html), their
+an increasingly large share of the stock in, and [control of](/read/founder-control), their
 companies. Which means investors will get less stock and less
 control.
 
@@ -312,7 +312,7 @@ Though you never know with bottlenecks, I'm guessing the next
 one will be coordinating efforts among partners.
 [4]
 I realize starting a company doesn't have to mean starting a
-[startup](growth.html). There will be lots of people starting normal companies
+[startup](/read/startup-growth). There will be lots of people starting normal companies
 too. But that's not relevant to an audience of investors.
 
 Geoff Ralston reports that in Silicon Valley it seemed thinkable
@@ -326,7 +326,7 @@ division of Megacorp is now the founder of the x company, and owns
 significant equity in it.
 [6]
 If Congress passes the [founder
-visa](foundervisa.html) in a non-broken form, that alone could in principle get
+visa](/read/the-founder-visa) in a non-broken form, that alone could in principle get
 us up to 20x, since 95% of the world's population lives outside the
 US.
 [7]

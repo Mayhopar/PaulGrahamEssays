@@ -88,28 +88,28 @@ I'm not going to try to provide a complete catalogue of the other
 ingredients here. This is the first time I've posed
 the question to myself this way, and I think it may take a while
 to answer. But I wrote recently about one of the most important:
-an obsessive [interest](genius.html) in a particular topic.
+an obsessive [interest](/read/the-bus-ticket-theory-of-genius) in a particular topic.
 And this can definitely be cultivated.
 
 Another quality you need in order to discover new ideas is
-[independent-mindedness](think.html). I wouldn't want to
+[independent-mindedness](/read/how-to-think-for-yourself). I wouldn't want to
 claim that this is
 distinct from intelligence — I'd be reluctant to call someone smart
 who wasn't independent-minded — but though largely inborn, this
 quality seems to be something that can be cultivated to some extent.
 
 There are general techniques for having new ideas — for example,
-for working on your own [projects](own.html)
+for working on your own [projects](/read/a-project-of-one-s-own)
 and
-for overcoming the obstacles you face with [early](early.html) work
+for overcoming the obstacles you face with [early](/read/early-work) work
 — and these
 can all be learned. Some of them can be learned by societies. And
 there are also collections of techniques for generating specific types
-of new ideas, like [startup ideas](startupideas.html) and
-[essay topics](essay.html).
+of new ideas, like [startup ideas](/read/how-to-get-startup-ideas) and
+[essay topics](/read/the-age-of-the-essay).
 
 And of course there are a lot of fairly mundane ingredients in
-discovering new ideas, like [working hard](hwh.html),
+discovering new ideas, like [working hard](/read/how-to-work-hard),
 getting enough sleep, avoiding certain
 kinds of stress, having the right colleagues, and finding tricks
 for working on what you want even when it's not what you're supposed

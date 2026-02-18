@@ -27,7 +27,7 @@ a boss telling you what to do.
 It's more exciting to work on your own project than someone else's.
 And you can also get a lot richer. In fact, this is the standard
 way to get
-[really rich](richnow.html). If you look at the lists of the richest
+[really rich](/read/how-people-get-rich-now). If you look at the lists of the richest
 people that occasionally get published in the press, nearly all of
 them did it by starting their own companies.
 
@@ -138,7 +138,7 @@ after practicing it for 7 years.
 
 Let's suppose you're 22 and you've succeeded: You're now really
 good at some technology. How do you get
-[startup ideas](startupideas.html)? It might
+[startup ideas](/read/how-to-get-startup-ideas)? It might
 seem like that's the hard part. Even if you are a good programmer,
 how do you get the idea to start Google?
 

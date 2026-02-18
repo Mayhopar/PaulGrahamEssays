@@ -31,7 +31,7 @@ happen if he weren't CEO.
 Steve is clever and driven, but so are a lot of people in the Valley.
 What makes him unique is his
 [sense of
-design](taste.html). Before him, most
+design](/read/taste-for-makers). Before him, most
 companies treated design as a frivolous extra. Apple's competitors
 now know better.
 
@@ -80,7 +80,7 @@ PB made a point in a talk once that I now mention to every startup
 we fund: that it's better, initially, to make a small number of
 users really love you than a large number kind of like you. If I
 could tell startups only
-[ten sentences](13sentences.html),
+[ten sentences](/read/startups-in-13-sentences),
 this would be one of them.
 
 Now he's cofounder of a startup called Friendfeed. It's only a

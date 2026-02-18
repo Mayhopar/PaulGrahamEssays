@@ -10,7 +10,7 @@ readingTime: 9
 
 A lot of cities look at Silicon Valley and ask "How could we make
 something like that happen here?" The
-[organic](siliconvalley.html) way to do it is to
+[organic](/read/how-to-be-silicon-valley) way to do it is to
 establish a first-rate university in a place where rich people want
 to live. That's how Silicon Valley happened. But could you shortcut
 the process by funding startups?
@@ -152,7 +152,7 @@ made into an "incubator." Real startups prefer to work in their
 own spaces.
 
 In fact, don't impose any restrictions on the startups at all.
-Startup founders are mostly [hackers](gba.html),
+Startup founders are mostly [hackers](/read/the-word-hacker),
 and hackers are much more
 constrained by gentlemen's agreements than regulations. If they
 shake your hand on a promise, they'll keep it. But show them a
@@ -194,7 +194,7 @@ a really big round, like $20 million.
 \_\_\_
 
 How well this scheme worked would depend on the
-[city](cities.html). There are
+[city](/read/cities-and-ambition). There are
 some towns, like Portland, that would be easy to turn into startup
 hubs, and others, like Detroit, where it would really be an uphill
 battle. So be honest with yourself about the sort of town you have

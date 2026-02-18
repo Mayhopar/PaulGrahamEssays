@@ -572,7 +572,7 @@ him. But Rtm was right, as usual. Trevor turned out to be a
 frighteningly effective hacker.
 
 It was a lot of fun working with Robert and Trevor. They're the two
-most [independent-minded](think.html) people
+most [independent-minded](/read/how-to-think-for-yourself) people
 I know, and in completely different
 ways. If you could see inside Rtm's brain it would look like a
 colonial New England church, and if you could see inside Trevor's
@@ -610,7 +610,7 @@ $300 a month seemed like a lot of money to us.
 
 We did a lot of things right by accident like that. For example,
 we did what's now called "doing things that
-[don't scale](ds.html)," although
+[don't scale](/read/do-things-that-don-t-scale)," although
 at the time we would have described it as "being so lame that we're
 driven to the most desperate measures to get users." The most common
 of which was building stores for them. This seemed particularly
@@ -632,13 +632,13 @@ felt to use our software. I was initially both mystified and repelled
 by "business" and thought we needed a "business person" to be in
 charge of it, but once we started to get users, I was converted,
 in much the same way I was converted to
-[fatherhood](kids.html) once I had kids.
+[fatherhood](/read/having-kids) once I had kids.
 Whatever users wanted, I was all theirs. Maybe one day we'd have
 so many users that I couldn't scan their images for them, but in
 the meantime there was nothing more important to do.
 
 Another thing I didn't get at the time is that
-[growth rate](growth.html) is the
+[growth rate](/read/startup-growth) is the
 ultimate test of a startup. Our growth rate was fine. We had about
 70 stores at the end of 1996 and about 500 at the end of 1997. I
 mistakenly thought the thing that mattered was the absolute number
@@ -677,7 +677,7 @@ the time, but I was worn out from the effort and stress of running
 Viaweb. For a while after I got to California I tried to continue
 my usual m.o. of programming till 3 in the morning, but fatigue
 combined with Yahoo's prematurely aged
-[culture](yahoo.html) and grim cube farm
+[culture](/read/what-happened-to-yahoo) and grim cube farm
 in Santa Clara gradually dragged me down. After a few months it
 felt disconcertingly like working at Interleaf.
 
@@ -824,7 +824,7 @@ the infrastructure of the web for most of that time, and a writer
 as well, and it had taken me 8 years to realize it. Even then it
 took me several years to understand the implications. It meant there
 would be a whole new generation of
-[essays](essay.html).
+[essays](/read/the-age-of-the-essay).
 [[11](#f11n)]
 
 In the print era, the channel for publishing essays had been
@@ -842,7 +842,7 @@ when I started publishing essays online. From then on I knew that
 whatever else I did, I'd always write essays too.
 
 I knew that online essays would be a
-[marginal](marginal.html) medium at first.
+[marginal](/read/the-power-of-the-marginal) medium at first.
 Socially they'd seem more like rants posted by nutjobs on their
 GeoCities sites than the genteel and beautifully typeset compositions
 published in *The New Yorker*. But by this point I knew enough to
@@ -985,7 +985,7 @@ dinner we'd bring in experts on startups to give talks.
 We knew undergrads were deciding then about summer jobs, so in a
 matter of days we cooked up something we called the Summer Founders
 Program, and I posted an
-[announcement](summerfounder.html)
+[announcement](https://paulgraham.com/summerfounder.html)
 on my site, inviting undergrads
 to apply. I had never imagined that writing essays would be a way
 to get "deal flow," as investors call it, but it turned out to be
@@ -1168,7 +1168,7 @@ some opportunity cost to screwing around.
 
 I started writing essays again, and wrote a bunch of new ones over
 the next few months. I even wrote a couple that
-[weren't](know.html) about
+[weren't](/read/how-you-know) about
 startups. Then in March 2015 I started working on Lisp again.
 
 The distinctive thing about Lisp is that its core is a language
@@ -1212,7 +1212,7 @@ from March 26, 2015 to October 12, 2019. It was fortunate that I
 had a precisely defined goal, or it would have been hard to keep
 at it for so long.
 
-I wrote this new Lisp, called [Bel](bel.html),
+I wrote this new Lisp, called [Bel](https://paulgraham.com/bel.html),
 in itself in Arc. That may sound
 like a contradiction, but it's an indication of the sort of trickery
 I had to engage in to make this work. By means of an egregious
@@ -1331,7 +1331,7 @@ People who see the responses to essays I write sometimes tell me
 how sorry they feel for me, but I'm not exaggerating when I reply
 that it has always been like this, since the very beginning. It
 comes with the territory. An essay must tell readers things they
-[don't already know](useful.html), and some
+[don't already know](/read/how-to-write-usefully), and some
 people dislike being told such things.
 [11]
 People put plenty of stuff on the internet in the 90s of

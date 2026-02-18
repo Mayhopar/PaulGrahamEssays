@@ -280,7 +280,7 @@ is the true inefficiency, not wasting machine time. This will
 become ever more clear as computers get faster.
 
 I think getting rid of strings is already something we
-could bear to think about. We did it in [Arc](arc.html), and it seems
+could bear to think about. We did it in [Arc](https://paulgraham.com/arc.html), and it seems
 to be a win; some operations that would be awkward to
 describe as regular expressions can be described
 easily as recursive functions.
@@ -300,7 +300,7 @@ way. It's just unbearably inefficient.
 
 No one actually proposed implementing numbers as lists in
 practice. In fact, McCarthy's 1960 paper was not, at the time,
-intended to be implemented at all. It was a [theoretical exercise](rootsoflisp.html),
+intended to be implemented at all. It was a [theoretical exercise](/read/the-roots-of-lisp),
 an attempt to create a more elegant alternative to the Turing
 Machine. When someone did, unexpectedly, take this paper and
 translate it into a working Lisp interpreter, numbers certainly
@@ -464,7 +464,7 @@ years.
 
 It's not true that those who can't do, teach (some of the best
 hackers I know are professors), but it is true that there are a
-lot of things that those who teach can't do. [Research](desres.html) imposes
+lot of things that those who teach can't do. [Research](/read/design-and-research) imposes
 constraining caste restrictions. In any academic
 field there are topics that are ok to work on and others that
 aren't. Unfortunately the distinction between acceptable and
@@ -509,13 +509,13 @@ currently used to. Such influence can be so pervasive that
 it takes a great effort to overcome it. You'd think it would
 be obvious to creatures as lazy as us how to express a program
 with the least effort. In fact, our ideas about what's possible
-tend to be so [limited](avg.html) by whatever language we think in that
+tend to be so [limited](/read/beating-the-averages) by whatever language we think in that
 easier formulations of programs seem very surprising. They're
 something you have to discover, not something you naturally
 sink into.
 
 One helpful trick here
-is to use the [length](power.html) of the program as an approximation for
+is to use the [length](/read/succinctness-is-power) of the program as an approximation for
 how much work it is to write. Not the length in characters,
 of course, but the length in distinct syntactic elements-- basically,
 the size of the parse tree. It may not be quite true that

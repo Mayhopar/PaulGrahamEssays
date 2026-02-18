@@ -42,7 +42,7 @@ In Silicon Valley, people have learned how dangerous that is.
 
 The right way to deal with new ideas is to treat them as a challenge
 to your imagination  not just to have lower standards, but to
-[switch polarity](altair.html) entirely, from listing
+[switch polarity](/read/what-microsoft-is-this-the-altair-basic-of) entirely, from listing
 the reasons an idea won't
 work to trying to think of ways it could. That's what I do when I
 meet people with new ideas. I've become quite good at it, but I've
@@ -64,7 +64,7 @@ on early versions of ambitious projects. They also do it to seem
 clever. And in a field where the new ideas are risky, like startups,
 those who dismiss them are in fact more likely to be right. Just
 not when their predictions are
-[weighted by outcome](swan.html).
+[weighted by outcome](/read/black-swan-farming).
 
 But there is another more sinister reason people dismiss new ideas.
 If you try something ambitious, many of those around you will hope,
@@ -206,7 +206,7 @@ One motivation that works particularly well for me is curiosity.
 I like to try new things just to see how they'll turn out. We started
 Y Combinator in this spirit, and it was one of main things that
 kept me going while I was working on
-[Bel](bel.html). Having worked for so long
+[Bel](https://paulgraham.com/bel.html). Having worked for so long
 with various dialects of Lisp, I was very curious to see what its
 inherent shape was: what you'd end up with if you followed the
 axiomatic approach all the way.
@@ -245,7 +245,7 @@ see signs of how big the payoff will be.
 [1]
 This assumption may be too conservative. There is some evidence
 that historically the Bay Area has attracted a
-[different sort of person](cities.html) than,
+[different sort of person](/read/cities-and-ambition) than,
 say, New York City.
 [2]
 One of their great favorites is Theranos. But the most conspicuous

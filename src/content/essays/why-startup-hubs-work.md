@@ -24,7 +24,7 @@ killing all the potential startups.
 
 A couple weeks ago I finally figured it out. I was framing the
 question wrong. The problem is not that most towns kill startups.
-It's that death is the [default](die.html) for startups,
+It's that death is the [default](/read/how-not-to-die) for startups,
 and most towns don't save them. Instead of thinking of most places
 as being sprayed with startupicide, it's more accurate to think of
 startups as all being poisoned, and a few places being sprayed with
@@ -59,7 +59,7 @@ inexperienced founders with unpromising sounding ideas who a few
 years later were billionaires.
 
 Having people around you care about what you're doing is an
-extraordinarily [powerful](cities.html) force. Even the
+extraordinarily [powerful](/read/cities-and-ambition) force. Even the
 most willful people are susceptible to it. About a year after we
 started Y Combinator I said something to a partner at a well known
 VC firm that gave him the (mistaken) impression I was considering
@@ -76,7 +76,7 @@ so lots of people starting startups who shouldn't is probably the
 optimal state of affairs. As long as you're at a point in your
 life when you can bear the risk of failure, the best way to find
 out if you're suited to running a startup is to [try
-it](notnot.html).
+it](/read/why-to-not-not-start-a-startup).
 
 **Chance**
 
@@ -100,7 +100,7 @@ to move to the Valley for the summer to work on it. And then on a
 random suburban street in Palo Alto you happen to run into Sean
 Parker, who understands the domain really well because he started
 a similar startup himself, and also knows all the investors. And
-moreover has advanced views, for 2004, on founders retaining [control](control.html) of their companies.
+moreover has advanced views, for 2004, on founders retaining [control](/read/founder-control) of their companies.
 
 You can't say precisely what the miracle will be, or even for sure
 that one will happen. The best one can say is: if you're in a
@@ -116,7 +116,7 @@ Chance meetings play a role like the role relaxation plays in having
 ideas. Most people have had the experience of working hard on some
 problem, not being able to solve it, giving up and going to bed,
 and then thinking of the answer in the shower in the morning. What
-makes the answer appear is letting your thoughts [drift](top.html) a bit—and thus drift off the wrong
+makes the answer appear is letting your thoughts [drift](/read/the-top-idea-in-your-mind) a bit—and thus drift off the wrong
 path you'd been pursuing last night and onto the right one adjacent
 to it.
 
@@ -129,7 +129,7 @@ a lot in common with.
 
 For Larry Page the most important component of the antidote was
 Sergey Brin, and vice versa. The antidote is
-[people](siliconvalley.html). It's not the
+[people](/read/how-to-be-silicon-valley). It's not the
 physical infrastructure of Silicon Valley that makes it work, or
 the weather, or anything like that. Those helped get it started,
 but now that the reaction is self-sustaining what drives it is the

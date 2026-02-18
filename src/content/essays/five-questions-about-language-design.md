@@ -43,7 +43,7 @@ But elegance is not an end in itself.
 And when I say languages have to be designed to suit human weaknesses,
 I don't mean that languages have to be designed for bad programmers.
 In fact I think you ought to design for the
-[best programmers](design.html), but
+[best programmers](https://paulgraham.com/design.html), but
 even the best programmers have limitations. I don't think anyone
 would like programming in a language where all the variables were
 the letter x with integer subscripts.
@@ -174,7 +174,7 @@ to know what is a small change and what is a momentous one.
 Another thing that might turn out to be useful for server based
 software, surprisingly, is continuations. In Web-based software
 you can use something like continuation-passing style to get the
-effect of [subroutines](lwba.html) in the inherently
+effect of [subroutines](/read/lisp-for-web-based-applications) in the inherently
 stateless world of a Web
 session. Maybe it would be worthwhile having actual continuations,
 if it was not too expensive.
@@ -336,7 +336,7 @@ to browse the Web on your gameboy? Your watch? I don't know.
 And I don't have to know if I bet on
 everything just being on the server. It's
 just so much more robust to have all the
-[brains on the server](road.html).
+[brains on the server](/read/the-other-road-ahead).
 
 **2. Object-Oriented Programming.**
 

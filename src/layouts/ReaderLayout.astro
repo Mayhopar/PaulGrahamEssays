@@ -163,7 +163,7 @@ const prevEssay = currentIndex > 0 ? allEssays[currentIndex - 1] : null;
       <aside class="fixed inset-y-0 left-0 z-50 w-68 -translate-x-full bg-bg transition-transform duration-300 lg:relative lg:z-auto lg:translate-x-0 lg:transition-none"
              id="left-drawer"
              transition:name="sidebar" transition:animate="none">
-        <div id="sidebar" class="h-full overflow-y-auto">
+        <div id="sidebar" class="h-full overflow-y-auto autohide-scrollbar">
           <div class="sticky top-0 z-10 bg-bg px-3 pt-15 pb-2">
             <h1 class="mb-1 text-sm font-semibold text-text">
               Paul Graham
@@ -230,7 +230,7 @@ const prevEssay = currentIndex > 0 ? allEssays[currentIndex - 1] : null;
         )}
 
         <!-- Main scrollable content -->
-        <main id="essay-content" class="absolute inset-0 overflow-y-auto bg-bg will-change-transform"
+        <main id="essay-content" class="absolute inset-0 overflow-y-auto autohide-scrollbar bg-bg will-change-transform"
               data-next-url={nextUrl}
               data-prev-url={prevUrl}>
           <!-- Top/bottom fade gradients -->
@@ -264,7 +264,7 @@ const prevEssay = currentIndex > 0 ? allEssays[currentIndex - 1] : null;
       <aside class="fixed inset-y-0 right-0 z-50 w-68 translate-x-full flex-col bg-bg transition-transform duration-300 lg:relative lg:z-auto lg:flex lg:translate-x-0 lg:transition-none group"
              id="right-drawer"
              transition:name="settings" transition:animate="none">
-        <div class="flex min-h-0 flex-1 flex-col overflow-y-auto pt-16 py-4 px-4 lg:pt-38 lg:pl-0 lg:pr-4">
+        <div class="flex min-h-0 flex-1 flex-col overflow-y-auto autohide-scrollbar pt-16 py-4 px-4 lg:pt-38 lg:pl-0 lg:pr-4">
           <div class="lg:opacity-50 transition-opacity duration-300 lg:group-hover:opacity-100">
           <!-- Theme -->
           <div class="mb-5">
@@ -370,11 +370,13 @@ const prevEssay = currentIndex > 0 ? allEssays[currentIndex - 1] : null;
       import { initHighlightUI } from "../scripts/annotations";
       import { initSwipeNavigation } from "../scripts/swipe";
       import { initKeyboardShortcuts } from "../scripts/keyboard-shortcuts";
+      import { initFootnotes } from "../scripts/footnotes";
 
       function setup() {
         initSettings();
         initKeyboardShortcuts();
         initSwipeNavigation();
+        initFootnotes();
 
         // --- Mobile drawer toggle ---
         const leftDrawer = document.getElementById("left-drawer");

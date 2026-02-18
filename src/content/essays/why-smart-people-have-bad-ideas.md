@@ -176,7 +176,7 @@ for art galleries.
 We erred ridiculously far on the side of safety. As it turns out,
 VC-backed startups are not that fearsome. They're too busy trying
 to spend all that
-[money](venturecapital.html) to get software written. In 1995, the
+[money](/read/a-unified-theory-of-vc-suckage) to get software written. In 1995, the
 e-commerce business was very competitive as measured in press
 releases, but not as measured in software. And really it never
 was. The big fish like Open Market (rest their souls) were just
@@ -352,7 +352,7 @@ On the other hand, he was skeptical about Viaweb too. I have
 a precise measure of that, because at one point in the first couple
 months we made a bet: if he ever made a million dollars out of
 Viaweb, he'd get his ear pierced. We didn't let him
-[off](pierced.html), either.
+[off](https://paulgraham.com/pierced.html), either.
 [4]
 I wrote a program to generate all the combinations of "Web"
 plus a three letter word. I learned from this that most three

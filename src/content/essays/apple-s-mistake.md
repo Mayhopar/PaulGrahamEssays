@@ -203,7 +203,7 @@ a worrying prospect. It would be a bummer to have another grim
 monoculture like we had in the 1990s. In 1995, writing software
 for end users was effectively identical with writing Windows
 applications. Our horror at that prospect was the single biggest
-thing that drove us to start building [web apps](road.html).
+thing that drove us to start building [web apps](/read/the-other-road-ahead).
 
 At least we know now what it would take to break Apple's lock.
 You'd have to get iPhones out of programmers' hands. If programmers

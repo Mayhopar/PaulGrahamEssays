@@ -10,10 +10,10 @@ readingTime: 6
 
 Recently I realized I'd been holding two ideas in my head that would explode if combined.
 
-The first is that startups may represent a [new economic phase](highres.html), on the scale of the Industrial Revolution. I'm not sure of this, but there seems a decent chance it's true. People are dramatically more
+The first is that startups may represent a [new economic phase](/read/the-high-res-society), on the scale of the Industrial Revolution. I'm not sure of this, but there seems a decent chance it's true. People are dramatically more
 productive as founders or early employees of startups—imagine how much less Larry and Sergey would have achieved if they'd gone to work for a big company—and that scale of improvement can change social customs.
 
-The second idea is that startups are a type of business that flourishes in certain places that [specialize](startuphubs.html) in it—that Silicon Valley specializes in startups in the same way Los Angeles specializes in movies, or New York in finance. [[1](#f1n)]
+The second idea is that startups are a type of business that flourishes in certain places that [specialize](/read/why-to-move-to-a-startup-hub) in it—that Silicon Valley specializes in startups in the same way Los Angeles specializes in movies, or New York in finance. [[1](#f1n)]
 
 What if both are true? What if startups are both a new economic phase and also a type of business that only flourishes in certain centers?
 
@@ -36,10 +36,10 @@ Silicon Valley is where it is because William Shockley wanted to move back to Pa
 But of course it's not a coincidence that Facebook got funded in the Valley and not Boston. There are more and bolder investors in Silicon Valley than in Boston, and even undergrads know it.
 
 Boston's case illustrates the difficulty you'd have establishing a new startup hub this late in the game. If you wanted to create a startup hub by reproducing the way existing ones happened, the
-[way to do it](siliconvalley.html) would be to establish a first-rate research university in a place so nice that rich people wanted to live there. Then the town would be hospitable to both groups you need: both founders and investors. That's the combination that yielded Silicon Valley. But Silicon Valley didn't have Silicon Valley to compete with. If you tried now to create a startup hub by planting a great university in a nice place, it would have a harder time getting started, because many of the best startups it produced would be sucked away to existing startup hubs.
+[way to do it](/read/how-to-be-silicon-valley) would be to establish a first-rate research university in a place so nice that rich people wanted to live there. Then the town would be hospitable to both groups you need: both founders and investors. That's the combination that yielded Silicon Valley. But Silicon Valley didn't have Silicon Valley to compete with. If you tried now to create a startup hub by planting a great university in a nice place, it would have a harder time getting started, because many of the best startups it produced would be sucked away to existing startup hubs.
 
 Recently I suggested a potential shortcut:
-[pay startups to move](maybe.html). Once you had enough good startups in one place, it would create a self-sustaining chain reaction. Founders would start to move there without being paid, because that was where their peers were, and investors would appear too, because that was where the deals were.
+[pay startups to move](/read/can-you-buy-a-silicon-valley-maybe). Once you had enough good startups in one place, it would create a self-sustaining chain reaction. Founders would start to move there without being paid, because that was where their peers were, and investors would appear too, because that was where the deals were.
 
 In practice I doubt any government would have the balls to try this, or the brains to do it right. I didn't mean it as a practical suggestion, but more as an exploration of the lower bound of what it would take to create a startup hub deliberately.
 

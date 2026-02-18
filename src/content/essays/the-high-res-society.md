@@ -73,7 +73,7 @@ run out. How often does it happen that a rule works for thousands
 of years, then switches polarity?
 
 The millennia-long run of bigger-is-better left us with a lot of
-[traditions](credentials.html) that are now obsolete,
+[traditions](/read/after-credentials) that are now obsolete,
 but extremely deeply rooted.
 Which means the ambitious can now do arbitrage on them. It will
 be very valuable to understand precisely which ideas to keep and

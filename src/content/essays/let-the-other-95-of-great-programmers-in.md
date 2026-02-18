@@ -19,7 +19,7 @@ don't understand is that there is a huge variation in ability between
 competent programmers and exceptional ones, and while you can train
 people to be competent, you can't train them to be exceptional.
 Exceptional programmers have an aptitude for and
-[interest in](genius.html)
+[interest in](/read/the-bus-ticket-theory-of-genius)
 programming that is not merely the product of training.
 [[1](#f1n)]
 

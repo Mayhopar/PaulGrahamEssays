@@ -563,7 +563,7 @@ is that we're not professional negotiators, and don't want to turn
 into them.
 [9]
 There are two ways to do
-[work you love](love.html): (a) to make money, then work
+[work you love](/read/how-to-do-what-you-love): (a) to make money, then work
 on what you love, or (b) to get a job where you get paid to work on
 stuff you love. In practice the first phases of both
 consist mostly of unedifying schleps, and in (b) the second phase is less

@@ -233,7 +233,7 @@ For individuals the upshot is the same: aim small. It will always
 suck to work for large organizations, and the larger the organization,
 the more it will suck.
 
-In an [essay](start.html) I wrote a couple years ago
+In an [essay](/read/how-to-start-a-startup) I wrote a couple years ago
 I advised graduating seniors
 to work for a couple years for another company before starting their
 own. I'd modify that now. Work for another company if you want

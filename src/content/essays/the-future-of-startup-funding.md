@@ -12,7 +12,7 @@ readingTime: 17
 [Y Combinator](http://ycombinator.com/apply.html).
 
 Two years ago I
-[wrote](http://www.paulgraham.com/googles.html#next) about what I called "a huge, unexploited
+[wrote](/read/why-there-aren-t-more-googles#next) about what I called "a huge, unexploited
 opportunity in startup funding:" the growing disconnect between
 VCs, whose current business model requires them to invest large
 amounts, and a large class of startups that need less than they
@@ -274,7 +274,7 @@ it takes. So as founders become more powerful, rounds should start
 to close faster.
 
 Fundraising is still terribly distracting for startups. If you're
-a founder in the middle of raising a round, the round is the [top idea in your mind](top.html), which means working on the
+a founder in the middle of raising a round, the round is the [top idea in your mind](/read/the-top-idea-in-your-mind), which means working on the
 company isn't. If a round takes 2 months to close, which is
 reasonably fast by present standards, that means 2 months during
 which the company is basically treading water. That's the worst

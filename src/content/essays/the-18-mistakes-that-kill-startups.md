@@ -74,7 +74,7 @@ Whatever they are they're probably so far from the top that it would
 be misleading even to call them centers.
 
 It's an interesting question why cities
-[become](siliconvalley.html) startup hubs, but
+[become](/read/how-to-be-silicon-valley) startup hubs, but
 the reason startups prosper in them is probably the same as it is
 for any industry: that's where the experts are. Standards are
 higher; people are more sympathetic to what you're doing; the kind
@@ -477,7 +477,7 @@ Because making something people want is so much harder than making
 money from it, you should leave business models for later, just as
 you'd leave some trivial but messy feature for version 2. In version
 1, solve the core problem. And the core problem in a startup is
-how to [create wealth](wealth.html)
+how to [create wealth](/read/how-to-make-wealth)
 (= how much people want something x the number
 who want it), not how to convert that wealth into money.
 

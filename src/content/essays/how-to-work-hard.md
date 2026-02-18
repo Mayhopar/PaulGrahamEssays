@@ -227,7 +227,7 @@ which kind you're suited for. And that doesn't just mean figuring
 out which kind your natural abilities match the best; it doesn't
 mean that if you're 7 feet tall, you have to play basketball. What
 you're suited for depends not just on your talents but perhaps even
-more on your interests. A [deep interest](genius.html)
+more on your interests. A [deep interest](/read/the-bus-ticket-theory-of-genius)
 in a topic makes people
 work harder than any amount of discipline can.
 
@@ -253,7 +253,7 @@ just do it, like Mozart. But others, like Newton, turn restlessly
 from one kind of work to another. Maybe in retrospect we can identify
 one as their calling — we can wish Newton spent more time on math
 and physics and less on alchemy and theology — but this is an
-[illusion](disc.html) induced by hindsight bias.
+[illusion](/read/the-risk-of-discovery) induced by hindsight bias.
 There was no voice calling to him that he could have heard.
 
 So while some people's lives converge fast, there will be others
@@ -313,7 +313,7 @@ yield practice and effort.
 I mean this at a resolution of days, not hours. You'll often
 get somewhere while not working in the sense that the solution to
 a problem comes to you while taking a
-[shower](top.html), or even in your sleep,
+[shower](/read/the-top-idea-in-your-mind), or even in your sleep,
 but only because you were working hard on it the day before.
 
 It's good to go on vacation occasionally, but when I go on vacation,

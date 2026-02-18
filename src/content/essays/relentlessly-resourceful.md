@@ -38,7 +38,7 @@ people outside the US. "Be like a running back" is no better than
 
 But finally I've figured out how to express this quality directly.
 I was writing a talk for
-[investors](angelinvesting.html), and I had to explain what to
+[investors](/read/how-to-be-an-angel-investor), and I had to explain what to
 look for in founders. What would someone who was the opposite of
 hapless be like? They'd be relentlessly resourceful. Not merely
 relentless. That's not enough to make things go your way except

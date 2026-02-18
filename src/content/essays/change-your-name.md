@@ -86,7 +86,7 @@ ahead for most of the rest, one way or another.
 **Notes**
 [1]
 Incidentally, this thought experiment works for
-[nationality and religion](identity.html) too.
+[nationality and religion](/read/keep-your-identity-small) too.
 [2]
 The liking you have for a name that has become part of your
 identity manifests itself not directly, which would be easy to

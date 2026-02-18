@@ -88,7 +88,7 @@ They're not just saying "It's unfair that so-and-so is famous," but
 
 Could a hater be cured if they achieved something impressive? My
 guess is that's a moot point, because they
-[never will](mean.html). I've been
+[never will](/read/mean-people-fail). I've been
 able to observe for long enough that I'm fairly confident the pattern
 works both ways: not only do people who do great work never become
 haters, haters never do great work. Although I dislike the word

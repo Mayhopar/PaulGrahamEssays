@@ -126,7 +126,7 @@ signal to everyone.
 
 \_\_\_
 
-[Now](badeconomy.html) would be a good time to start any company that competes with
+[Now](/read/why-to-start-a-startup-in-a-bad-economy) would be a good time to start any company that competes with
 TV networks. That's what a lot of Internet startups are, though
 they may not have had this as an explicit goal. People only have
 so many leisure hours a day, and TV is premised on such long sessions

@@ -46,7 +46,7 @@ were clumped together in a few places where that sort of thing was
 done at the time.
 
 You can see how powerful cities are from something I wrote about
-[earlier](taste.html): the case of the Milanese Leonardo.
+[earlier](/read/taste-for-makers): the case of the Milanese Leonardo.
 Practically every
 fifteenth century Italian painter you've heard of was from Florence,
 even though Milan was just as big. People in Florence weren't

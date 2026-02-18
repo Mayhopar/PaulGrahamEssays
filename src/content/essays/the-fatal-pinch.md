@@ -144,7 +144,7 @@ customer, and it was otherwise a straight product sale. You keep
 the IP and no billing by the hour.
 
 In the best case, this consultingish work may not be just something
-you do to survive, but may turn out to be the [thing-that-doesn't-scale](ds.html) that defines your
+you do to survive, but may turn out to be the [thing-that-doesn't-scale](/read/do-things-that-don-t-scale) that defines your
 company. Don't expect it to be, but as you dive into individual
 users' needs, keep your eyes open for narrow openings that have
 wide vistas beyond.

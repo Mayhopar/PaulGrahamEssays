@@ -17,7 +17,7 @@ the cartoon it was always a man): a rapacious, cigar-smoking,
 table-thumping guy in his fifties who wins by exercising power, and
 isn't too fussy about how. As I've written before, one of
 the things that has surprised me most about startups is
-[how few](mean.html) of
+[how few](/read/mean-people-fail) of
 the most successful founders are like that. Maybe successful people
 in other industries are; I don't know; but not startup founders.
 [[1](#f1n)]
@@ -52,7 +52,7 @@ rapacious one.
 [[2](#f2n)]
 
 If you're going to optimize a number, the one to choose is your
-[growth rate](growth.html). Suppose as before that you only extract half as much
+[growth rate](/read/startup-growth). Suppose as before that you only extract half as much
 from users as you could, but that you're able to grow 6% a week
 instead of 5%. Now how are you doing compared to the rapacious
 founder after two years? You're already ahead—$214k a month
@@ -94,7 +94,7 @@ The other reason it might help to be good at squeezing money
 out of customers is that startups usually lose money at first, and
 making more per customer makes it easier to get to profitability
 before your initial funding runs out. But while it is very common
-for startups to [die](pinch.html)
+for startups to [die](/read/the-fatal-pinch)
 from running through their initial funding and then being unable
 to raise more, the underlying cause is usually slow growth or
 excessive spending rather than insufficient effort to extract money

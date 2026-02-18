@@ -105,7 +105,7 @@ The fourth advantage of ramen profitability is the least obvious
 but may be the most important. If you don't need to raise money,
 you don't have to interrupt working on the company to do it.
 
-[Raising money](fundraising.html) is terribly distracting.
+[Raising money](/read/a-fundraising-survival-guide) is terribly distracting.
 You're lucky if your
 productivity is a third of what it was before. And it can last for
 months.
@@ -180,7 +180,7 @@ It's ok to do a little consulting-type work at first. Startups
 usually have to do something weird at first. But remember
 that ramen profitability is not the destination. A startup's
 destination is to grow really big; ramen profitability is a trick
-for [not dying](die.html) en route.
+for [not dying](/read/how-not-to-die) en route.
 
 <div class="text-xs">
 

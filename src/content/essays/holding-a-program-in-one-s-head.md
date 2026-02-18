@@ -65,7 +65,7 @@ do to help:
      an advantage as well as a cost of breaking up a project. Sometimes
      when you return to a problem after a rest, you find your unconscious
      mind has left an answer waiting for you.- **Use succinct languages.** More
-       [powerful](power.html) programming languages
+       [powerful](/read/succinctness-is-power) programming languages
        make programs shorter. And programmers seem to think of programs
        at least partially in the language they're using to write them.
        The more succinct the language, the shorter the program, and the
@@ -165,7 +165,7 @@ Probably the best we'll do is some kind of hack, like making the
 programming parts of an organization work differently from the rest.
 Perhaps the optimal solution is for big companies not even to try
 to develop ideas in house, but simply to
-[buy](hiring.html) them. But regardless
+[buy](/read/hiring-is-obsolete) them. But regardless
 of what the solution turns out to be, the first step is to realize
 there's a problem. There is a contradiction in the very phrase
 "software company." The two words are pulling in opposite directions.

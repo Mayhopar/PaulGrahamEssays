@@ -8,7 +8,7 @@ wordCount: 449
 readingTime: 2
 ---
 
-In a recent [talk](gh.html) I said something that upset a lot of
+In a recent [talk](/read/great-hackers) I said something that upset a lot of
 people: that you could get smarter programmers to work on
 a Python project than you could to work on a Java project.
 
@@ -52,10 +52,10 @@ I mean. Real ugliness is not harsh-looking
 syntax, but having to build programs out of the wrong
 concepts. Perl may look like a cartoon character swearing,
 but there are
-[cases](icad.html) where it surpasses Python conceptually.
+[cases](/read/revenge-of-the-nerds) where it surpasses Python conceptually.
 
 So far, anyway. Both languages are of course
-[moving](hundred.html) targets. But they
+[moving](/read/the-hundred-year-language) targets. But they
 share, along with Ruby (and Icon, and Joy, and J, and Lisp,
 and Smalltalk) the fact that
 they're created by, and used by, people who really care about

@@ -28,7 +28,7 @@ of their opinions is whatever it's currently acceptable to believe.
 So it seems to them that it must be safe for everyone. They literally
 can't imagine a true statement that would get you in trouble.
 
-And yet at every point in history, there [were](say.html)
+And yet at every point in history, there [were](/read/what-you-can-t-say)
 true things that would
 get you in trouble to say.
 Is ours the first where this

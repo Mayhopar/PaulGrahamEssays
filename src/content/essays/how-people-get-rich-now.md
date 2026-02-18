@@ -108,7 +108,7 @@ the new technology of mass production."
 So it's not 2020 that's the anomaly here, but 1982. The real question
 is why so few people had gotten rich from starting companies in
 1982. And the answer is that even as the *Herald Tribune*'s list was
-being compiled, a wave of [consolidation](re.html)
+being compiled, a wave of [consolidation](/read/the-refragmentation)
 was sweeping through the
 American economy. In the late 19th and early 20th centuries,
 financiers like J. P. Morgan combined thousands of smaller companies
@@ -235,7 +235,7 @@ really driven and good at making deals, he was also the first to
 figure out how to use fracking to get natural gas out of shale.
 [3]
 When I say people are starting more companies, I mean the
-type of company meant to [grow](growth.html)
+type of company meant to [grow](/read/startup-growth)
 very big. There has actually been a
 decrease in the last couple decades in the overall number of new
 companies. But the vast majority of companies are small retail and
@@ -257,7 +257,7 @@ Lind, Michael. *Land of Promise.* HarperCollins, 2012.
 It's also likely that the high tax rates in the mid 20th century
 deterred people from starting their own companies. Starting one's
 own company is risky, and when risk isn't rewarded, people opt for
-[safety](inequality.html) instead.
+[safety](/read/inequality-and-risk) instead.
 
 But it wasn't simply cause and effect. The oligopolies and high tax
 rates of the mid 20th century were all of a piece. Lower taxes are

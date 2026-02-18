@@ -343,7 +343,7 @@ topic.
 
 Sometimes when we're slow to grasp things it's not just because
 we're obtuse or in denial but because we've been deliberately lied
-to. There are a lot of things adults [lie](lies.html)
+to. There are a lot of things adults [lie](/read/lies-we-tell-kids)
 to kids about, and when
 you reach adulthood, they don't take you aside and hand you a list
 of them. They don't remember which lies they told you, and most
@@ -352,7 +352,7 @@ of surprises for as long as adults keep telling them.
 
 Sometimes it's systems that lie to you. For example, the educational
 systems in most countries train you to win by
-[hacking the test](lesson.html). But
+[hacking the test](/read/the-lesson-to-unlearn). But
 that's not how you win at the most important real-world tests, and
 after decades of training, this is hard for new arrivals in the real
 world to grasp. Helping them overcome such institutional lies will
@@ -362,7 +362,7 @@ work as long as the institutions remain broken.
 Another recipe for timelessness is to write about things readers
 already know, but in much more detail than can be transmitted
 culturally. "Everyone knows," for example, that it can be rewarding
-to have [kids](kids.html). But till you have them you don't know precisely what
+to have [kids](/read/having-kids). But till you have them you don't know precisely what
 forms that takes, and even then much of what you know you may never
 have put into words.
 

@@ -9,7 +9,7 @@ readingTime: 1
 ---
 
 After a link to
-[Beating the Averages](avg.html) was posted on slashdot,
+[Beating the Averages](/read/beating-the-averages) was posted on slashdot,
 some readers wanted to hear in more detail
 about the specific technical advantages we got from using
 Lisp in Viaweb. For those who are interested,

@@ -176,7 +176,7 @@ get innovation is not to aim for innovation but to aim for something
 more specific, like better batteries or better 3D printing. And
 the way to learn about entrepreneurship is to do it, which you
 [can't
-in school](before.html).
+in school](/read/before-the-startup).
 
 I know it may disappoint some administrators to hear that the best
 thing a university can do to encourage startups is to be a great

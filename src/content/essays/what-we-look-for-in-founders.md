@@ -23,7 +23,7 @@ important quality would be intelligence. That's the myth in the
 Valley. And certainly you don't want founders to be stupid. But
 as long as you're over a certain threshold of intelligence, what
 matters most is determination. You're going to hit a lot of
-obstacles. You can't be the sort of person who gets [demoralized](die.html)
+obstacles. You can't be the sort of person who gets [demoralized](/read/how-not-to-die)
 easily.
 
 Bill Clerico and Rich Aberman of [WePay](http://wepay.com)
@@ -41,7 +41,7 @@ You do not however want the sort of determination implied by phrases
 like "don't give up on your dreams." The world of startups is so
 unpredictable that you need to be able to modify your dreams on the
 fly. The best metaphor I've found for the combination of determination
-and flexibility you need is a [running back](relres.html).
+and flexibility you need is a [running back](/read/relentlessly-resourceful).
 He's determined to get
 downfield, but at any given moment he may need to go sideways or
 even backwards to get there.
@@ -62,7 +62,7 @@ that matters most is imagination. It's not so important to be able
 to solve predefined problems quickly as to be able to come up with
 surprising new ideas. In the startup world, most good ideas
 [seem
-bad](googles.html) initially. If they were obviously good, someone would already
+bad](/read/why-there-aren-t-more-googles) initially. If they were obviously good, someone would already
 be doing them. So you need the kind of intelligence that produces
 ideas with just the right level of craziness.
 
@@ -83,7 +83,7 @@ Two-Shoes type good. Morally, they care about getting the big
 questions right, but not about observing proprieties. That's why
 I'd use the word naughty rather than evil. They delight in
 [breaking
-rules](gba.html), but not rules that matter. This quality may be redundant
+rules](/read/the-word-hacker), but not rules that matter. This quality may be redundant
 though; it may be implied by imagination.
 
 Sam Altman of [Loopt](http://loopt.com)
@@ -98,7 +98,7 @@ to when judging applications.
 
 Empirically it seems to be hard to start a startup with just
 [one
-founder](startupmistakes.html). Most of the big successes have two or three. And the
+founder](/read/the-18-mistakes-that-kill-startups). Most of the big successes have two or three. And the
 relationship between the founders has to be strong. They must
 genuinely like one another, and work well together. Startups do
 to the relationship between the founders what a dog does to a sock:

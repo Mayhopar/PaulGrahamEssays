@@ -101,7 +101,7 @@ obsession might be one that matters. For example, it's more promising
 if you're creating something, rather than just consuming something
 someone else creates. It's more promising if something you're
 interested in is difficult, especially if it's [more difficult for
-other people](work.html) than it is for you. And the obsessions of talented
+other people](/read/what-doesn-t-seem-like-work) than it is for you. And the obsessions of talented
 people are more likely to be promising. When talented people become
 interested in random things, they're not truly random.
 
@@ -119,7 +119,7 @@ difficult to waste your time so long as you're working hard on
 something interesting. So much of what you do ends up being useful.
 But on the other hand, the rule about the relationship between risk
 and reward is so powerful that it seems to hold wherever risk occurs.
-[Newton's](disc.html) case, at least, suggests that the risk/reward rule holds
+[Newton's](/read/the-risk-of-discovery) case, at least, suggests that the risk/reward rule holds
 here. He's famous for one particular obsession of his that turned
 out to be unprecedentedly fruitful: using math to describe the
 world. But he had two other obsessions, alchemy and theology, that
@@ -186,7 +186,7 @@ agree is the most promising line of research, maybe you should try
 doing something just for fun. And if you're stuck, that may be the
 vector along which to break out.
 
-I've always liked [Hamming's](hamming.html) famous double-barrelled question: what
+I've always liked [Hamming's](https://paulgraham.com/hamming.html) famous double-barrelled question: what
 are the most important problems in your field, and why aren't you
 working on one of them? It's a great way to shake yourself up. But
 it may be overfitting a bit. It might be at least as useful to ask
@@ -252,7 +252,7 @@ a job instead of sitting around at home doing math.
 On the other hand, anyone quoting the preceding paragraph to justify
 not getting a job is probably mistaken.
 
-[4] 1709 Darwin is to time what the [Milanese Leonardo](cities.html) is to space.
+[4] 1709 Darwin is to time what the [Milanese Leonardo](/read/cities-and-ambition) is to space.
 
 [5] "An infinite capacity for taking pains" is a paraphrase of what
 Carlyle wrote. What he wrote, in his *History of Frederick the Great*,

@@ -159,7 +159,7 @@ working in it will go to work for game developers.
 
 I don't know how big embodying information in physical form will
 be. It may be surprisingly large; people overvalue
-[physical stuff](stuff.html).
+[physical stuff](/read/stuff).
 There should remain some market for printed books, at least.
 
 I can see the evolution of book publishing in the books on my

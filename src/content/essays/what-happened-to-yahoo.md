@@ -226,7 +226,7 @@ to work in a suit-centric culture. And without good programmers
 you won't get good software, no matter how many people you put on
 a task, or how many procedures you establish to ensure "quality."
 
-[Hacker culture](gba.html)
+[Hacker culture](/read/the-word-hacker)
 often seems kind of irresponsible. That's why people
 proposing to destroy it use phrases like "adult supervision." That
 was the phrase they used at Yahoo. But there are worse things than

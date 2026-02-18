@@ -252,7 +252,7 @@ their algorithm to get the rankings they want.
 [4]
 Possible doesn't mean easy, of course. A smart student at a party school
 will inevitably be something of an outcast, just as he or
-she would be in most [high schools](nerds.html).
+she would be in most [high schools](/read/why-nerds-are-unpopular).
 
 **Thanks** to Trevor Blackwell, Sarah Harlin, Jessica Livingston, Jackie
 McDonough, Peter Norvig, and Robert Morris for reading drafts of

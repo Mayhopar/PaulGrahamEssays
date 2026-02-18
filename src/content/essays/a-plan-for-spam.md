@@ -13,9 +13,9 @@ News](http://news.ycombinator.com).
 
 *(This article describes the spam-filtering techniques
 used in the spamproof web-based mail reader we
-built to exercise [Arc](arc.html). An
+built to exercise [Arc](https://paulgraham.com/arc.html). An
 improved algorithm is described in [Better
-Bayesian Filtering](better.html).)*
+Bayesian Filtering](/read/better-bayesian-filtering).)*
 
 I think it's possible to stop spam, and that
 content-based filters are the way to do it.
@@ -153,7 +153,7 @@ neutral .5, are used to calculate the probability that
 the mail is spam. If probs
 is a list of the fifteen individual probabilities, you
 calculate the
-[combined](naivebayes.html) probability thus:
+[combined](https://paulgraham.com/naivebayes.html) probability thus:
 (let ((prod (apply #'\* probs)))
 (/ prod (+ prod (apply #'\* (mapcar #'(lambda (x)
 (- 1 x))
@@ -290,7 +290,7 @@ filtering, I would consider this problem solved. But it
 doesn't mean much to be able to filter out most present-day
 spam, because spam evolves.
 Indeed, most
-[antispam techniques](falsepositives.html) so far have been like pesticides that
+[antispam techniques](https://paulgraham.com/falsepositives.html) so far have been like pesticides that
 do nothing more than create a new, resistant strain of bugs.
 
 I'm more hopeful about Bayesian filters, because they evolve
@@ -716,7 +716,7 @@ E-Commerce Web Site, that's spam.
 [1] The examples in this article are translated
 into Common Lisp for, believe it or not, greater accessibility.
 The application described here is one that we wrote in order to
-test a new Lisp dialect called [Arc](arc.html) that is
+test a new Lisp dialect called [Arc](https://paulgraham.com/arc.html) that is
 not yet released.
 
 [2] Currently the lowest rate seems to be about $200 to send a million spams.

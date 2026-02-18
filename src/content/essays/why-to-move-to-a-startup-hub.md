@@ -9,7 +9,7 @@ readingTime: 7
 ---
 
 After the last
-[talk](webstartups.html) I gave, one of the organizers
+[talk](/read/the-future-of-web-startups) I gave, one of the organizers
 got up on the
 stage to deliver an impromptu rebuttal. That never happened before.
 I only heard the first few sentences, but that was enough to tell

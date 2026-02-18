@@ -42,7 +42,7 @@ in x, or because of what they can get from it. They're saying they
 care so much about x that they're willing to sacrifice seeming cool
 for its sake.
 
-A [genuine interest](genius.html)
+A [genuine interest](/read/the-bus-ticket-theory-of-genius)
 in something is a very powerful motivator  for
 some people, the most powerful motivator of all.
 [[3](#f3n)]
@@ -53,7 +53,7 @@ constrains you. The earnest can't easily reply in kind to mocking
 banter, or put on a cool facade of nihil admirari. They care too
 much. They are doomed to be the straight man. That's a real
 disadvantage in your
-[teenage years](nerds.html),
+[teenage years](/read/why-nerds-are-unpopular),
 when mocking banter and nihil
 admirari often have the upper hand. But it becomes an advantage
 later.
@@ -95,7 +95,7 @@ forget about them.
 It works to be slightly naive not just about motives but also,
 believe it or not, about the problems you're working on. Naive
 optimism can compensate for the bit rot that
-[rapid change](ecw.html) causes
+[rapid change](/read/how-to-be-an-expert-in-a-changing-world) causes
 in established beliefs. You plunge into some problem saying "How
 hard can it be?", and then after solving it you learn that it was
 till recently insoluble.
@@ -106,7 +106,7 @@ to understand Silicon Valley. It hasn't been safe for such people
 to use the word "earnest" outside scare quotes since Oscar Wilde
 wrote "The Importance of Being Earnest" in 1895. And yet when you
 zoom in on Silicon Valley, right into
-[Jessica Livingston's brain](jessica.html),
+[Jessica Livingston's brain](/read/jessica-livingston),
 that's what her x-ray vision
 is seeking out in founders. Earnestness!
 Who'd have guessed? Reporters literally can't believe it when
@@ -143,7 +143,7 @@ interesting. Henry Ford got to spend much of his time working on
 interesting technical problems, and for the last several decades
 the trend in that direction has been accelerating. It's much easier
 now to make a lot of money by working on something you're interested
-in than it was [50 years ago](re.html).
+in than it was [50 years ago](/read/the-refragmentation).
 And that, rather than how fast they
 grow, may be the most important change that startups represent.
 Though indeed, the fact that the work is genuinely interesting is

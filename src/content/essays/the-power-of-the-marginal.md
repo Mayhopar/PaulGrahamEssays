@@ -201,7 +201,7 @@ or medicine.
 
 If it's corrupt enough, a test becomes an anti-test, filtering out
 the people it should select by making them to do things only the
-wrong people would do. [Popularity](nerds.html) in high school
+wrong people would do. [Popularity](/read/why-nerds-are-unpopular) in high school
 seems to be such a test. There are plenty of similar ones in the grownup
 world. For example, rising up through the hierarchy of the average
 big company demands an attention to politics few thoughtful people
@@ -234,7 +234,7 @@ honest.
 Standards in art, for example, were almost as corrupt in the first
 half of the eighteenth century as they are today. This was the era
 of those fluffy idealized portraits of countesses with their lapdogs.
-[Chardin](largilliere-chardin.html)
+[Chardin](https://paulgraham.com/largilliere-chardin.html)
 decided to skip all that and paint ordinary things as he
 saw them. He's now considered the best of that period — and yet
 not the equal of Leonardo or Bellini or Memling, who all had the
@@ -363,7 +363,7 @@ One especially good groove to span is the one between tools and
 things made with them. For example, programming languages and
 applications are usually written by different people, and this is
 responsible for a lot of the worst flaws in
-[programming languages](hundred.html).
+[programming languages](/read/the-hundred-year-language).
 I think every language should be designed simultaneously with a
 large application written in it, the way C was with Unix.
 
@@ -402,7 +402,7 @@ have it all to yourself.
 
 The potential of a new medium is usually underestimated, precisely
 because no one has yet explored its possibilities. Before
-[Durer](pilate.html)
+[Durer](https://paulgraham.com/pilate.html)
 tried making engravings, no one took them very seriously. Engraving
 was for making little devotional images — basically fifteenth century
 baseball cards of saints. Trying to make masterpieces in this
@@ -465,7 +465,7 @@ Outsiders are free of all this. They can work on small things, and
 there's something very pleasing about small things. Small things
 can be perfect; big ones always have something wrong with them.
 But there's a
-[magic](isetta.html)
+[magic](https://paulgraham.com/isetta.html)
 in small things that goes beyond such rational
 explanations. All kids know it. Small things have more personality.
 
@@ -510,7 +510,7 @@ short of money, for example. But that constrains you in different
 ways. How does responsibility constrain you? The worst thing is
 that it allows you not to focus on real work. Just as the most
 dangerous forms of
-[procrastination](procrastination.html)
+[procrastination](/read/good-and-bad-procrastination)
 are those that seem like work,
 the danger of responsibilities is not just that they can consume a
 whole day, but that they can do it without setting off the
@@ -637,7 +637,7 @@ undone, either because they seemed too risky, or simply because
 there were too few insiders to explore everything.
 
 This is why I spend most of my time writing
-[essays](essay.html) lately. The
+[essays](/read/the-age-of-the-essay) lately. The
 writing of essays used to be limited to those who could get them
 published. In principle you could have written them and just shown
 them to your friends; in practice that didn't work.

@@ -77,7 +77,7 @@ side in half. You probably only have to interrupt someone a couple
 times a day before they're unable to work on hard problems at all.
 
 I've wondered a lot about why
-[startups](start.html) are most productive at the
+[startups](/read/how-to-start-a-startup) are most productive at the
 very beginning, when they're just a couple guys in an apartment.
 The main reason may be that there's no one to interrupt them yet.
 In theory it's good when the founders finally get enough money to
@@ -120,7 +120,7 @@ is too weak a word. Nearly everyone's is. Unless you're working
 on the biggest things you could be working on, you're type-B
 procrastinating, no matter how much you're getting done.
 
-In his famous essay [You and Your Research](hamming.html)
+In his famous essay [You and Your Research](https://paulgraham.com/hamming.html)
 (which I recommend to
 anyone ambitious, no matter what they're working on), Richard Hamming
 suggests that you ask yourself three questions:
@@ -150,7 +150,7 @@ get yourself to work on it.
 
 Of course, the main reason people find it difficult to work on a
 particular problem is that they don't
-[enjoy](hs.html) it. When you're young,
+[enjoy](/read/what-you-ll-wish-you-d-known) it. When you're young,
 especially, you often find yourself working on stuff you don't
 really like-- because it seems impressive, for example, or because
 you've been assigned to work on it. Most grad students are stuck

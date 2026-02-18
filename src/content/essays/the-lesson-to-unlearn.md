@@ -202,7 +202,7 @@ they'd ask: What makes a startup a good investment?
 
 So I would explain that what makes a startup promising, not just
 in the eyes of investors but in fact, is
-[growth](growth.html).
+[growth](/read/startup-growth).
 Ideally in revenue,
 but failing that in usage. What they needed to do was get lots of
 users.
@@ -217,7 +217,7 @@ No, I would explain, that is not how to get lots of users. The way
 you get lots of users is to make the product really great. Then
 people will not only use it but recommend it to their friends, so
 your growth will be exponential once you
-[get it started](ds.html).
+[get it started](/read/do-things-that-don-t-scale).
 
 At this point I've told the founders something you'd think would
 be completely obvious: that they should make a good company by
@@ -338,7 +338,7 @@ I suspect many people implicitly assume that working in a
 field with bad tests is the price of making lots of money. But that,
 I can tell you, is false. It used to be true. In the mid-twentieth
 century, when the economy was
-[composed of oligopolies](re.html),
+[composed of oligopolies](/read/the-refragmentation),
 the only way
 to the top was by playing their game. But it's not true now. There
 are now ways to get rich by doing good work, and that's part of the
@@ -389,7 +389,7 @@ fact that the same test has to be given to large numbers of students.
 
 [3] Learning is the naive algorithm for getting good grades.
 
-[4] [Hacking](gba.html) has
+[4] [Hacking](/read/the-word-hacker) has
 multiple senses. There's a narrow sense in which
 it means to compromise something. That's the sense in which one
 hacks a bad test. But there's another, more general sense, meaning
@@ -430,7 +430,7 @@ are not unrelated. As Tara Ploughman said, the path from good to
 evil goes through bogus.
 
 [10] People who think the recent increase in
-[economic inequality](ineq.html) is
+[economic inequality](/read/economic-inequality) is
 due to changes in tax policy seem very naive to anyone with experience
 in startups. Different people are getting rich now than used to,
 and they're getting much richer than mere tax savings could make

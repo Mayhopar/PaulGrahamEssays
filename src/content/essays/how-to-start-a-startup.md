@@ -32,7 +32,7 @@ brilliance to solve.
 **The Idea**
 
 In particular, you don't need a brilliant
-[idea](ideas.html) to start a startup
+[idea](/read/ideas-for-startups) to start a startup
 around. The way a startup makes money is to offer people better
 technology than they have now. But what people have now is often
 so bad that it doesn't take brilliance to do better.
@@ -88,7 +88,7 @@ people can fix bad ideas, but good ideas can't save bad people.
 **People**
 
 What do I mean by good people? One of the best tricks I learned
-during [our](road.html) startup was a rule for deciding
+during [our](/read/the-other-road-ahead) startup was a rule for deciding
 who to hire. Could you
 describe the person as an animal? It might be hard to translate
 that into another language, but I think everyone in the US knows
@@ -192,7 +192,7 @@ work well. Business people are bad at deciding what to do with
 technology, because they don't know what the options are, or which
 kinds of problems are hard and which are easy. And when business
 people try to hire hackers, they can't tell which ones are
-[good](gh.html).
+[good](/read/great-hackers).
 Even other hackers have a hard time doing that.
 For business people it's roulette.
 
@@ -560,7 +560,7 @@ work we'd do, which turned out to be a lot.
 
 The next round of funding is the one in which you might deal with
 actual
-[venture capital firms](venturecapital.html).
+[venture capital firms](/read/a-unified-theory-of-vc-suckage).
 But don't wait till you've burned
 through your last round of funding to start approaching them. VCs are slow to
 make up their minds. They can take months. You don't want to be
@@ -858,7 +858,7 @@ of the two numbers?"
 
 As with office space, the number of your employees is a choice
 between seeming impressive, and being impressive. Any of you who
-were [nerds](nerds.html) in high school know about this
+were [nerds](/read/why-nerds-are-unpopular) in high school know about this
 choice. Keep doing it when you start a company.
 
 **Should You?**
@@ -873,7 +873,7 @@ a good thing.
 
 I was, I now realize, exactly the right sort of person to start a
 startup. But the idea terrified me at first. I was forced into
-it because I was a [Lisp](icad.html) hacker. The company
+it because I was a [Lisp](/read/revenge-of-the-nerds) hacker. The company
 I'd been consulting for seemed to be running into trouble, and there
 were not a lot of other companies using Lisp. Since I couldn't
 bear the thought of programming in another language (this was 1995,
@@ -985,7 +985,7 @@ to start software startups. You may worry that if you do you'll
 blow your chances of an academic career. But it's possible to be
 part of a startup and stay in grad school, especially at first.
 Two of our three original hackers were in grad school the whole
-time, and both got their [degrees](tlbphd.html).
+time, and both got their [degrees](https://paulgraham.com/tlbphd.html).
 There are few sources of energy
 so powerful as a procrastinating grad student.
 

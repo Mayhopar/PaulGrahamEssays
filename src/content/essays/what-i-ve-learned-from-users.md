@@ -107,7 +107,7 @@ say 'We wish we'd listened to you.'"
 It took me a long time to figure out why founders don't listen. At
 first I thought it was mere stubbornness. That's part of the reason,
 but another and probably more important reason is that so much about
-startups is [counterintuitive](before.html).
+startups is [counterintuitive](/read/before-the-startup).
 And when you tell someone something
 counterintuitive, what it sounds to them is wrong. So the reason
 founders don't listen to us is that they don't *believe* us. At
@@ -161,7 +161,7 @@ because startups are so counterintuitive generally. And partly
 because many founders, especially young and ambitious ones, have
 been trained to win the wrong way. That took me years to figure
 out. The educational system in most countries trains you to win by
-[hacking the test](lesson.html)
+[hacking the test](/read/the-lesson-to-unlearn)
 instead of actually doing whatever it's supposed
 to measure. But that stops working when you start a startup. So
 part of what YC does is to retrain founders to stop trying to hack
@@ -245,7 +245,7 @@ This situation reminds me of the research showing that people
 are much better at answering questions than they are at judging how
 accurate their answers are. The two phenomena feel very similar.
 [4]
-The [Airbnbs](airbnbs.html) were
+The [Airbnbs](/read/the-airbnbs) were
 particularly good at listening — partly
 because they were flexible and disciplined, but also because they'd
 had such a rough time during the preceding year. They were ready

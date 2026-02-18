@@ -49,7 +49,7 @@ variation increases the chance you'll get that tiny but
 critical delta of novelty.
 
 And of course, ideas beget ideas. (That sounds
-[familiar](ecw.html).)
+[familiar](/read/how-to-be-an-expert-in-a-changing-world).)
 An idea with a small amount of novelty could lead to one
 with more. But only if you keep going. So it's doubly
 important not to let yourself be discouraged by people who

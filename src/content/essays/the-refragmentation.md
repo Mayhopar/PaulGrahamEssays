@@ -249,7 +249,7 @@ institution and work one's way up the hierarchy. Your prestige was
 the prestige of the institution you belonged to. People did start
 their own businesses of course, but educated people rarely did,
 because in those days there was practically zero concept of starting
-what we now call a [startup](growth.html):
+what we now call a [startup](/read/startup-growth):
 a business that starts small and grows
 big. That was much harder to do in the mid 20th century. Starting
 one's own business meant starting a business that would start small
@@ -529,7 +529,7 @@ now, you'd have to induce it deliberately. And it's not obvious
 how. I suspect the best we'll be able to do is address the symptoms
 of fragmentation. But that may be enough.
 
-The form of fragmentation people worry most about lately is [economic inequality](ineq.html), and if you want to eliminate
+The form of fragmentation people worry most about lately is [economic inequality](/read/economic-inequality), and if you want to eliminate
 that you're up against a truly formidable headwind that has
 been in operation since the stone age. Technology.
 
@@ -707,7 +707,7 @@ Even now it's hard to get them to. One of the things I find
 hardest to get into the heads of would-be startup founders is how
 important it is to do certain kinds of menial work early in the
 life of a company. Doing [things that don't
-scale](ds.html) is to how Henry Ford got started as a high-fiber diet is
+scale](/read/do-things-that-don-t-scale) is to how Henry Ford got started as a high-fiber diet is
 to the traditional peasant's diet: they had no choice but to do the
 right thing, while we have to make a conscious effort.
 [16]

@@ -63,7 +63,7 @@ opinions of the elite, others feel a little nervous about it, as
 if they had bad table manners.
 
 For example, according to current NPR values, you
-[can't say](say.html) anything that might be
+[can't say](/read/what-you-can-t-say) anything that might be
 perceived as disparaging towards homosexuals. To do
 so is "homophobic." And yet a large number of Americans are deeply
 religious, and the Bible is quite explicit on the subject of

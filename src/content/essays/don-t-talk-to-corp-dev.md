@@ -60,7 +60,7 @@ offer is surprising, it will be surprisingly low.
 
 Distractions are the thing you can least afford in a startup. And
 conversations with corp dev are the worst sort of distraction,
-because as well as consuming your [attention](top.html) they undermine your
+because as well as consuming your [attention](/read/the-top-idea-in-your-mind) they undermine your
 morale. One of the tricks to surviving a grueling process is not
 to stop and think how tired you are. Instead you get into a sort
 of flow.
@@ -108,7 +108,7 @@ pulled on a YC startup.
 
 The tactics you encounter in M&A conversations can be like nothing
 you've experienced in the otherwise comparatively
-[upstanding](mean.html) world
+[upstanding](/read/mean-people-fail) world
 of Silicon Valley. It's as if a chunk of genetic material from the
 old-fashioned robber baron business world got incorporated into the
 startup world.

@@ -100,7 +100,7 @@ field, but I had till then managed to avoid facing it.
 
 That was one of the most valuable things I learned from painting:
 you have to figure out for yourself what's
-[good](taste.html). You can't trust
+[good](/read/taste-for-makers). You can't trust
 authorities. They'll lie to you on this one.
 
 [Comment](http://reddit.com/info/9bm4/comments) on this essay.

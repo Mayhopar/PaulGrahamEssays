@@ -23,10 +23,10 @@ best places to look is in fields that people think have already been
 fully explored: essays, Lisp, venture funding  you may notice a
 pattern here. If you can find a new approach into a big but apparently
 played out field, the value of whatever you discover will be
-[multiplied](sun.html) by its enormous surface area.
+[multiplied](/read/general-and-surprising) by its enormous surface area.
 
 The best protection against getting drawn into working on the same
 things as everyone else may be to [genuinely
-love](genius.html) what you're doing.
+love](/read/the-bus-ticket-theory-of-genius) what you're doing.
 Then you'll continue to work on it even if you make the same mistake
 as other people and think that it's too marginal to matter.
